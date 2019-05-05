@@ -161,17 +161,16 @@
 													<div class="collection-feed-item__background" style="background-image:linear-gradient(to bottom, rgba(0,0,0,0), rgba(32,32,32,1.0)), url(&#39;{{ getResizedBackgroundURL(game.background, 640) }}&#39;)"></div>
 
 													<div class="game-card-compact game-card-compact_large collection-feed-item__game-card" itemscope="" itemtype="http://schema.org/VideoGame">
-														<meta itemprop="name" content="{{ game.name }}">
-														<meta itemprop="url" content="/games/{{ game.slug }}">
-														<meta itemprop="category" content="Full Game">
-														<meta itemprop="applicationCategory" content="Game">
-														
-														<a role="button" tabindex="0" class="game-card-compact__media" href="https://rawg.io/games/{{ game.slug }}" target="_blank">
-															<span role="button" tabindex="0" class="game-card-compact__cover" style="background-image:url(&#39;{{ getResizedBackgroundURL(game.background, 420) }}&#39;)"></span>
+														<span class="game-card-compact__media">
+															<span role="button" tabindex="0" class="game-card-compact__cover" style="background-image:url(&#39;{{ getResizedBackgroundURL(game.background, 420) }}&#39;)">
+																<span ng-if="game.clip" class="play-button-container">
+																	<span class="play-button-icon"></span>
+																</span>
+															</span>
 															<div ng-if="game.ratingDisplay" class="rating rating_emoji rating_recommended game-card-compact__rating" title="{{ game.ratingDisplay }}" role="button" tabindex="0">
 																<div class="rating__icon rating__icon_{{ game.ratingDisplay }}"></div>
 															</div>
-														</a>
+														</span>
 
 														<div class="game-card-compact__info">
 															<div class="game-card-compact__meta">
@@ -184,6 +183,10 @@
 															<a class="game-card-compact__heading game-card-compact__heading_with-link" href="https://rawg.io/games/{{ game.slug }}" target="_blank">{{ game.name }}</a>
 														</div>
 													</div>
+
+													<a ng-if="game.clip" href="{{ game.clip.clip }}" target="_blank">
+														<video class="game-card-video" poster="{{ game.clip.preview }}" src="{{ getTrustedURL(game.clip.clip) }}" autoplay="true" muted="true" loop="true"></video>
+													</a>
 												</div>
 											</div>
 										</div>
@@ -214,8 +217,12 @@
 			left: 0px!important;
 		}
 
+		.platforms__platform_android {
+			background-image: url(assets/aa01b227297aaa025158e10061c66b61.svg);
+		}
+
 		.platforms__platform_linux {
-		    background-image: url(assets/a5b84da427ce7b4935d2f68d33f6f043.svg);
+			background-image: url(assets/a5b84da427ce7b4935d2f68d33f6f043.svg);
 		}
 
 		.rating__icon_recommended {
@@ -352,6 +359,54 @@
 
 		.slimscroll::-webkit-scrollbar-thumb:window-inactive {
 			background-color: #ccc;
+		}
+
+		.collection-feed-item {
+			position: relative;
+		}
+
+		.game-card-video {
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			width: 100%;
+			height: 100%;
+			z-index: 3;
+			background: rgba(0, 0, 0, 0.75);
+
+			opacity: 0;
+			visibility: hidden;
+		}
+
+		.collection-feed-item:hover .game-card-video {
+			opacity: 1;
+			visibility: visible;
+			transition: visibility 0s, opacity 0.5s;
+			transition-delay: 0.8s;
+		}
+
+		.collection-feed-item .game-card-compact__cover {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.collection-feed-item .play-button-container {
+			padding: 15px;
+			background-color: #00000096;
+			border-radius: 60%;
+			border: 2px solid white;
+			width: 10%;
+			height: 10%;
+		}
+
+		.collection-feed-item .play-button-container > .play-button-icon {
+			width: 0;
+		    height: 0;
+		    border-style: solid;
+		    border-width: 5px 0px 5px 10px;
+		    display: block;
+		    border-color: transparent transparent transparent #ffffff;
 		}
 	</style>
 </html>

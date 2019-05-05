@@ -1,7 +1,7 @@
 ﻿const debug = true
 nxGamesCollection = angular.module("nxGamesCollection", [])
 
-nxGamesCollection.controller('MainController', ['$scope', '$http', function($scope, $http) {
+nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', function($scope, $http, $sce) {
 	$scope.sort = {
 		fields: [
 			{
@@ -73,8 +73,11 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 		}
 	}
 
+	$scope.getTrustedURL = function (url) {
+		return $sce.trustAsResourceUrl(url)
+	}
+
 	$scope.toggleRateDisplayType = function (rateDisplayType) {
-		console.log(rateDisplayType)
 		$scope.ratingDisplayTypes[rateDisplayType].active = !$scope.ratingDisplayTypes[rateDisplayType].active
 		$scope.filterGames()
 	}
