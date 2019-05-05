@@ -40,6 +40,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 	.then(response => {
 		$scope.games = response.data
 		$scope.lastUpdated = moment(_.maxBy($scope.games, 'updatedAt').updatedAt).format('MMMM DD, YYYY')
+		$scope.lastPopular = _($scope.games).filter(game => game.ratingDisplay === 'exceptional').maxBy('updatedAt')
 	})
 	.finally(() => {
 		$scope.loading = false
