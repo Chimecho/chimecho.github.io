@@ -47,6 +47,14 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 		$scope.filterGames()
 	})
 
+	$scope.getResizedBackgroundURL = function (url, size) {
+		if (!size) {
+			return url
+		}
+
+		return url.replace('/media/', `/media/resize/${size}/-/`)
+	}
+
 	$scope.addGameLimit = function () {
 		$scope.gamesLimit += 10
 	}
