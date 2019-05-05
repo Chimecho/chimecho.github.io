@@ -59,12 +59,12 @@
 		<div id="root">
 			<div class="app" ng-controller="MainController">
 				<div class="page collection">
-					<header class="header header_with-subheader page__header">
-						<div ng-hide="loading" class="header__wrapper">
-							<div class="header__item header__item_search">
-								<div class="header__item header__item_center header__search">
-									<form class="header__search__form" role="search">
-										<div class="header__search__input__area">
+					<header class="header header_with-subheader page__header" style="display: block; height: fit-content;">
+						<div ng-hide="loading" class="header__wrapper" style="padding: 0px 25px; padding-top: 10px;">
+							<div class="header__item header__item_search" style="margin: 0px; width: 100%; padding-left: 0px;">
+								<div class="header__item header__item_center header__search" style="padding-left: 0px; width: 100%">
+									<form class="header__search__form" role="search" style="margin: 0px; width: 100%;">
+										<div class="header__search__input__area" style="width: 100%;">
 											<input autofocus type="text" class="header__search__input" role="searchbox" placeholder="Search {{ loading ? '...' : games.length }} games" ng-model="search" ng-change="filterGames()">
 										</div>
 										<div class="dropdown dropdown_search-suggestions header__search__suggestions" id="dropdown-container">
@@ -85,12 +85,12 @@
 							</div>
 						</div>
 
-						<div ng-if="!loading" class="header__subheader">
-							<div class="subheader" style="min-height: 100px;">
-								<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block;">
+						<div ng-if="!loading" class="header__subheader" style="height: fit-content;">
+							<div class="subheader" style="padding-bottom: 20px;">
+								<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block; max-width: 100%; padding: 0px 25px;">
 									<div style="margin-top: 10px; font-size: 16px;">Ratings</div>
 									<ul class="tabs__list">
-										<li class="tabs__item">
+										<li class="tabs__item slimscroll" style="overflow: auto; display: flex;">
 											<a ng-repeat="ratingDisplayType in ratingDisplayTypesArray" class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': ratingDisplayType.active}" ng-click="toggleRateDisplayType(ratingDisplayType.key)">
 												<div class="rating__icon rating__icon_{{ ratingDisplayType.key }}" style="width: 15px; display: inline-block; margin-right: 10px;"></div>
 												<span class="tab__name">
@@ -101,37 +101,42 @@
 									</ul>
 								</nav>
 
-								<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block; float: right;">
-									<div style="margin-top: 10px; font-size: 16px;">Direction</div>
-									<ul class="tabs__list">
-										<li class="tabs__item">
-											<a class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.asc}" ng-click="changeSort({asc: true})">
-												<span class="tab__name">
-													Asc (A &rarr; Z)</span>
-												</span>
-											</a>
+								<div style="max-width: 100%; overflow: auto; display: inline-block;">
+									<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block; max-width: 100%; padding: 0px 25px;">
+										<div style="margin-top: 10px; font-size: 16px;">Sort</div>
+										<ul class="tabs__list">
+											<li class="tabs__item slimscroll" style="overflow: auto; display: flex;">
+												<a ng-repeat="sortOption in sort.fields" class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.field === sortOption.field}" ng-click="changeSort({field: sortOption.field})">
+													<div style="height: 32px; display: inline-block;"></div>
+													<span class="tab__name">
+														{{ sortOption.label }}</span>
+													</span>
+												</a>
+											</li>
+										</ul>
+									</nav>
 
-											<a class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': !sort.asc}" ng-click="changeSort({asc: false})">
-												<span class="tab__name">
-													Desc (Z &rarr; A)</span>
-												</span>
-											</a>
-										</li>
-									</ul>
-								</nav>
+									<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block; max-width: 100%; padding: 0px 25px;">
+										<div style="margin-top: 10px; font-size: 16px;">Direction</div>
+										<ul class="tabs__list">
+											<li class="tabs__item slimscroll" style="overflow: auto; display: flex;">
+												<a class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.asc}" ng-click="changeSort({asc: true})">
+													<div style="height: 32px; display: inline-block;"></div>
+													<span class="tab__name">
+														Asc (A &rarr; Z)</span>
+													</span>
+												</a>
 
-								<nav class="tabs subheader__tabs" style="width: fit-content; display: inline-block; float: right;">
-									<div style="margin-top: 10px; font-size: 16px;">Sort</div>
-									<ul class="tabs__list">
-										<li class="tabs__item">
-											<a ng-repeat="sortOption in sort.fields" class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.field === sortOption.field}" ng-click="changeSort({field: sortOption.field})">
-												<span class="tab__name">
-													{{ sortOption.label }}</span>
-												</span>
-											</a>
-										</li>
-									</ul>
-								</nav>
+												<a class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': !sort.asc}" ng-click="changeSort({asc: false})">
+													<div style="height: 32px; display: inline-block;"></div>
+													<span class="tab__name">
+														Desc (Z &rarr; A)</span>
+													</span>
+												</a>
+											</li>
+										</ul>
+									</nav>
+								</div>
 							</div>
 						</div>
 					</header>
@@ -149,17 +154,16 @@
 								</div>
 
 								<div class="collection-title">
-									<h1 class="heading heading_1 collection-title__heading">Switch Games </h1>
+									<h1 class="heading heading_1 collection-title__heading" style="margin-bottom: 0px">Switch Games </h1>
 								</div>
 
-								<div class="collection-counts">
+								<div class="collection-counts" style="margin-bottom: 0px;">
 									<div class="collection-counts__item-counts">
 										<span><span ng-if="loading">...</span><span ng-if="!loading">{{ filteredGames.length }}</span> game{{ filteredGames.length === 1 ? '' : 's' }}</span>
 									</div>
 								</div>
 
 								<div>
-									<div class="collection-description">My switch games collection!</div>
 									<div class="collection-feed">
 										<div class="load-more" id="load-more-button">
 											<div ng-repeat="game in filteredGames | orderBy:sort.field:!sort.asc | limitTo: gamesLimit" id="{{ game.id }}">
@@ -336,6 +340,28 @@
 
 		.header__wrapper, .subheader {
 			background-color: rgba(36, 36, 36, 0.8)!important;
+		}
+
+
+
+		.slimscroll::-webkit-scrollbar {
+			width: 5px;
+			height: 14px;
+		}
+
+		.slimscroll::-webkit-scrollbar-track {
+			opacity: 0;
+		}
+
+		.slimscroll::-webkit-scrollbar-thumb {
+			border: 5px solid transparent;
+			background-clip: padding-box;
+			border-radius: 7px;
+			background-color: #ddd;
+		}
+
+		.slimscroll::-webkit-scrollbar-thumb:window-inactive {
+			background-color: #ccc;
 		}
 	</style>
 </html>
