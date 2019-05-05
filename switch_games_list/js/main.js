@@ -28,6 +28,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 	$scope.ratingDisplayTypes = {}
 	$scope.ratingDisplayTypesArray = []
 	$scope.maxPlatformsToShow = 4
+	$scope.gamesLimit = 10
 
 	$scope.loading = true
 
@@ -44,6 +45,10 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 		$scope.loading = false
 		$scope.filterGames()
 	})
+
+	$scope.addGameLimit = function () {
+		$scope.gamesLimit += 10
+	}
 
 	$scope.changeSort = function ({field = undefined, asc = undefined}) {
 		if (field !== undefined) {
@@ -119,6 +124,8 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 
 			return true
 		})
+
+		$scope.gamesLimit = 10
 	}
 }])
 
