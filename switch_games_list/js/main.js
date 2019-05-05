@@ -6,19 +6,23 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 		fields: [
 			{
 				field: 'updatedAt',
-				label: 'Date added'
+				label: 'Date added',
+				defaultAsc: false
 			},
 			{
 				field: 'name',
-				label: 'Name'
+				label: 'Name',
+				defaultAsc: true
 			},
 			{
 				field: 'ratingValue',
-				label: 'Rating'
+				label: 'Rating',
+				defaultAsc: true
 			},
 			{
 				field: 'released',
-				label: 'Released'
+				label: 'Released',
+				defaultAsc: false
 			},
 		],
 		field: 'updatedAt',
@@ -48,11 +52,11 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', function($sco
 	})
 
 	$scope.getResizedBackgroundURL = function (url, size) {
-		if (!size) {
+		if (!size || !url) {
 			return url
 		}
 
-		return url.replace('/media/', `/media/resize/${size}/-/`)
+		return (url || '').replace('/media/', `/media/resize/${size}/-/`)
 	}
 
 	$scope.addGameLimit = function () {

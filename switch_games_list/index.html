@@ -96,7 +96,7 @@
 										<div style="margin-top: 10px; font-size: 16px;">Sort</div>
 										<ul class="tabs__list">
 											<li class="tabs__item slimscroll" style="overflow: auto; display: flex;">
-												<a ng-repeat="sortOption in sort.fields" class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.field === sortOption.field}" ng-click="changeSort({field: sortOption.field})">
+												<a ng-repeat="sortOption in sort.fields" class="tab subheader__tab ch-button" style="margin-right: 10px;" ng-class="{'active': sort.field === sortOption.field}" ng-click="changeSort({field: sortOption.field, asc: sortOption.defaultAsc})">
 													<div style="height: 32px; display: inline-block;"></div>
 													<span class="tab__name">
 														{{ sortOption.label }}</span>
