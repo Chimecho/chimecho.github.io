@@ -101,7 +101,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
 									.map(game => game.ratingDisplay)
 									.groupBy()
 									.mapKeys((values, rateDisplayType) => {
-										return rateDisplayType === 'null' ? 'Other' : rateDisplayType
+										return rateDisplayType === 'null' ? 'other' : rateDisplayType
 									})
 									.mapValues((values, rateDisplayType) => {
 										return {
@@ -130,7 +130,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
 										})
 
 		$scope.filteredGames = _.filter($scope.filteredGames, game => {
-			let activeRatingDisplayTypesFilters = _.filter($scope.ratingDisplayTypes, ratingDisplayType => ratingDisplayType.active).map(ratingDisplayType => ratingDisplayType.key)
+			let activeRatingDisplayTypesFilters = _.filter($scope.ratingDisplayTypes, ratingDisplayType => ratingDisplayType.active).map(ratingDisplayType => ratingDisplayType.key === 'other' ? null : ratingDisplayType.key)
 
 			if (activeRatingDisplayTypesFilters.length > 0) {
 				if (!activeRatingDisplayTypesFilters.includes(game.ratingDisplay)) {
