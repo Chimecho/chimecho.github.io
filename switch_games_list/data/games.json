@@ -1,5 +1,4100 @@
 [
   {
+    "id": 292819,
+    "updatedAt": "2019-05-18T04:21:31.069276Z",
+    "slug": "assassins-creed-iii-remastered",
+    "name": "Assassin's Creed III Remastered",
+    "released": "2019-03-29",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.24,
+    "ratingsCount": 21,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/d5d/d5da50c4c6116c40541c90803913285d.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/629/62961c00af5d6e7670410d1533fe53d6.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/4b2/4b2e7d22a67e14a8f6cb5451980373a4.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/d5d/d5da50c4c6116c40541c90803913285d.jpg"
+      },
+      {
+        "id": 1837389,
+        "url": "https://media.rawg.io/media/screenshots/5a6/5a61409776ff0e8462a214c551ebaeac.jpg"
+      },
+      {
+        "id": 1837390,
+        "url": "https://media.rawg.io/media/screenshots/bd1/bd199720d377bc18b17fea44d594aca3.jpg"
+      },
+      {
+        "id": 1837391,
+        "url": "https://media.rawg.io/media/screenshots/5f1/5f17cfe792b1061d98182708f47742ca.jpg"
+      },
+      {
+        "id": 1837392,
+        "url": "https://media.rawg.io/media/screenshots/d66/d666ded83ee3ca71ced3e1ccd416f6ef.jpg"
+      },
+      {
+        "id": 1837393,
+        "url": "https://media.rawg.io/media/screenshots/89b/89b7d2eef2ee0410344a2d66e89cc11e.jpg"
+      },
+      {
+        "id": 1837394,
+        "url": "https://media.rawg.io/media/screenshots/bde/bde2eaac8b6dd3bd0c68b0e741f87933.jpg"
+      }
+    ]
+  },
+  {
+    "id": 58878,
+    "updatedAt": "2019-05-18T04:21:09.945679Z",
+    "slug": "team-sonic-racing",
+    "name": "Team Sonic Racing",
+    "released": "2019-05-21",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/069/069ac576aa3cc90a2b720ed15c31b0c9.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/efc/efceb18678f018d7102de4fb1ef3ab4f.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/485/4855664478acb79aa95f406b91a34e52.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/069/069ac576aa3cc90a2b720ed15c31b0c9.jpg"
+      },
+      {
+        "id": 779689,
+        "url": "https://media.rawg.io/media/screenshots/0c9/0c90d37094afa690d613eafb7343ea16.jpg"
+      },
+      {
+        "id": 779690,
+        "url": "https://media.rawg.io/media/screenshots/7b7/7b78dbc2dc73d5ee73d4a592b6ebc497.jpg"
+      },
+      {
+        "id": 779691,
+        "url": "https://media.rawg.io/media/screenshots/e06/e06b3b2ca0b830b21b83407166d2f754.jpg"
+      },
+      {
+        "id": 779692,
+        "url": "https://media.rawg.io/media/screenshots/da8/da8dc0ea6d69b46cadcb24ec19b0fda5.jpg"
+      },
+      {
+        "id": 779693,
+        "url": "https://media.rawg.io/media/screenshots/ff6/ff635202407cf2c254c6a3da7f0e8625.jpg"
+      },
+      {
+        "id": 779694,
+        "url": "https://media.rawg.io/media/screenshots/c8b/c8b4aa1d254f26f8013fb6813a331200.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4203,
+    "updatedAt": "2019-05-18T04:20:37.533089Z",
+    "slug": "saints-row-the-third-the-full-package",
+    "name": "Saints Row: The Third - The Full Package",
+    "released": "2011-11-16",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.8,
+    "ratingsCount": 15,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/85b/85b379b20a61f71371266d2a2596fb19_daYVPfW.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/6c3/6c3ab60ce7ce625b65fe560b786e7d04.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/032/03246fe8d99ff979bbeed358581977b2.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/85b/85b379b20a61f71371266d2a2596fb19_daYVPfW.jpg"
+      },
+      {
+        "id": 227368,
+        "url": "https://media.rawg.io/media/screenshots/68f/68f1a5e070faf054eedbd75ba41eddd8_oul7qhU.jpg"
+      },
+      {
+        "id": 227369,
+        "url": "https://media.rawg.io/media/screenshots/a37/a373897d6eca17b6c61275d287939384.jpg"
+      },
+      {
+        "id": 227370,
+        "url": "https://media.rawg.io/media/screenshots/cc3/cc31a8866cf410ccb2599c4e152c4b3e.jpg"
+      },
+      {
+        "id": 227371,
+        "url": "https://media.rawg.io/media/screenshots/7ff/7ffc2e9ba155ec4421b580a93fbf596e_hO9BSRK.jpg"
+      },
+      {
+        "id": 227372,
+        "url": "https://media.rawg.io/media/screenshots/31b/31b4f8d8e8714df54b133750bb6f4df6.jpg"
+      },
+      {
+        "id": 227373,
+        "url": "https://media.rawg.io/media/screenshots/70c/70c09683aa2a9a6716a565e640da293b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 304921,
+    "updatedAt": "2019-05-18T04:20:18.507074Z",
+    "slug": "sniper-elite-v2-remastered",
+    "name": "Sniper Elite V2 Remastered",
+    "released": "2019-05-13",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 2,
+        "name": "Shooter",
+        "slug": "shooter"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/c98/c98b642068246dc65202bf27eee0fc89.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/45f/45f85b513389574fbfc74c232c85d6ea.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/542/542ff0142ae5f21c13fb3975563c1fbf.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/c98/c98b642068246dc65202bf27eee0fc89.jpg"
+      },
+      {
+        "id": 1879952,
+        "url": "https://media.rawg.io/media/screenshots/efe/efefefb27dd3f080f610d56deaee9d36.jpg"
+      },
+      {
+        "id": 1879953,
+        "url": "https://media.rawg.io/media/screenshots/604/6046a5a34772ef68dab5b6c05830fde2.jpg"
+      },
+      {
+        "id": 1879954,
+        "url": "https://media.rawg.io/media/screenshots/990/9904376da6a834f0bdcd5a2f4802bb39.jpg"
+      },
+      {
+        "id": 1879955,
+        "url": "https://media.rawg.io/media/screenshots/f55/f55afad09435781ac6b3818446dba089.jpg"
+      },
+      {
+        "id": 1879956,
+        "url": "https://media.rawg.io/media/screenshots/1ae/1ae1d758fe7cc918acfdcb082d28584d.jpg"
+      },
+      {
+        "id": 1879957,
+        "url": "https://media.rawg.io/media/screenshots/348/3487ec1d2ed259ffc6845cb38d53e072.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17179,
+    "updatedAt": "2019-05-18T04:19:36.249203Z",
+    "slug": "resident-evil-0",
+    "name": "Resident Evil 0 / biohazard 0 HD REMASTER",
+    "released": "2016-01-19",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.96,
+    "ratingsCount": 84,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/955/9554440f1c17236c0233b644e47909d2.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/02e/02eab27f248560293f49ca020c928382.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/a9b/a9bd4122f330b252aefbc1d7fce029e9.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/955/9554440f1c17236c0233b644e47909d2.jpg"
+      },
+      {
+        "id": 156061,
+        "url": "https://media.rawg.io/media/screenshots/0f7/0f75866f9cf36bb30544b93e39333c05.jpg"
+      },
+      {
+        "id": 156062,
+        "url": "https://media.rawg.io/media/screenshots/8a9/8a903179bac07067039b7c2ca34eb4bf.jpg"
+      },
+      {
+        "id": 156063,
+        "url": "https://media.rawg.io/media/screenshots/a25/a259130e9f5ba944418a44da74f6d95f.jpg"
+      },
+      {
+        "id": 156064,
+        "url": "https://media.rawg.io/media/screenshots/144/14416224e5421bd841dc8035de5f37d7.jpg"
+      },
+      {
+        "id": 156065,
+        "url": "https://media.rawg.io/media/screenshots/f60/f6082bf582e676ecf7d9d4ea18f5579f.jpg"
+      },
+      {
+        "id": 156066,
+        "url": "https://media.rawg.io/media/screenshots/e23/e2387b601c24628ae9e0d5729a533b82.jpg"
+      }
+    ]
+  },
+  {
+    "id": 320349,
+    "updatedAt": "2019-05-18T04:18:40.601978Z",
+    "slug": "machiknights-blood-bagos",
+    "name": "MachiKnights Blood Bagos",
+    "released": "2019-05-09",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 6,
+        "name": "Fighting",
+        "slug": "fighting"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/b0d/b0dab348bd92718f47039248d9991a91.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/b0d/b0dab348bd92718f47039248d9991a91.jpg"
+      },
+      {
+        "id": 1934841,
+        "url": "https://media.rawg.io/media/screenshots/e90/e9045cb04a3ac930c62d537b8ef019db.jpg"
+      },
+      {
+        "id": 1934842,
+        "url": "https://media.rawg.io/media/screenshots/f10/f102dc4230d598a723560de9d18f6bbe.jpg"
+      },
+      {
+        "id": 1934843,
+        "url": "https://media.rawg.io/media/screenshots/da9/da987adb34184ac473c6db233ade2db6.jpg"
+      },
+      {
+        "id": 1934844,
+        "url": "https://media.rawg.io/media/screenshots/d58/d58aa0b075983311ebad12c975a643e2.jpg"
+      },
+      {
+        "id": 1934845,
+        "url": "https://media.rawg.io/media/screenshots/81a/81a968bb532059c1785262afa5bafb31.jpg"
+      },
+      {
+        "id": 1934846,
+        "url": "https://media.rawg.io/media/screenshots/0ca/0ca83c88b0d8133a7b4ff5fed1ed9513.jpg"
+      }
+    ]
+  },
+  {
+    "id": 320348,
+    "updatedAt": "2019-05-18T02:55:34.073882Z",
+    "slug": "hexagravity",
+    "name": "Hexagravity",
+    "released": "2019-05-02",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/870/870a05142007578fc26bfcb4d1d22564.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/870/870a05142007578fc26bfcb4d1d22564.jpg"
+      },
+      {
+        "id": 1934835,
+        "url": "https://media.rawg.io/media/screenshots/bc1/bc146becc67514b97d2760be9e4e62a7.jpg"
+      },
+      {
+        "id": 1934836,
+        "url": "https://media.rawg.io/media/screenshots/200/200007851cc697e3a916e43485e6b921.jpg"
+      },
+      {
+        "id": 1934837,
+        "url": "https://media.rawg.io/media/screenshots/3ce/3ce5067239a8fbb09b15942e54bddc7f.jpg"
+      },
+      {
+        "id": 1934838,
+        "url": "https://media.rawg.io/media/screenshots/c40/c40309bfcceacccd7d4bfd3c8fb59321.jpg"
+      },
+      {
+        "id": 1934839,
+        "url": "https://media.rawg.io/media/screenshots/982/98250e4c1102b343c451656e7f4cbf53.jpg"
+      },
+      {
+        "id": 1934840,
+        "url": "https://media.rawg.io/media/screenshots/870/870a05142007578fc26bfcb4d1d22564.jpg"
+      }
+    ]
+  },
+  {
+    "id": 320347,
+    "updatedAt": "2019-05-18T02:52:02.291533Z",
+    "slug": "dragon-snakes",
+    "name": "Dragon Snakes",
+    "released": "2019-05-09",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/ee8/ee8adabb7e4d1f0e81275a9dee477d5d.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/ee8/ee8adabb7e4d1f0e81275a9dee477d5d.jpg"
+      },
+      {
+        "id": 1934828,
+        "url": "https://media.rawg.io/media/screenshots/c12/c1268d99f0cb6e3b7debabf498b964f7.jpg"
+      },
+      {
+        "id": 1934829,
+        "url": "https://media.rawg.io/media/screenshots/d7e/d7e9e1edce309ca402403e60d20bed27.jpg"
+      },
+      {
+        "id": 1934830,
+        "url": "https://media.rawg.io/media/screenshots/77d/77d8a18cd3c474d5cadc1a3f9b79a1d8.jpg"
+      },
+      {
+        "id": 1934831,
+        "url": "https://media.rawg.io/media/screenshots/3ad/3ad7d841a2e31538862623a3ba365b8c.jpg"
+      },
+      {
+        "id": 1934832,
+        "url": "https://media.rawg.io/media/screenshots/f19/f1916848d58eedc223061001cb38f6f5.jpg"
+      },
+      {
+        "id": 1934833,
+        "url": "https://media.rawg.io/media/screenshots/5ae/5ae071686676c5592934497e8b6d1bf0.jpg"
+      }
+    ]
+  },
+  {
+    "id": 320346,
+    "updatedAt": "2019-05-18T02:48:50.000679Z",
+    "slug": "dragon-pinball",
+    "name": "Dragon Pinball",
+    "released": "2019-05-10",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/8b9/8b9d4e10251e3fb58997a931d9e0f2f4.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/8b9/8b9d4e10251e3fb58997a931d9e0f2f4.jpg"
+      },
+      {
+        "id": 1934822,
+        "url": "https://media.rawg.io/media/screenshots/5ea/5ea86bd696e50ef535a4eebc7297a147.jpg"
+      },
+      {
+        "id": 1934823,
+        "url": "https://media.rawg.io/media/screenshots/4d8/4d8844a16ea6770f98bfb5498a7747c5.jpg"
+      },
+      {
+        "id": 1934824,
+        "url": "https://media.rawg.io/media/screenshots/27c/27c68814d2d48dd4536c8ac4f770853b.jpg"
+      },
+      {
+        "id": 1934825,
+        "url": "https://media.rawg.io/media/screenshots/ee5/ee5855327b0e19ad8b956168efa5d316.jpg"
+      },
+      {
+        "id": 1934826,
+        "url": "https://media.rawg.io/media/screenshots/af6/af667e836d2b7aecd3f5c199de2c22a5.jpg"
+      },
+      {
+        "id": 1934827,
+        "url": "https://media.rawg.io/media/screenshots/8b9/8b9d4e10251e3fb58997a931d9e0f2f4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 320345,
+    "updatedAt": "2019-05-18T02:44:35.045466Z",
+    "slug": "beyond-enemy-lines-covert-operations",
+    "name": "Beyond Enemy Lines: Covert Operations",
+    "released": "2019-04-23",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 2,
+        "name": "Shooter",
+        "slug": "shooter"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/5f4/5f4e2d4443ecedfd5c9f4d1e5c72fc5c.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/5f4/5f4e2d4443ecedfd5c9f4d1e5c72fc5c.jpg"
+      },
+      {
+        "id": 1934815,
+        "url": "https://media.rawg.io/media/screenshots/cb7/cb70a95593d035541b65515102550ac5.jpg"
+      },
+      {
+        "id": 1934816,
+        "url": "https://media.rawg.io/media/screenshots/5ea/5ea9da89508878d0ae1dc7a4d8fc8392.jpg"
+      },
+      {
+        "id": 1934817,
+        "url": "https://media.rawg.io/media/screenshots/d68/d68be8756a7d5279bae86ad04ba33944.jpg"
+      },
+      {
+        "id": 1934818,
+        "url": "https://media.rawg.io/media/screenshots/2bd/2bd7592cc7330a1271b7fdf9dcfc86b3.jpg"
+      },
+      {
+        "id": 1934819,
+        "url": "https://media.rawg.io/media/screenshots/39d/39d24418942d7483917affbc3d8e35ec.jpg"
+      },
+      {
+        "id": 1934820,
+        "url": "https://media.rawg.io/media/screenshots/5ce/5ce3743452194898a48aa83c9dd49758.jpg"
+      }
+    ]
+  },
+  {
+    "id": 313859,
+    "updatedAt": "2019-05-18T02:34:09.783544Z",
+    "slug": "bird-game-3",
+    "name": "Bird Game +",
+    "released": "2019-04-30",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/b97/b97dd50d686f459ee7eb3ed134d70d3a.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/b97/b97dd50d686f459ee7eb3ed134d70d3a.jpg"
+      },
+      {
+        "id": 1913369,
+        "url": "https://media.rawg.io/media/screenshots/3fa/3faa409088eb6973c980ba8789df1e95.jpg"
+      },
+      {
+        "id": 1913370,
+        "url": "https://media.rawg.io/media/screenshots/6cb/6cb07c5ed1a682f314e13d094ab347ca.jpg"
+      },
+      {
+        "id": 1913371,
+        "url": "https://media.rawg.io/media/screenshots/f27/f2772f8f3cfd3099a47a4d6e99c7575e.jpg"
+      },
+      {
+        "id": 1913372,
+        "url": "https://media.rawg.io/media/screenshots/7b4/7b49777ccea3d40ded6cae33bc25506b.jpg"
+      },
+      {
+        "id": 1913373,
+        "url": "https://media.rawg.io/media/screenshots/3fa/3faad6b52648d91db89cb3af024a5591.jpg"
+      },
+      {
+        "id": 1913374,
+        "url": "https://media.rawg.io/media/screenshots/bc2/bc271266f5d84728c0d99c6dea79c67d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 49899,
+    "updatedAt": "2019-05-18T02:33:38.961601Z",
+    "slug": "dig-dog",
+    "name": "Dig Dog",
+    "released": null,
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/769/769dc3678aaf08c1b9f08aea23c7c25a.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/769/769dc3678aaf08c1b9f08aea23c7c25a.jpg"
+      },
+      {
+        "id": 702262,
+        "url": "https://media.rawg.io/media/screenshots/5f3/5f395c4ce7746fcc9301fbfaf6a52e20.jpg"
+      },
+      {
+        "id": 702263,
+        "url": "https://media.rawg.io/media/screenshots/d67/d670811cbca774179c22b0501773fad6.jpg"
+      },
+      {
+        "id": 702264,
+        "url": "https://media.rawg.io/media/screenshots/b20/b20df949e579ee8a443c4ea7cfa2a922.jpg"
+      },
+      {
+        "id": 702265,
+        "url": "https://media.rawg.io/media/screenshots/6cb/6cb42df8ced30d175d8bdb8dc320dc3e.jpg"
+      },
+      {
+        "id": 702266,
+        "url": "https://media.rawg.io/media/screenshots/245/2453bd20e412235d87b0ee4ff2d0b310.jpg"
+      },
+      {
+        "id": 702267,
+        "url": "https://media.rawg.io/media/screenshots/769/769dc3678aaf08c1b9f08aea23c7c25a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 14784,
+    "updatedAt": "2019-05-18T02:31:00.101732Z",
+    "slug": "blades-of-time",
+    "name": "Blades of Time",
+    "released": "2012-03-06",
+    "ratingDisplay": "meh",
+    "ratingValue": -3.28,
+    "ratingsCount": 25,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/d0e/d0e140db619c507f12de7bc043cdd46d.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/d0e/d0e140db619c507f12de7bc043cdd46d.jpg"
+      },
+      {
+        "id": 129436,
+        "url": "https://media.rawg.io/media/screenshots/dd2/dd276dc7880c429673780e1f16912227.jpg"
+      },
+      {
+        "id": 129437,
+        "url": "https://media.rawg.io/media/screenshots/3fc/3fc2d23165525f08f69e27f6e4ae8240.jpg"
+      },
+      {
+        "id": 129438,
+        "url": "https://media.rawg.io/media/screenshots/60e/60eb72bb919c9df3da25ec1e823c63a2.jpg"
+      },
+      {
+        "id": 129439,
+        "url": "https://media.rawg.io/media/screenshots/8b6/8b65ebab105d794f3ce90b4c54d96431.jpg"
+      },
+      {
+        "id": 129440,
+        "url": "https://media.rawg.io/media/screenshots/4b6/4b69cc1fc3de68ab13f56134cd5513cd.jpg"
+      },
+      {
+        "id": 129441,
+        "url": "https://media.rawg.io/media/screenshots/283/283292f7483c6ef38e1cc4c80ce682ad.jpg"
+      }
+    ]
+  },
+  {
+    "id": 259826,
+    "updatedAt": "2019-05-18T02:10:17.316985Z",
+    "slug": "zeroptian-invasion",
+    "name": "Zeroptian Invasion",
+    "released": "2019-04-23",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 2,
+        "name": "Shooter",
+        "slug": "shooter"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f45/f453ffeea8c58c0b0bef15ff012468e6.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f45/f453ffeea8c58c0b0bef15ff012468e6.jpg"
+      },
+      {
+        "id": 1709940,
+        "url": "https://media.rawg.io/media/screenshots/91f/91fdf4f94f869885bed04c2a80ce9dce.jpg"
+      },
+      {
+        "id": 1709941,
+        "url": "https://media.rawg.io/media/screenshots/b90/b9094af8ebcfcabf113c4b982ea02544.jpg"
+      },
+      {
+        "id": 1709942,
+        "url": "https://media.rawg.io/media/screenshots/d01/d01d34e243b001ab933d17ac0c322a78.jpg"
+      },
+      {
+        "id": 1709943,
+        "url": "https://media.rawg.io/media/screenshots/1e2/1e21f16db4f8a110bc7e8779758e6147.jpg"
+      },
+      {
+        "id": 1709944,
+        "url": "https://media.rawg.io/media/screenshots/41e/41ec4c3a749798ef07a685e966cca229.jpg"
+      },
+      {
+        "id": 1709945,
+        "url": "https://media.rawg.io/media/screenshots/f45/f453ffeea8c58c0b0bef15ff012468e6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 306505,
+    "updatedAt": "2019-05-18T02:09:44.009809Z",
+    "slug": "xtreme-club-racing",
+    "name": "Xtreme Club Racing",
+    "released": "2019-05-03",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [],
+    "background": "https://media.rawg.io/media/screenshots/80b/80b0b31489f3f512f68cc3bbc5e234ab.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/80b/80b0b31489f3f512f68cc3bbc5e234ab.jpg"
+      },
+      {
+        "id": 1934808,
+        "url": "https://media.rawg.io/media/screenshots/5a7/5a7290354feda52d90b2322efbb4fef0.jpg"
+      },
+      {
+        "id": 1934809,
+        "url": "https://media.rawg.io/media/screenshots/74d/74d6bcba668f868f3626dd2389d5f248.jpg"
+      },
+      {
+        "id": 1934810,
+        "url": "https://media.rawg.io/media/screenshots/a4d/a4d4a86e8db4a9d48681c284577108de.jpg"
+      },
+      {
+        "id": 1934811,
+        "url": "https://media.rawg.io/media/screenshots/be9/be9fe39cbafe47b8ac5a8cbf36b0ca7c.jpg"
+      },
+      {
+        "id": 1934812,
+        "url": "https://media.rawg.io/media/screenshots/411/411e9f03d97b97ccbf8cd5399171dd01.jpg"
+      },
+      {
+        "id": 1934813,
+        "url": "https://media.rawg.io/media/screenshots/1b3/1b319ac00b059e59bf953810bd214b9a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 313858,
+    "updatedAt": "2019-05-18T02:06:04.549696Z",
+    "slug": "worldend-syndrome",
+    "name": "WORLDEND SYNDROME",
+    "released": "2019-05-02",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/1b1/1b1e35bf706e3e03f001c422644ef675.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/1b1/1b1e35bf706e3e03f001c422644ef675.jpg"
+      },
+      {
+        "id": 1913363,
+        "url": "https://media.rawg.io/media/screenshots/950/95037a4713cedb8d4e88cf77f965339f.jpg"
+      },
+      {
+        "id": 1913364,
+        "url": "https://media.rawg.io/media/screenshots/932/932162fc1d0f6c00e978a96c79568440.jpg"
+      },
+      {
+        "id": 1913365,
+        "url": "https://media.rawg.io/media/screenshots/341/34108d5082b0aec36084fe374d61763b.jpg"
+      },
+      {
+        "id": 1913366,
+        "url": "https://media.rawg.io/media/screenshots/bf5/bf55e06b5556af068f59c7df2f6a213a.jpg"
+      },
+      {
+        "id": 1913367,
+        "url": "https://media.rawg.io/media/screenshots/de8/de8f2e93797f8d33ca84b0be51149d56.jpg"
+      },
+      {
+        "id": 1913368,
+        "url": "https://media.rawg.io/media/screenshots/1b1/1b1e35bf706e3e03f001c422644ef675.jpg"
+      }
+    ]
+  },
+  {
+    "id": 302911,
+    "updatedAt": "2019-05-18T02:05:36.437152Z",
+    "slug": "windstorm-ostwind-aris-arrival",
+    "name": "Windstorm / Ostwind - Ari's Arrival",
+    "released": "2019-03-28",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/fc3/fc317a96d177b5e55d4e27a064477e66.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/fc3/fc317a96d177b5e55d4e27a064477e66.jpg"
+      },
+      {
+        "id": 1873386,
+        "url": "https://media.rawg.io/media/screenshots/718/7189331a9b38946c38ed27544502cfa2.jpg"
+      },
+      {
+        "id": 1873387,
+        "url": "https://media.rawg.io/media/screenshots/f95/f95f62c9bee9d50403dd1b8482edaeac.jpg"
+      },
+      {
+        "id": 1873388,
+        "url": "https://media.rawg.io/media/screenshots/b53/b5333f899a3831237b7a3332e925cdc5.jpg"
+      },
+      {
+        "id": 1873389,
+        "url": "https://media.rawg.io/media/screenshots/030/030287cb57b1a6842c2f14ea8721b779.jpg"
+      },
+      {
+        "id": 1873390,
+        "url": "https://media.rawg.io/media/screenshots/fc3/fc317a96d177b5e55d4e27a064477e66.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1652,
+    "updatedAt": "2019-05-18T02:05:00.102479Z",
+    "slug": "venture-kid",
+    "name": "Venture Kid",
+    "released": "2016-01-13",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 2,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/19c/19c51e3335d81e65fe28bbf4d5e80684.jpeg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/19c/19c51e3335d81e65fe28bbf4d5e80684.jpeg"
+      },
+      {
+        "id": 858584,
+        "url": "https://media.rawg.io/media/screenshots/400/4005f9670888c21bb0448677c1f6c5bb.jpg"
+      },
+      {
+        "id": 858585,
+        "url": "https://media.rawg.io/media/screenshots/10c/10cbdb4439ee2dcf34220c9c1628e7ca.jpg"
+      },
+      {
+        "id": 858586,
+        "url": "https://media.rawg.io/media/screenshots/f8a/f8a5cee7a5956a8f6751893bd1eea83a.jpg"
+      },
+      {
+        "id": 858587,
+        "url": "https://media.rawg.io/media/screenshots/ffd/ffdd21d5cc5a47464ee8f34931c0e57c.jpg"
+      },
+      {
+        "id": 858588,
+        "url": "https://media.rawg.io/media/screenshots/5a8/5a87f957ccbc87c20db9e2f6a29c3437.jpg"
+      },
+      {
+        "id": 14832,
+        "url": "https://media.rawg.io/media/screenshots/03f/03f27faee4ff066b157f98a831516de9.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 60551,
+    "updatedAt": "2019-05-18T02:04:38.339944Z",
+    "slug": "undead-horde",
+    "name": "Undead Horde",
+    "released": "2019-05-15",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/1c3/1c3ea8dbec27a98cbec9cbc4e9afdfb4.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/1c3/1c3ea8dbec27a98cbec9cbc4e9afdfb4.jpg"
+      },
+      {
+        "id": 831029,
+        "url": "https://media.rawg.io/media/screenshots/9ae/9ae62c090fa894f732a745b49910324b.jpg"
+      },
+      {
+        "id": 831030,
+        "url": "https://media.rawg.io/media/screenshots/5c7/5c7ff393c79847bad93a6ad988446723.jpg"
+      },
+      {
+        "id": 831031,
+        "url": "https://media.rawg.io/media/screenshots/23c/23cd399da35b7d2ffaf0b404c5cd5825.jpg"
+      },
+      {
+        "id": 831032,
+        "url": "https://media.rawg.io/media/screenshots/44f/44f9dec50f85a2243d8a0e2a650f4305.jpg"
+      },
+      {
+        "id": 831033,
+        "url": "https://media.rawg.io/media/screenshots/294/29465713def6e58becd7ebb76b2916fd.jpg"
+      },
+      {
+        "id": 831034,
+        "url": "https://media.rawg.io/media/screenshots/c80/c803bfb6702f572d94b34036aa658935.jpg"
+      }
+    ]
+  },
+  {
+    "id": 302376,
+    "updatedAt": "2019-05-18T02:04:11.761677Z",
+    "slug": "uglydolls-an-imperfect-adventure",
+    "name": "UglyDolls: An Imperfect Adventure",
+    "released": "2019-04-26",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f33/f330ab5379ac5f18e8165aece71fd6cf.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f33/f330ab5379ac5f18e8165aece71fd6cf.jpg"
+      },
+      {
+        "id": 1880021,
+        "url": "https://media.rawg.io/media/screenshots/296/29649b203aa31620910f108a1db7cbb0.jpg"
+      },
+      {
+        "id": 1880022,
+        "url": "https://media.rawg.io/media/screenshots/2e6/2e6b9c9744889cee96a9a3abb8ec66d0.jpg"
+      },
+      {
+        "id": 1880023,
+        "url": "https://media.rawg.io/media/screenshots/054/0546bd0baa7ac01ad49d723130f5ccfa.jpg"
+      },
+      {
+        "id": 1880024,
+        "url": "https://media.rawg.io/media/screenshots/d0b/d0b19db50c5eece30748a8384b2fbe2e.jpg"
+      },
+      {
+        "id": 1880025,
+        "url": "https://media.rawg.io/media/screenshots/f33/f330ab5379ac5f18e8165aece71fd6cf.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46480,
+    "updatedAt": "2019-05-18T02:02:49.215318Z",
+    "slug": "thief-simulator",
+    "name": "Thief Simulator",
+    "released": null,
+    "ratingDisplay": "meh",
+    "ratingValue": 0,
+    "ratingsCount": 5,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f3d/f3d20e1d997bdcf3cae0cb3caba8343b.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f3d/f3d20e1d997bdcf3cae0cb3caba8343b.jpg"
+      },
+      {
+        "id": 658386,
+        "url": "https://media.rawg.io/media/screenshots/666/666c544d2d39b90d9de761cfc266b82e.jpg"
+      },
+      {
+        "id": 658387,
+        "url": "https://media.rawg.io/media/screenshots/4ec/4ecbb80a5903632cbe74e3ff6c994e52.jpg"
+      },
+      {
+        "id": 658388,
+        "url": "https://media.rawg.io/media/screenshots/4f0/4f0b721cf286e7b35475e804edff4dc4.jpg"
+      },
+      {
+        "id": 658389,
+        "url": "https://media.rawg.io/media/screenshots/834/834cc91e56acb07d505e8d5a811b36da.jpg"
+      },
+      {
+        "id": 658390,
+        "url": "https://media.rawg.io/media/screenshots/ec4/ec4f90e4d1687ded9b08d283ce0f729d.jpg"
+      },
+      {
+        "id": 658391,
+        "url": "https://media.rawg.io/media/screenshots/a88/a88def6732f43a938c5010f341f2d590.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28040,
+    "updatedAt": "2019-05-18T02:02:30.354211Z",
+    "slug": "the-swords-of-ditto",
+    "name": "The Swords of Ditto",
+    "released": "2018-04-24",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.43,
+    "ratingsCount": 25,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/1f2/1f22dff7265df5e570285284c4689c8a.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/1f2/1f22dff7265df5e570285284c4689c8a.jpg"
+      },
+      {
+        "id": 268233,
+        "url": "https://media.rawg.io/media/screenshots/579/5798ef54cbe7b1de08e622432282c51d.jpg"
+      },
+      {
+        "id": 268234,
+        "url": "https://media.rawg.io/media/screenshots/7f0/7f029031a34f72bad2b6c0d3dee3273e.jpg"
+      },
+      {
+        "id": 268235,
+        "url": "https://media.rawg.io/media/screenshots/9df/9dfc75314e27b68464d608da2cfb9268.jpg"
+      },
+      {
+        "id": 268236,
+        "url": "https://media.rawg.io/media/screenshots/c0a/c0a8f56dd68fb9d4cf08655f04975cb1.jpg"
+      },
+      {
+        "id": 268237,
+        "url": "https://media.rawg.io/media/screenshots/01e/01e790c213661ff17dcfe391e6f542f1.jpg"
+      },
+      {
+        "id": 268238,
+        "url": "https://media.rawg.io/media/screenshots/9b8/9b8fc82a8ffa1b7a4b7d831b67a160e0_Cx8gNuh.jpg"
+      }
+    ]
+  },
+  {
+    "id": 292838,
+    "updatedAt": "2019-05-18T02:00:58.056283Z",
+    "slug": "tetris-99",
+    "name": "Tetris 99",
+    "released": "2019-02-13",
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.24,
+    "ratingsCount": 25,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 59,
+        "name": "Massively Multiplayer",
+        "slug": "massively-multiplayer"
+      },
+      {
+        "id": 7,
+        "name": "Puzzle",
+        "slug": "puzzle"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/a8c/a8c59ffecdac593eb929a9f10f5be05c.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/a8c/a8c59ffecdac593eb929a9f10f5be05c.jpg"
+      },
+      {
+        "id": 1837464,
+        "url": "https://media.rawg.io/media/screenshots/a8c/a8c59ffecdac593eb929a9f10f5be05c.jpg"
+      }
+    ]
+  },
+  {
+    "id": 308169,
+    "updatedAt": "2019-05-18T01:59:10.989348Z",
+    "slug": "super-star-blast",
+    "name": "Super Star Blast",
+    "released": "2019-04-24",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/739/739530d973913877b942313144801627.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/739/739530d973913877b942313144801627.jpg"
+      },
+      {
+        "id": 1893014,
+        "url": "https://media.rawg.io/media/screenshots/443/4432eb30297b8ba0c7a6fb078798d67e.jpg"
+      },
+      {
+        "id": 1893015,
+        "url": "https://media.rawg.io/media/screenshots/a98/a98f3bd96d7f03e223c6301ccfe4a11f.jpg"
+      },
+      {
+        "id": 1893016,
+        "url": "https://media.rawg.io/media/screenshots/eaf/eaf90ed3195e8e8d649e72a26e536bc3.jpg"
+      },
+      {
+        "id": 1893017,
+        "url": "https://media.rawg.io/media/screenshots/123/1235b5a5fcc1fafb28016f2a8066b79b.jpg"
+      },
+      {
+        "id": 1893018,
+        "url": "https://media.rawg.io/media/screenshots/30d/30d9ab1d7650f385113b5dd140f047f6.jpg"
+      },
+      {
+        "id": 1893019,
+        "url": "https://media.rawg.io/media/screenshots/739/739530d973913877b942313144801627.jpg"
+      }
+    ]
+  },
+  {
+    "id": 15021,
+    "updatedAt": "2019-05-18T01:58:43.161241Z",
+    "slug": "super-blood-hockey",
+    "name": "Super Blood Hockey",
+    "released": "2017-08-17",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/257/25767746d29c7c05110f294d6253958d.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/257/25767746d29c7c05110f294d6253958d.jpg"
+      },
+      {
+        "id": 131979,
+        "url": "https://media.rawg.io/media/screenshots/920/920c242bdae4ee2f3b73f09a124c0a59.jpg"
+      },
+      {
+        "id": 131980,
+        "url": "https://media.rawg.io/media/screenshots/4e1/4e1bc2caa69b9bc8128318f6298d9427.jpg"
+      },
+      {
+        "id": 131981,
+        "url": "https://media.rawg.io/media/screenshots/da4/da4288d768238826f6d583cbb52301af.jpg"
+      },
+      {
+        "id": 131982,
+        "url": "https://media.rawg.io/media/screenshots/25b/25b9632ada05b57ae3954c7fe8667e99.jpg"
+      },
+      {
+        "id": 131983,
+        "url": "https://media.rawg.io/media/screenshots/257/25767746d29c7c05110f294d6253958d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2684,
+    "updatedAt": "2019-05-18T01:58:03.019414Z",
+    "slug": "strike-suit-zero-directors-cut",
+    "name": "Strike Suit Zero: Director's Cut",
+    "released": "2014-04-08",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.33,
+    "ratingsCount": 6,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 2,
+        "name": "Shooter",
+        "slug": "shooter"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/634/6343080a9108a9e40709a8eaf87101ff.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/634/6343080a9108a9e40709a8eaf87101ff.jpg"
+      },
+      {
+        "id": 24510,
+        "url": "https://media.rawg.io/media/screenshots/a1e/a1eec38c4f8047c8fc47953267451783.jpg"
+      },
+      {
+        "id": 24520,
+        "url": "https://media.rawg.io/media/screenshots/9ac/9acdd1a31b543c9ff9b23325eefccd3d.jpg"
+      },
+      {
+        "id": 24525,
+        "url": "https://media.rawg.io/media/screenshots/711/7113d4e6b7741fcdb02b1b2774d2412b.jpg"
+      },
+      {
+        "id": 24529,
+        "url": "https://media.rawg.io/media/screenshots/9ba/9baf47a215f4a21f25680c7c76adefc4.jpg"
+      },
+      {
+        "id": 24537,
+        "url": "https://media.rawg.io/media/screenshots/401/40167a586e7c3855421914fcb90dd297.jpg"
+      },
+      {
+        "id": 24544,
+        "url": "https://media.rawg.io/media/screenshots/08d/08d7fa4be638ad31be6d874157ff5843.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46975,
+    "updatedAt": "2019-05-18T01:57:07.454192Z",
+    "slug": "shalnor-legends-sacred-lands",
+    "name": "Shalnor Legends: Sacred Lands",
+    "released": "2018-01-25",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/be2/be2d9175e0c8616b47dfe05221ab984a.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/be2/be2d9175e0c8616b47dfe05221ab984a.jpg"
+      },
+      {
+        "id": 662361,
+        "url": "https://media.rawg.io/media/screenshots/1d9/1d95fc2721009f12e11f941680c11b27.jpg"
+      },
+      {
+        "id": 662362,
+        "url": "https://media.rawg.io/media/screenshots/b9d/b9db12a112cb9ac24999fa4a284d203c.jpg"
+      },
+      {
+        "id": 662363,
+        "url": "https://media.rawg.io/media/screenshots/326/3265c328487f05458c4d59858b150fbf.jpg"
+      },
+      {
+        "id": 662364,
+        "url": "https://media.rawg.io/media/screenshots/046/04667d49b3eeff2b44cde8856f245b04.jpg"
+      },
+      {
+        "id": 662365,
+        "url": "https://media.rawg.io/media/screenshots/207/207c0e666dabe1dc2588d023acc88abc.jpg"
+      },
+      {
+        "id": 662366,
+        "url": "https://media.rawg.io/media/screenshots/be2/be2d9175e0c8616b47dfe05221ab984a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27930,
+    "updatedAt": "2019-05-18T01:56:40.556170Z",
+    "slug": "shakedown-hawaii",
+    "name": "Shakedown: Hawaii",
+    "released": "2019-05-07",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/78f/78fbd47ade99a02351a0e810d0f4f073.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/78f/78fbd47ade99a02351a0e810d0f4f073.jpg"
+      },
+      {
+        "id": 640821,
+        "url": "https://media.rawg.io/media/screenshots/b76/b7608ec2d58c3fb506a26f3096a7c084.jpg"
+      },
+      {
+        "id": 640822,
+        "url": "https://media.rawg.io/media/screenshots/e61/e613ea7c41bafdfc3d12bf8f974dd156.jpg"
+      },
+      {
+        "id": 640823,
+        "url": "https://media.rawg.io/media/screenshots/8d8/8d84fafb31b5d20a76d63c94a086181a.jpg"
+      },
+      {
+        "id": 640824,
+        "url": "https://media.rawg.io/media/screenshots/56d/56da0165899b1639d82d57bd2e09a72e.jpg"
+      },
+      {
+        "id": 640825,
+        "url": "https://media.rawg.io/media/screenshots/c28/c28e6adc63c1edb20984c43866419bac.jpg"
+      },
+      {
+        "id": 640826,
+        "url": "https://media.rawg.io/media/screenshots/a3d/a3dae906b5c517516af32f375ea50265.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11384,
+    "updatedAt": "2019-05-18T01:56:19.738209Z",
+    "slug": "shadows-of-adam",
+    "name": "Shadows of Adam",
+    "released": "2017-02-23",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/e61/e6177aa2719dfc3bb8f69bfbf62cc3aa.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/e61/e6177aa2719dfc3bb8f69bfbf62cc3aa.jpg"
+      },
+      {
+        "id": 92500,
+        "url": "https://media.rawg.io/media/screenshots/1f0/1f0d9d7b7be38db800dff4fb55c328b9.jpg"
+      },
+      {
+        "id": 92501,
+        "url": "https://media.rawg.io/media/screenshots/c86/c86c9d3418f87ce712d5cdd03eeed411.jpg"
+      },
+      {
+        "id": 92502,
+        "url": "https://media.rawg.io/media/screenshots/def/def60a63757398fa55a993eddd4250a2.jpg"
+      },
+      {
+        "id": 92503,
+        "url": "https://media.rawg.io/media/screenshots/57e/57e8b90e4b5acfa4099894252408f0cd.jpg"
+      },
+      {
+        "id": 92504,
+        "url": "https://media.rawg.io/media/screenshots/8af/8afc414785631900e933e3f139167854.jpg"
+      },
+      {
+        "id": 92505,
+        "url": "https://media.rawg.io/media/screenshots/076/0760e0e1013b2dac91400b7a3dffb12a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 269915,
+    "updatedAt": "2019-05-18T01:53:39.171082Z",
+    "slug": "rollercoaster-tycoon-adventures",
+    "name": "RollerCoaster Tycoon Adventures",
+    "released": "2018-12-13",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [],
+    "background": "https://media.rawg.io/media/screenshots/e53/e538025cbb2718d85f34597691b478e1.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/e53/e538025cbb2718d85f34597691b478e1.jpg"
+      },
+      {
+        "id": 1934802,
+        "url": "https://media.rawg.io/media/screenshots/b26/b2662f425eafdb9d5d64f1cfe1b3f31a.jpg"
+      },
+      {
+        "id": 1934803,
+        "url": "https://media.rawg.io/media/screenshots/ee2/ee26788730be292e69fdcc8226afbd7d.jpg"
+      },
+      {
+        "id": 1934804,
+        "url": "https://media.rawg.io/media/screenshots/fad/fad8b3a9cbe7b20d1f9bf93c1ae48d76.jpg"
+      },
+      {
+        "id": 1934805,
+        "url": "https://media.rawg.io/media/screenshots/5e0/5e0e367110cd83dad54e7607ea580d76.jpg"
+      },
+      {
+        "id": 1934806,
+        "url": "https://media.rawg.io/media/screenshots/0b7/0b71cab4febbd98123265a5081274024.jpg"
+      },
+      {
+        "id": 1934807,
+        "url": "https://media.rawg.io/media/screenshots/e53/e538025cbb2718d85f34597691b478e1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 50755,
+    "updatedAt": "2019-05-18T01:50:54.459822Z",
+    "slug": "my-big-sister",
+    "name": "My Big Sister",
+    "released": "2019-05-07",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/245/245668dc2a692172c732874d4ded3f31.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/245/245668dc2a692172c732874d4ded3f31.jpg"
+      },
+      {
+        "id": 708924,
+        "url": "https://media.rawg.io/media/screenshots/797/797e0eb9d8de8703a11b621e669af580.jpg"
+      },
+      {
+        "id": 708925,
+        "url": "https://media.rawg.io/media/screenshots/460/4609ee76c4c74916ba5ab6e195ae97ba.jpg"
+      },
+      {
+        "id": 708926,
+        "url": "https://media.rawg.io/media/screenshots/b7a/b7a32349f7f3f23bbb561792afe5a26e.jpg"
+      },
+      {
+        "id": 708927,
+        "url": "https://media.rawg.io/media/screenshots/b45/b45386df1e14d412f30120fa7b2b02c1.jpg"
+      },
+      {
+        "id": 708928,
+        "url": "https://media.rawg.io/media/screenshots/fac/facb8239c51317356d4f5ba0f310eb19.jpg"
+      },
+      {
+        "id": 708929,
+        "url": "https://media.rawg.io/media/screenshots/12e/12e34139ae19e7f6f80ca7304af4d8d5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10228,
+    "updatedAt": "2019-05-18T01:47:02.868506Z",
+    "slug": "rock-of-ages-2-bigger-boulder",
+    "name": "Rock of Ages 2: Bigger & Boulder",
+    "released": "2017-08-28",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.43,
+    "ratingsCount": 19,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      },
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/3d8/3d87406406e0a171f4330b30bb524689.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/a43/a43848add608567006682a2df7b223a8.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/f24/f24bc45cbcc387374408cb9e628ca665.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/3d8/3d87406406e0a171f4330b30bb524689.jpg"
+      },
+      {
+        "id": 78491,
+        "url": "https://media.rawg.io/media/screenshots/80a/80af93ad49dbd8ea95be91274d7f8786.jpg"
+      },
+      {
+        "id": 78492,
+        "url": "https://media.rawg.io/media/screenshots/53f/53f2408e4d6facdc2a03c6e49b7dd20e.jpg"
+      },
+      {
+        "id": 78493,
+        "url": "https://media.rawg.io/media/screenshots/c3f/c3f8868c2238f13199a04f9f013e09f6.jpg"
+      },
+      {
+        "id": 78494,
+        "url": "https://media.rawg.io/media/screenshots/081/081cf5c8a62d97a5e7da2ec0bb00d0f2.jpg"
+      },
+      {
+        "id": 78495,
+        "url": "https://media.rawg.io/media/screenshots/079/0790bbe8896b539ab6b901b65b351b13.jpg"
+      },
+      {
+        "id": 78496,
+        "url": "https://media.rawg.io/media/screenshots/041/041751a291ba3e3292edc04ff008b40d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 20996,
+    "updatedAt": "2019-05-18T01:46:19.369516Z",
+    "slug": "reverse-crawl",
+    "name": "Reverse Crawl",
+    "released": "2015-09-24",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/70a/70aac8a220c7d24c4e7a391007d57e8f.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/70a/70aac8a220c7d24c4e7a391007d57e8f.jpg"
+      },
+      {
+        "id": 199709,
+        "url": "https://media.rawg.io/media/screenshots/e8e/e8ef1a5542a92ae3c722bf4ac665d64c.jpg"
+      },
+      {
+        "id": 199710,
+        "url": "https://media.rawg.io/media/screenshots/534/53444ed2e26e9f9ebaa2796ce8109d37.jpg"
+      },
+      {
+        "id": 199711,
+        "url": "https://media.rawg.io/media/screenshots/55f/55fe2f2e28448e6b009777d9bea73188.jpg"
+      },
+      {
+        "id": 199712,
+        "url": "https://media.rawg.io/media/screenshots/385/385481d0c23c9273b044a3a35c434538.jpg"
+      },
+      {
+        "id": 199713,
+        "url": "https://media.rawg.io/media/screenshots/bdc/bdceedd1b7371f9ece448efe4f155914.jpg"
+      },
+      {
+        "id": 199714,
+        "url": "https://media.rawg.io/media/screenshots/7b8/7b8fd1bb559a54c98e60b57ccc79c894.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10993,
+    "updatedAt": "2019-05-18T01:44:31.446970Z",
+    "slug": "redout-enhanced-edition",
+    "name": "Redout: Lightspeed Edition",
+    "released": "2016-09-02",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.8,
+    "ratingsCount": 20,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/3d7/3d7b5c3f90944caac696c79bfbc0b993.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/337/3377b4aba66d15ea9a700b0b67dcaf6a.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/91d/91d3815146b7d0e0ee5b2cdb9e087bb1.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/3d7/3d7b5c3f90944caac696c79bfbc0b993.jpg"
+      },
+      {
+        "id": 87784,
+        "url": "https://media.rawg.io/media/screenshots/941/9416ba67acb92e8326be3cb77eb26030.jpg"
+      },
+      {
+        "id": 87785,
+        "url": "https://media.rawg.io/media/screenshots/c31/c31e0ee5df735a3ceb64451b9f7577f9.jpg"
+      },
+      {
+        "id": 87786,
+        "url": "https://media.rawg.io/media/screenshots/555/55593b3c5d0e919911ae87b4d22cab51.jpg"
+      },
+      {
+        "id": 87787,
+        "url": "https://media.rawg.io/media/screenshots/2d2/2d2a0a79062996cb0ebc67ab158877c2.jpg"
+      },
+      {
+        "id": 87788,
+        "url": "https://media.rawg.io/media/screenshots/ace/ace00d379edfe06a56c4211d2c4671b1.jpg"
+      },
+      {
+        "id": 87789,
+        "url": "https://media.rawg.io/media/screenshots/b1f/b1fcca532a358a830e8504ddca9c5760.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10129,
+    "updatedAt": "2019-05-18T01:40:14.367379Z",
+    "slug": "project-nimbus",
+    "name": "Project Nimbus",
+    "released": "2014-11-05",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 3,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/635/6352aad51cb242ff0fe77995145d2d3b.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/635/6352aad51cb242ff0fe77995145d2d3b.jpg"
+      },
+      {
+        "id": 77287,
+        "url": "https://media.rawg.io/media/screenshots/2a6/2a61c3a020def6a19ed845f269db3b3b.jpg"
+      },
+      {
+        "id": 77288,
+        "url": "https://media.rawg.io/media/screenshots/bb8/bb840f6c00279e84b4609a25b25aef42.jpg"
+      },
+      {
+        "id": 77289,
+        "url": "https://media.rawg.io/media/screenshots/65d/65d9b86f2b9aa53a4fe45c4e2ea604dc.jpg"
+      },
+      {
+        "id": 77290,
+        "url": "https://media.rawg.io/media/screenshots/4bc/4bcf04e47c0773f8a8093fa3012173bc.jpg"
+      },
+      {
+        "id": 77291,
+        "url": "https://media.rawg.io/media/screenshots/d98/d984b7844499813ad9f3ad2afad02501.jpg"
+      },
+      {
+        "id": 77292,
+        "url": "https://media.rawg.io/media/screenshots/a1b/a1b3cf025905c0fccf885d79e7c42f94.jpg"
+      }
+    ]
+  },
+  {
+    "id": 49344,
+    "updatedAt": "2019-05-18T01:39:35.082329Z",
+    "slug": "preventive-strike",
+    "name": "Preventive Strike",
+    "released": null,
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/7d0/7d05036b7920dd509c5e0e69701d9c89.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/7d0/7d05036b7920dd509c5e0e69701d9c89.jpg"
+      },
+      {
+        "id": 696866,
+        "url": "https://media.rawg.io/media/screenshots/034/034aaae8c10782089ae961eafbfaf86d.jpg"
+      },
+      {
+        "id": 696867,
+        "url": "https://media.rawg.io/media/screenshots/12f/12fea89a04d856ef9d0cc2035b2597b8.jpg"
+      },
+      {
+        "id": 696868,
+        "url": "https://media.rawg.io/media/screenshots/2ec/2ecab2806b2343089e862b00a699f646.jpg"
+      },
+      {
+        "id": 696869,
+        "url": "https://media.rawg.io/media/screenshots/8c6/8c67b85c3302ca39bc653b610ae2c310.jpg"
+      },
+      {
+        "id": 696870,
+        "url": "https://media.rawg.io/media/screenshots/8ac/8ac71b876b2b8caa5d5030f95fe28e4d.jpg"
+      },
+      {
+        "id": 696871,
+        "url": "https://media.rawg.io/media/screenshots/7d0/7d05036b7920dd509c5e0e69701d9c89.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21872,
+    "updatedAt": "2019-05-18T01:39:05.836850Z",
+    "slug": "otttd-over-the-top-tower-defense",
+    "name": "OTTTD: Over The Top Tower Defense",
+    "released": "2014-05-22",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/41d/41d27bf136b001c26b3daad7c6250594.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/41d/41d27bf136b001c26b3daad7c6250594.jpg"
+      },
+      {
+        "id": 208754,
+        "url": "https://media.rawg.io/media/screenshots/754/7543ccb008cfc044f0ea2503b92cad5e.jpeg"
+      },
+      {
+        "id": 208755,
+        "url": "https://media.rawg.io/media/screenshots/e68/e683376762c1186dab63b527d8d64ba1.jpeg"
+      },
+      {
+        "id": 208756,
+        "url": "https://media.rawg.io/media/screenshots/28f/28ff677113f421f5bfbabfeedcf2536b.jpeg"
+      },
+      {
+        "id": 208757,
+        "url": "https://media.rawg.io/media/screenshots/570/570100550c95510dcfc9b9d6cff5c6ea.jpeg"
+      },
+      {
+        "id": 208758,
+        "url": "https://media.rawg.io/media/screenshots/d3a/d3af903f2acf5c34b14c9040e5e286b1.jpeg"
+      },
+      {
+        "id": 871926,
+        "url": "https://media.rawg.io/media/screenshots/100/1008262dae617829b5fb028b26169809.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28498,
+    "updatedAt": "2019-05-18T01:36:43.301255Z",
+    "slug": "mutant-blobs-attack",
+    "name": "Mutant Blobs Attack",
+    "released": "2014-06-18",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 83,
+        "name": "Platformer",
+        "slug": "platformer"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/0f5/0f5724ed17a7c1e31d6c444194fa685c.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/0f5/0f5724ed17a7c1e31d6c444194fa685c.jpg"
+      },
+      {
+        "id": 275420,
+        "url": "https://media.rawg.io/media/screenshots/c39/c392823af3ee757ce582b72752c57eee.jpg"
+      },
+      {
+        "id": 275421,
+        "url": "https://media.rawg.io/media/screenshots/a7e/a7e2814b5c89586fe804b4dcc48aff6d.jpg"
+      },
+      {
+        "id": 275422,
+        "url": "https://media.rawg.io/media/screenshots/024/024c52fad90433f6e1f6eb590c2a1ddd.jpg"
+      },
+      {
+        "id": 275423,
+        "url": "https://media.rawg.io/media/screenshots/096/0965ffba60adaa583120535b9be3cc04.jpg"
+      },
+      {
+        "id": 275424,
+        "url": "https://media.rawg.io/media/screenshots/d76/d7673659d64a9bbd8bb540e637332f72.jpg"
+      },
+      {
+        "id": 275425,
+        "url": "https://media.rawg.io/media/screenshots/894/894bfb6e3cc260548645e702c4e77519.jpg"
+      }
+    ]
+  },
+  {
+    "id": 296448,
+    "updatedAt": "2019-05-18T01:36:20.275889Z",
+    "slug": "monster-dynamite",
+    "name": "Monster Dynamite",
+    "released": "2019-02-28",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [],
+    "background": "https://media.rawg.io/media/screenshots/79f/79f1d7dff095308a4b10895d80fde9aa.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/79f/79f1d7dff095308a4b10895d80fde9aa.jpg"
+      },
+      {
+        "id": 1885188,
+        "url": "https://media.rawg.io/media/screenshots/acf/acfbc08699346a6e554d96cb66f55661.jpg"
+      },
+      {
+        "id": 1885189,
+        "url": "https://media.rawg.io/media/screenshots/c59/c59c87bedc394429477fdd08420bea80.jpg"
+      },
+      {
+        "id": 1885190,
+        "url": "https://media.rawg.io/media/screenshots/20b/20b5d07958476e5bf904968207af1294.jpg"
+      },
+      {
+        "id": 1885191,
+        "url": "https://media.rawg.io/media/screenshots/36a/36a9561d56c1ecec575ecb558b1539c2.jpg"
+      },
+      {
+        "id": 1885192,
+        "url": "https://media.rawg.io/media/screenshots/d18/d181d85452cd75d0c0b1fd26f3cd8d6c.jpg"
+      },
+      {
+        "id": 1885193,
+        "url": "https://media.rawg.io/media/screenshots/bf4/bf4a193270d09566b994ddfe5fb25f32.jpg"
+      }
+    ]
+  },
+  {
+    "id": 61810,
+    "updatedAt": "2019-05-18T01:35:54.859346Z",
+    "slug": "meow-motors",
+    "name": "Meow Motors",
+    "released": "2018-06-04",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 2,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/d64/d64d95ecfe2cb3d075267d63126eb222.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/d64/d64d95ecfe2cb3d075267d63126eb222.jpg"
+      },
+      {
+        "id": 841771,
+        "url": "https://media.rawg.io/media/screenshots/8fd/8fdc15c313a27d8f95fe5090d43e59d5.jpg"
+      },
+      {
+        "id": 841772,
+        "url": "https://media.rawg.io/media/screenshots/16b/16b535a0ebdcad6bcd5f0c2fc872ac60.jpg"
+      },
+      {
+        "id": 841773,
+        "url": "https://media.rawg.io/media/screenshots/24d/24d0308a23753c5da55b59be8f86068e.jpg"
+      },
+      {
+        "id": 841774,
+        "url": "https://media.rawg.io/media/screenshots/c20/c2097a0d1ba2ad4b5f261f0bcacceba6.jpg"
+      },
+      {
+        "id": 841775,
+        "url": "https://media.rawg.io/media/screenshots/c5f/c5f74a497d61465e34503cbc1303f14a.jpg"
+      },
+      {
+        "id": 841776,
+        "url": "https://media.rawg.io/media/screenshots/5c3/5c3d2af76b7b4258ad127446ad791914.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11352,
+    "updatedAt": "2019-05-18T01:35:27.326067Z",
+    "slug": "masquerada-songs-and-shadows",
+    "name": "Masquerada: Songs and Shadows",
+    "released": "2016-09-29",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 1,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/33b/33be21b4287d94b4d6a405ecfc88eb5d_BeYqPL0.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/aea/aea0c2825922dda6dc6d64f2d2bf201f.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/473/473ea3209f30dd0582ea0a7cc54bbda4.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/33b/33be21b4287d94b4d6a405ecfc88eb5d_BeYqPL0.jpg"
+      },
+      {
+        "id": 92102,
+        "url": "https://media.rawg.io/media/screenshots/133/13327cd3c499bde46f3c378ae411466c.jpg"
+      },
+      {
+        "id": 92103,
+        "url": "https://media.rawg.io/media/screenshots/01e/01efbfc4090644ef7fd27436f61ba580.jpg"
+      },
+      {
+        "id": 92104,
+        "url": "https://media.rawg.io/media/screenshots/49a/49afcccc727e7f850e8c916a15777f1a.jpg"
+      },
+      {
+        "id": 92105,
+        "url": "https://media.rawg.io/media/screenshots/f0d/f0da8d4f151be46c9d5f548de6c99bb8.jpg"
+      },
+      {
+        "id": 92106,
+        "url": "https://media.rawg.io/media/screenshots/f4e/f4e0885dc4aba337468517e9b2e01ed2.jpg"
+      },
+      {
+        "id": 92107,
+        "url": "https://media.rawg.io/media/screenshots/b1a/b1a10100c30ec402e8429933956ce0c9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 58975,
+    "updatedAt": "2019-05-18T01:34:26.075174Z",
+    "slug": "lovecrafts-untold-stories",
+    "name": "Lovecraft's Untold Stories",
+    "released": "2018-06-21",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 2,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/19a/19a4c2d394a80b423e84900d982df420.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/19a/19a4c2d394a80b423e84900d982df420.jpg"
+      },
+      {
+        "id": 804015,
+        "url": "https://media.rawg.io/media/screenshots/e69/e6964a0d7739724890ed8d336dfe4e8c.jpg"
+      },
+      {
+        "id": 804016,
+        "url": "https://media.rawg.io/media/screenshots/0ce/0ce5a892e19f37ef219c8f3c67dde8c4.jpg"
+      },
+      {
+        "id": 804017,
+        "url": "https://media.rawg.io/media/screenshots/398/398c151886187ad6d9b4fbddb41737f6.jpg"
+      },
+      {
+        "id": 804018,
+        "url": "https://media.rawg.io/media/screenshots/932/932713591206bdb0cbc625874aeb1a01.jpg"
+      },
+      {
+        "id": 804019,
+        "url": "https://media.rawg.io/media/screenshots/fef/fef7d887e31ca309679eb931425d8578.jpg"
+      },
+      {
+        "id": 804020,
+        "url": "https://media.rawg.io/media/screenshots/e22/e22e5ef9d72c3743752b420bbb6b5a92.jpg"
+      }
+    ]
+  },
+  {
+    "id": 298417,
+    "updatedAt": "2019-05-18T01:31:32.510799Z",
+    "slug": "joe-jump-impossible-quest",
+    "name": "Joe Jump Impossible Quest",
+    "released": "2019-03-28",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/55c/55cf5d57e7847ce7a6c442915b59283f.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/55c/55cf5d57e7847ce7a6c442915b59283f.jpg"
+      },
+      {
+        "id": 1857533,
+        "url": "https://media.rawg.io/media/screenshots/cec/ceca2e7ca76c916612e4599d781f0500.jpg"
+      },
+      {
+        "id": 1857534,
+        "url": "https://media.rawg.io/media/screenshots/38d/38daef5222277a6c0a3068d202b16a83.jpg"
+      },
+      {
+        "id": 1857535,
+        "url": "https://media.rawg.io/media/screenshots/634/634224d860038f693cb2df25de9e758e.jpg"
+      },
+      {
+        "id": 1857536,
+        "url": "https://media.rawg.io/media/screenshots/67d/67d05c13c01cd869a041fd42e191a32e.jpg"
+      },
+      {
+        "id": 1857537,
+        "url": "https://media.rawg.io/media/screenshots/7a8/7a85f621c2aae972148b2b7ab6adc402.jpg"
+      },
+      {
+        "id": 1857538,
+        "url": "https://media.rawg.io/media/screenshots/6b6/6b61c122ba452c9d7a5b39e53aed2b07.jpg"
+      }
+    ]
+  },
+  {
+    "id": 300738,
+    "updatedAt": "2019-05-18T01:31:11.924290Z",
+    "slug": "gyro-boss-dx",
+    "name": "Gyro Boss DX",
+    "released": "2019-03-22",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/52b/52bb90b527152a40cbbfdd2d46052711.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/52b/52bb90b527152a40cbbfdd2d46052711.jpg"
+      },
+      {
+        "id": 1865684,
+        "url": "https://media.rawg.io/media/screenshots/380/380dfdb911f2c0f5368dc6501b2333b7.jpg"
+      },
+      {
+        "id": 1865685,
+        "url": "https://media.rawg.io/media/screenshots/ac4/ac4faf2913df6c73d0562d9a075f18e8.jpg"
+      },
+      {
+        "id": 1865686,
+        "url": "https://media.rawg.io/media/screenshots/d0b/d0b1a0eab2eaae2ceb14609eee84c74e.jpg"
+      },
+      {
+        "id": 1865687,
+        "url": "https://media.rawg.io/media/screenshots/3c0/3c012afb9765ee9a0dab55b870efeda5.jpg"
+      },
+      {
+        "id": 1865688,
+        "url": "https://media.rawg.io/media/screenshots/ecf/ecfd78b99af470d6d71f8a5177d11e0f.jpg"
+      },
+      {
+        "id": 1865689,
+        "url": "https://media.rawg.io/media/screenshots/06f/06ffc387db55ea2dbfc486a15509b9bd.jpg"
+      }
+    ]
+  },
+  {
+    "id": 63749,
+    "updatedAt": "2019-05-18T01:30:39.936770Z",
+    "slug": "koral",
+    "name": "Koral",
+    "released": null,
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/984/9840460fc962067d481f5f9754d0dbca.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/984/9840460fc962067d481f5f9754d0dbca.jpg"
+      },
+      {
+        "id": 857386,
+        "url": "https://media.rawg.io/media/screenshots/5bf/5bf419571cf7925a9f6fff5aab727554.jpg"
+      },
+      {
+        "id": 857387,
+        "url": "https://media.rawg.io/media/screenshots/dad/dad796cc5b320c3575a4e037fa5ee3c0.jpg"
+      },
+      {
+        "id": 857388,
+        "url": "https://media.rawg.io/media/screenshots/b67/b67ef1557edfc9a1d8443ad8ee0260c1.jpg"
+      },
+      {
+        "id": 857389,
+        "url": "https://media.rawg.io/media/screenshots/de3/de36b7924e30b0cfe8525ce772901092.jpg"
+      },
+      {
+        "id": 857390,
+        "url": "https://media.rawg.io/media/screenshots/11f/11fd4af0fc59fab58e206a94f0fa1dc2.jpg"
+      },
+      {
+        "id": 857391,
+        "url": "https://media.rawg.io/media/screenshots/984/9840460fc962067d481f5f9754d0dbca.jpg"
+      }
+    ]
+  },
+  {
+    "id": 47079,
+    "updatedAt": "2019-05-18T01:28:34.353649Z",
+    "slug": "hellmut-the-badass-from-hell",
+    "name": "Hellmut: The Badass from Hell",
+    "released": "2018-03-13",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 2,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/247/247450be33066025bd2decda2ef19903.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/247/247450be33066025bd2decda2ef19903.jpg"
+      },
+      {
+        "id": 663180,
+        "url": "https://media.rawg.io/media/screenshots/060/0601a317d0d1e12305e399b07fa305c5.jpg"
+      },
+      {
+        "id": 663181,
+        "url": "https://media.rawg.io/media/screenshots/b6f/b6fed9e02db9b66ad3bcf6d5f9b53bfc.jpg"
+      },
+      {
+        "id": 663182,
+        "url": "https://media.rawg.io/media/screenshots/1d9/1d9e7618cbbc7f1a356bed90d15d53e7.jpg"
+      },
+      {
+        "id": 663183,
+        "url": "https://media.rawg.io/media/screenshots/9d9/9d9ce770a645cb5a3e810cc6d0bc7f58.jpg"
+      },
+      {
+        "id": 663184,
+        "url": "https://media.rawg.io/media/screenshots/e56/e56d7d5c7971005094114fbabbbe1351.jpg"
+      },
+      {
+        "id": 663185,
+        "url": "https://media.rawg.io/media/screenshots/11a/11aec769426fca361cddd74da5d9fc0b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 13122,
+    "updatedAt": "2019-05-18T01:26:47.524942Z",
+    "slug": "goatpunks",
+    "name": "GoatPunks",
+    "released": "2017-01-20",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/059/0593d5a28c4c2684f1b41b8d66130a46.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/059/0593d5a28c4c2684f1b41b8d66130a46.jpg"
+      },
+      {
+        "id": 111486,
+        "url": "https://media.rawg.io/media/screenshots/e5f/e5f08a689d5e0a337d5606f6a61b5d38.jpg"
+      },
+      {
+        "id": 111487,
+        "url": "https://media.rawg.io/media/screenshots/140/140f38669d46c169bba884d58f31e08e.jpg"
+      },
+      {
+        "id": 111488,
+        "url": "https://media.rawg.io/media/screenshots/0e0/0e0d5920baa8f46b3586dccf49c47444.jpg"
+      },
+      {
+        "id": 111489,
+        "url": "https://media.rawg.io/media/screenshots/1ce/1ce6ca268715d40ee2fbc90e8ce9df54.jpg"
+      },
+      {
+        "id": 111490,
+        "url": "https://media.rawg.io/media/screenshots/059/0593d5a28c4c2684f1b41b8d66130a46.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11676,
+    "updatedAt": "2019-05-18T01:25:35.565703Z",
+    "slug": "for-the-king",
+    "name": "For The King",
+    "released": "2018-04-19",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.7,
+    "ratingsCount": 20,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f94/f94a5856f487ce413d5429792b06fa34.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/c9f/c9f4ececddf1d9353ac7c386a03aa962.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/c2f/c2fc7a1f88617518c6fb43b02e707439.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f94/f94a5856f487ce413d5429792b06fa34.jpg"
+      },
+      {
+        "id": 95657,
+        "url": "https://media.rawg.io/media/screenshots/857/857f14e88de6b3363a814c756e079470.jpg"
+      },
+      {
+        "id": 95658,
+        "url": "https://media.rawg.io/media/screenshots/ded/dedf99df1f1ef052a715ff17b18bd492.jpg"
+      },
+      {
+        "id": 95659,
+        "url": "https://media.rawg.io/media/screenshots/393/393184b2595c50d2c39d34a0850ce3e3.jpg"
+      },
+      {
+        "id": 95660,
+        "url": "https://media.rawg.io/media/screenshots/f9b/f9bb9071c160cc7aa0c2f70241e67680.jpg"
+      },
+      {
+        "id": 95661,
+        "url": "https://media.rawg.io/media/screenshots/498/498713d0ce65cfcd3f94476be307c0f3.jpg"
+      },
+      {
+        "id": 95662,
+        "url": "https://media.rawg.io/media/screenshots/93a/93a602a7b886ec039e5d4df035508b96.jpg"
+      }
+    ]
+  },
+  {
+    "id": 20703,
+    "updatedAt": "2019-05-18T01:24:37.229938Z",
+    "slug": "evil-defenders",
+    "name": "Evil Defenders",
+    "released": "2015-11-11",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 4,
+        "name": "iOS",
+        "slug": "ios"
+      },
+      {
+        "id": 8,
+        "name": "Android",
+        "slug": "android"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/151/151be27f3e5ee3ce1f13f7a7fba7f90f.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/151/151be27f3e5ee3ce1f13f7a7fba7f90f.jpg"
+      },
+      {
+        "id": 196613,
+        "url": "https://media.rawg.io/media/screenshots/733/7337297cf7c157a0d6ef7885dd10ac29.jpg"
+      },
+      {
+        "id": 196614,
+        "url": "https://media.rawg.io/media/screenshots/560/560e872787a69b39bcbc629002adb3b5.jpg"
+      },
+      {
+        "id": 196615,
+        "url": "https://media.rawg.io/media/screenshots/81c/81c9af96e2fc92f4f7e889d0ed7b95ea.jpg"
+      },
+      {
+        "id": 196616,
+        "url": "https://media.rawg.io/media/screenshots/027/027dda47767ecf8d761c8e2155784fe8.jpg"
+      },
+      {
+        "id": 196617,
+        "url": "https://media.rawg.io/media/screenshots/581/581d9ca1a013e33480877176635be27e.jpg"
+      },
+      {
+        "id": 196618,
+        "url": "https://media.rawg.io/media/screenshots/f97/f976c04d49dbe13009be6c02c0f20f0e.jpg"
+      }
+    ]
+  },
+  {
+    "id": 15017,
+    "updatedAt": "2019-05-18T01:23:53.294883Z",
+    "slug": "duck-game",
+    "name": "Duck Game",
+    "released": "2015-06-04",
+    "ratingDisplay": "recommended",
+    "ratingValue": -4.32,
+    "ratingsCount": 56,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f20/f20b14c39b5387488236ff2d1d40f863.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/d54/d54d2d0858aa3af485cb965c40d86de1.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/904/904d310695a91b1eff5c65419719cca1.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f20/f20b14c39b5387488236ff2d1d40f863.jpg"
+      },
+      {
+        "id": 131939,
+        "url": "https://media.rawg.io/media/screenshots/6f7/6f74c40a1ae85ef644e34137da79fe7b.jpg"
+      },
+      {
+        "id": 131940,
+        "url": "https://media.rawg.io/media/screenshots/c3f/c3f70927e78f49b13b812e865bcf275c.jpg"
+      },
+      {
+        "id": 131941,
+        "url": "https://media.rawg.io/media/screenshots/0f2/0f2b8e3125d910c590587ce334f736c0.jpg"
+      },
+      {
+        "id": 131942,
+        "url": "https://media.rawg.io/media/screenshots/fb5/fb54b217fceafeb73947235ee7ac8603.jpg"
+      },
+      {
+        "id": 131943,
+        "url": "https://media.rawg.io/media/screenshots/fb7/fb78d3043db6e7c1db923d84ee4c359f.jpg"
+      },
+      {
+        "id": 131944,
+        "url": "https://media.rawg.io/media/screenshots/1e6/1e67012e3b06a93cfbbf5e5cdd96941d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10416,
+    "updatedAt": "2019-05-18T01:21:22.433489Z",
+    "slug": "darkwood",
+    "name": "Darkwood",
+    "released": "2014-07-24",
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.28,
+    "ratingsCount": 39,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/1b5/1b57ff6c4b3cd513d00e52df02bfc63c.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/fe5/fe5de1516fae744f77b88370583c4dda.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/18e/18eaea3c7cc1fe174b561e4598a7966e.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/1b5/1b57ff6c4b3cd513d00e52df02bfc63c.jpg"
+      },
+      {
+        "id": 80995,
+        "url": "https://media.rawg.io/media/screenshots/9e4/9e476a936c8d1aa749181bda4401863a.jpg"
+      },
+      {
+        "id": 80996,
+        "url": "https://media.rawg.io/media/screenshots/c0d/c0dd94455b5ada2ca98bf07aa2f0b460.jpg"
+      },
+      {
+        "id": 80997,
+        "url": "https://media.rawg.io/media/screenshots/3b4/3b4ae19dbd291095fda71700c3fa03b6.jpg"
+      },
+      {
+        "id": 80998,
+        "url": "https://media.rawg.io/media/screenshots/42f/42fb0b0645857c3cfff69dc8300de98c.jpg"
+      },
+      {
+        "id": 80999,
+        "url": "https://media.rawg.io/media/screenshots/534/534708c716822f03abc3a9367dab9ad1.jpg"
+      },
+      {
+        "id": 81000,
+        "url": "https://media.rawg.io/media/screenshots/fc8/fc8b8bb6db459ead5db36c80152b103b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 319138,
+    "updatedAt": "2019-05-18T01:20:47.864057Z",
+    "slug": "castlevania-anniversary-collection",
+    "name": "Castlevania Anniversary Collection",
+    "released": "2019-05-16",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 15,
+        "name": "Sports",
+        "slug": "sports"
+      },
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/138/138acdd01862a58df02014944e92d6af.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/138/138acdd01862a58df02014944e92d6af.jpg"
+      },
+      {
+        "id": 1930450,
+        "url": "https://media.rawg.io/media/screenshots/4fb/4fbe951dd626ba0e887d600f93495743.jpg"
+      },
+      {
+        "id": 1930451,
+        "url": "https://media.rawg.io/media/screenshots/7ff/7ffe802fcabb2ee87255ae6d23091c95.jpg"
+      },
+      {
+        "id": 1930452,
+        "url": "https://media.rawg.io/media/screenshots/953/95323c74e8be314267e0eb63efc695da.jpg"
+      },
+      {
+        "id": 1930453,
+        "url": "https://media.rawg.io/media/screenshots/bb2/bb2d9a6e866a163ff4c42da2cb43d1b6.jpg"
+      },
+      {
+        "id": 1930454,
+        "url": "https://media.rawg.io/media/screenshots/e9c/e9cc29c2f29661f2dd0ddb6c5b7a0309.jpg"
+      },
+      {
+        "id": 1930455,
+        "url": "https://media.rawg.io/media/screenshots/138/138acdd01862a58df02014944e92d6af.jpg"
+      }
+    ]
+  },
+  {
+    "id": 63823,
+    "updatedAt": "2019-05-18T01:15:57.084291Z",
+    "slug": "ascendance",
+    "name": "ASCENDANCE",
+    "released": "2018-03-27",
+    "ratingDisplay": null,
+    "ratingValue": 0,
+    "ratingsCount": 0,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/55d/55d0ca3c261af21419762295e6617318.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/592/5928dc69903b436ed2f3b26c884053e9.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/af3/af37f23aa064e57cf0d10323976b2b96.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/55d/55d0ca3c261af21419762295e6617318.jpg"
+      },
+      {
+        "id": 857951,
+        "url": "https://media.rawg.io/media/screenshots/84d/84d4d9c515c372dfa79141ed2c937e5f.jpg"
+      },
+      {
+        "id": 857952,
+        "url": "https://media.rawg.io/media/screenshots/5c5/5c53d812749b16d28c38f6e145c72e8f.jpg"
+      },
+      {
+        "id": 857953,
+        "url": "https://media.rawg.io/media/screenshots/ac6/ac6c1bd3005bbd738864bf6c38e3c7c2.jpg"
+      },
+      {
+        "id": 857954,
+        "url": "https://media.rawg.io/media/screenshots/6a7/6a73a3bbcb855500f2f4f28d5272e40a.jpg"
+      },
+      {
+        "id": 857955,
+        "url": "https://media.rawg.io/media/screenshots/863/86319d505f056d486a69a82ef54a0ce5.jpg"
+      },
+      {
+        "id": 857956,
+        "url": "https://media.rawg.io/media/screenshots/142/1427b3b1165e11325c027a8ccea30d7b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46665,
+    "updatedAt": "2019-05-17T07:34:58.931250Z",
+    "slug": "snipperclips-plus-cut-it-out-together",
+    "name": "Snipperclips Plus - Cut it out, together!",
+    "released": "2017-11-10",
+    "ratingDisplay": "recommended",
+    "ratingValue": 0,
+    "ratingsCount": 5,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Puzzle",
+        "slug": "puzzle"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/178/178df5baab4bb4851b1e55f2a2918c94.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/126/1269043bc01962ac729538074cb1664d.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/3a6/3a644c19dba92f8734b9c6531a1ffd16.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/178/178df5baab4bb4851b1e55f2a2918c94.jpg"
+      },
+      {
+        "id": 1837548,
+        "url": "https://media.rawg.io/media/screenshots/6e4/6e47501ee1eb671ec61c3c85cf4aab86.jpg"
+      },
+      {
+        "id": 1837549,
+        "url": "https://media.rawg.io/media/screenshots/7a0/7a07cf4fe54c4e5322b0689b53adf5f0.jpg"
+      },
+      {
+        "id": 1837550,
+        "url": "https://media.rawg.io/media/screenshots/178/178df5baab4bb4851b1e55f2a2918c94.jpg"
+      }
+    ]
+  },
+  {
     "id": 46533,
     "updatedAt": "2019-05-04T04:04:55.108960Z",
     "slug": "feudal-alloy",
@@ -15,6 +4110,11 @@
         "id": 1,
         "name": "PC",
         "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
       },
       {
         "id": 5,
@@ -205,9 +4305,9 @@
     "slug": "among-the-sleep",
     "name": "Among the Sleep",
     "released": "2014-05-28",
-    "ratingDisplay": "recommended",
-    "ratingValue": -3.44,
-    "ratingsCount": 32,
+    "ratingDisplay": "meh",
+    "ratingValue": -3.46,
+    "ratingsCount": 35,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1110,8 +5210,8 @@
     "name": "Yu-Gi-Oh! Legacy of the Duelist",
     "released": "2015-07-30",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.85,
-    "ratingsCount": 13,
+    "ratingValue": -3.8,
+    "ratingsCount": 15,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1129,6 +5229,11 @@
         "id": 3,
         "name": "Xbox",
         "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -1382,8 +5487,8 @@
     "name": "Vaporum",
     "released": "2017-09-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.44,
-    "ratingsCount": 9,
+    "ratingValue": -3.5,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1980,8 +6085,8 @@
     "name": "Table Top Racing: World Tour",
     "released": "2016-05-03",
     "ratingDisplay": "meh",
-    "ratingValue": -2.63,
-    "ratingsCount": 71,
+    "ratingValue": -2.65,
+    "ratingsCount": 72,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2054,7 +6159,7 @@
     "released": "2019-04-04",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2150,6 +6255,21 @@
     "saturatedColor": "0f0f0f",
     "platforms": [
       {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
         "id": 7,
         "name": "Nintendo",
         "slug": "nintendo"
@@ -2160,6 +6280,11 @@
         "id": 4,
         "name": "Action",
         "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
       },
       {
         "id": 5,
@@ -2363,79 +6488,6 @@
     ]
   },
   {
-    "id": 4203,
-    "updatedAt": "2019-05-03T23:10:34.421050Z",
-    "slug": "saints-row-the-third-the-full-package",
-    "name": "Saints Row: The Third - The Full Package",
-    "released": "2011-11-16",
-    "ratingDisplay": "recommended",
-    "ratingValue": -4,
-    "ratingsCount": 12,
-    "dominantColor": "0f0f0f",
-    "saturatedColor": "0f0f0f",
-    "platforms": [
-      {
-        "id": 1,
-        "name": "PC",
-        "slug": "pc"
-      },
-      {
-        "id": 2,
-        "name": "PlayStation",
-        "slug": "playstation"
-      },
-      {
-        "id": 7,
-        "name": "Nintendo",
-        "slug": "nintendo"
-      }
-    ],
-    "genres": [
-      {
-        "id": 4,
-        "name": "Action",
-        "slug": "action"
-      },
-      {
-        "id": 3,
-        "name": "Adventure",
-        "slug": "adventure"
-      }
-    ],
-    "background": "https://media.rawg.io/media/screenshots/85b/85b379b20a61f71371266d2a2596fb19_daYVPfW.jpg",
-    "clip": null,
-    "screenshots": [
-      {
-        "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/85b/85b379b20a61f71371266d2a2596fb19_daYVPfW.jpg"
-      },
-      {
-        "id": 227368,
-        "url": "https://media.rawg.io/media/screenshots/68f/68f1a5e070faf054eedbd75ba41eddd8_oul7qhU.jpg"
-      },
-      {
-        "id": 227369,
-        "url": "https://media.rawg.io/media/screenshots/a37/a373897d6eca17b6c61275d287939384.jpg"
-      },
-      {
-        "id": 227370,
-        "url": "https://media.rawg.io/media/screenshots/cc3/cc31a8866cf410ccb2599c4e152c4b3e.jpg"
-      },
-      {
-        "id": 227371,
-        "url": "https://media.rawg.io/media/screenshots/7ff/7ffc2e9ba155ec4421b580a93fbf596e_hO9BSRK.jpg"
-      },
-      {
-        "id": 227372,
-        "url": "https://media.rawg.io/media/screenshots/31b/31b4f8d8e8714df54b133750bb6f4df6.jpg"
-      },
-      {
-        "id": 227373,
-        "url": "https://media.rawg.io/media/screenshots/70c/70c09683aa2a9a6716a565e640da293b.jpg"
-      }
-    ]
-  },
-  {
     "id": 67294,
     "updatedAt": "2019-05-03T23:10:08.049923Z",
     "slug": "rolling-sky",
@@ -2613,8 +6665,8 @@
     "name": "Reigns: Game of Thrones",
     "released": "2018-10-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.76,
-    "ratingsCount": 17,
+    "ratingValue": -3.78,
+    "ratingsCount": 18,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2919,7 +6971,7 @@
     "released": "2010-10-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.9,
-    "ratingsCount": 20,
+    "ratingsCount": 21,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3006,8 +7058,8 @@
     "name": "My Time At Portia",
     "released": "2019-01-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
-    "ratingsCount": 17,
+    "ratingValue": -3.83,
+    "ratingsCount": 18,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3207,8 +7259,8 @@
     "name": "Mortal Kombat 11",
     "released": "2019-04-23",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.21,
-    "ratingsCount": 29,
+    "ratingValue": -4.28,
+    "ratingsCount": 43,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3357,7 +7409,7 @@
     "released": "2019-04-04",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3419,9 +7471,9 @@
     "slug": "katana-zero",
     "name": "Katana ZERO",
     "released": "2019-04-17",
-    "ratingDisplay": "recommended",
-    "ratingValue": -4.31,
-    "ratingsCount": 13,
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.41,
+    "ratingsCount": 16,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3458,7 +7510,7 @@
         "slug": "platformer"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/ac8/ac897d2e32e87b3c23d8a516de438edd.jpg",
+    "background": "https://media.rawg.io/media/games/d37/d37e110ddcc0bd52d99f0f647b737a0a.jpg",
     "clip": {
       "clip": "https://media.rawg.io/media/stories/946/9464968c73b34e078edb43fc818f31a2.mp4",
       "preview": "https://media.rawg.io/media/stories-previews/7bd/7bd1fcd4ae3d833e363ca48cbdc4b841.jpg"
@@ -3466,7 +7518,7 @@
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/ac8/ac897d2e32e87b3c23d8a516de438edd.jpg"
+        "url": "https://media.rawg.io/media/games/d37/d37e110ddcc0bd52d99f0f647b737a0a.jpg"
       },
       {
         "id": 119448,
@@ -3569,8 +7621,8 @@
     "name": "Iconoclasts",
     "released": "2018-01-23",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.79,
-    "ratingsCount": 104,
+    "ratingValue": -3.75,
+    "ratingsCount": 111,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3728,8 +7780,8 @@
     "name": "Hob",
     "released": "2017-09-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -4,
-    "ratingsCount": 31,
+    "ratingValue": -3.97,
+    "ratingsCount": 33,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3802,8 +7854,8 @@
     "name": "Hellblade: Senua's Sacrifice",
     "released": "2017-08-07",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.34,
-    "ratingsCount": 429,
+    "ratingValue": -4.35,
+    "ratingsCount": 443,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4015,8 +8067,8 @@
     "name": "Final Fantasy XII: The Zodiac Age",
     "released": "2017-07-11",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.37,
-    "ratingsCount": 40,
+    "ratingValue": -4.35,
+    "ratingsCount": 42,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4029,6 +8081,11 @@
         "id": 2,
         "name": "PlayStation",
         "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
       },
       {
         "id": 7,
@@ -4086,8 +8143,8 @@
     "name": "FINAL FANTASY X/X-2 HD Remaster",
     "released": "2014-03-18",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.28,
-    "ratingsCount": 61,
+    "ratingValue": -4.27,
+    "ratingsCount": 63,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4243,7 +8300,7 @@
     "released": "2013-04-23",
     "ratingDisplay": "recommended",
     "ratingValue": -4,
-    "ratingsCount": 154,
+    "ratingsCount": 168,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4328,8 +8385,8 @@
     "name": "Deponia",
     "released": "2012-08-06",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.99,
-    "ratingsCount": 163,
+    "ratingValue": -4.02,
+    "ratingsCount": 176,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4496,7 +8553,7 @@
     "released": "2017-11-01",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4593,8 +8650,8 @@
     "name": "Bridge Constructor Portal",
     "released": "2017-12-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.78,
-    "ratingsCount": 36,
+    "ratingValue": -3.8,
+    "ratingsCount": 39,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4819,7 +8876,7 @@
     "released": "2017-09-29",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.34,
-    "ratingsCount": 363,
+    "ratingsCount": 375,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4904,8 +8961,8 @@
     "name": "Cook, Serve, Delicious! 2!!",
     "released": "2017-09-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.47,
-    "ratingsCount": 19,
+    "ratingValue": -3.32,
+    "ratingsCount": 22,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5023,7 +9080,7 @@
         "slug": "platformer"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/bf8/bf867f38f52bf3bcad97405080168236.jpg",
+    "background": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg",
     "clip": {
       "clip": "https://media.rawg.io/media/stories/b15/b15b86665086dc434d54079f64454bf4.mp4",
       "preview": "https://media.rawg.io/media/stories-previews/673/67387d6adf72b197df0169426c1ae236.jpg"
@@ -5031,11 +9088,7 @@
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/bf8/bf867f38f52bf3bcad97405080168236.jpg"
-      },
-      {
-        "id": 713775,
-        "url": "https://media.rawg.io/media/screenshots/1d6/1d6f9f283b6b4bfba9144ed197a0b9a5.jpg"
+        "url": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg"
       },
       {
         "id": 713776,
@@ -5066,8 +9119,8 @@
     "name": "Yooka-Laylee",
     "released": "2017-04-10",
     "ratingDisplay": "meh",
-    "ratingValue": -3.02,
-    "ratingsCount": 46,
+    "ratingValue": -2.98,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5165,7 +9218,7 @@
     "released": "2018-06-09",
     "ratingDisplay": "recommended",
     "ratingValue": -4.11,
-    "ratingsCount": 52,
+    "ratingsCount": 54,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5250,8 +9303,8 @@
     "name": "Valley",
     "released": "2016-08-23",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.7,
-    "ratingsCount": 9,
+    "ratingValue": -3.73,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5427,7 +9480,7 @@
     "released": "2019-03-26",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5440,6 +9493,11 @@
         "id": 2,
         "name": "PlayStation",
         "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
       },
       {
         "id": 7,
@@ -5514,8 +9572,8 @@
     "name": "Trials Rising",
     "released": "2019-02-26",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.1,
-    "ratingsCount": 10,
+    "ratingValue": -4.18,
+    "ratingsCount": 11,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6094,8 +10152,8 @@
     "name": "Ultimate Chicken Horse",
     "released": "2016-03-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.16,
-    "ratingsCount": 30,
+    "ratingValue": -4.15,
+    "ratingsCount": 31,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6248,8 +10306,8 @@
     "name": "The Red Strings Club",
     "released": "2018-01-21",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.32,
-    "ratingsCount": 70,
+    "ratingValue": -4.33,
+    "ratingsCount": 71,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6757,9 +10815,9 @@
     "slug": "she-remembered-caterpillars",
     "name": "She Remembered Caterpillars",
     "released": "2017-01-17",
-    "ratingDisplay": null,
+    "ratingDisplay": "exceptional",
     "ratingValue": 0,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6924,8 +10982,8 @@
     "name": "Serial Cleaner",
     "released": "2016-09-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -2.85,
-    "ratingsCount": 13,
+    "ratingValue": -2.94,
+    "ratingsCount": 16,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7180,7 +11238,10 @@
     ],
     "genres": [],
     "background": "https://media.rawg.io/media/screenshots/863/863fdb2ed7b9438d97d9df232e3724d4.jpg",
-    "clip": null,
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/0e4/0e42efbd16b292efe98eb4ea9b746ca9.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/983/9838e55d2facf6074e8e853d519f0836.jpg"
+    },
     "screenshots": [
       {
         "id": -1,
@@ -7211,8 +11272,8 @@
     "name": "Nuclear Throne",
     "released": "2015-12-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.2,
-    "ratingsCount": 69,
+    "ratingValue": -4.19,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7304,8 +11365,8 @@
     "name": "NBA 2K19",
     "released": "2018-09-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.72,
-    "ratingsCount": 32,
+    "ratingValue": -3.74,
+    "ratingsCount": 35,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7393,7 +11454,7 @@
     "released": "2017-12-21",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7576,8 +11637,8 @@
     "name": "Mega Man X Legacy Collection",
     "released": "2018-07-24",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.91,
-    "ratingsCount": 11,
+    "ratingValue": -3.92,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7980,8 +12041,8 @@
     "name": "Holy Potatoes! A Weapon Shop?!",
     "released": "2015-07-12",
     "ratingDisplay": "meh",
-    "ratingValue": -3.14,
-    "ratingsCount": 13,
+    "ratingValue": -3.31,
+    "ratingsCount": 15,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8083,8 +12144,8 @@
     "name": "Hard West",
     "released": "2015-11-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.37,
-    "ratingsCount": 42,
+    "ratingValue": -3.41,
+    "ratingsCount": 43,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8566,7 +12627,7 @@
     "released": "2000-07-07",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.28,
-    "ratingsCount": 118,
+    "ratingsCount": 120,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8579,6 +12640,11 @@
         "id": 2,
         "name": "PlayStation",
         "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
       },
       {
         "id": 7,
@@ -8639,7 +12705,7 @@
     "released": "1997-01-31",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.3,
-    "ratingsCount": 218,
+    "ratingsCount": 228,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8724,8 +12790,8 @@
     "name": "Evoland Legendary Edition",
     "released": "2019-02-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.14,
-    "ratingsCount": 21,
+    "ratingValue": -3.09,
+    "ratingsCount": 23,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8822,8 +12888,8 @@
     "name": "EARTHLOCK: Festival of Magic",
     "released": "2016-09-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.12,
-    "ratingsCount": 15,
+    "ratingValue": -3.28,
+    "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9522,8 +13588,8 @@
     "name": "Bendy and the Ink Machine",
     "released": "2017-04-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.67,
-    "ratingsCount": 21,
+    "ratingValue": -3.64,
+    "ratingsCount": 22,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9546,6 +13612,11 @@
         "id": 4,
         "name": "iOS",
         "slug": "ios"
+      },
+      {
+        "id": 8,
+        "name": "Android",
+        "slug": "android"
       },
       {
         "id": 5,
@@ -9949,7 +14020,7 @@
     "released": "1997-03-04",
     "ratingDisplay": "recommended",
     "ratingValue": -3.96,
-    "ratingsCount": 23,
+    "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10036,8 +14107,8 @@
     "name": "12 is Better Than 6",
     "released": "2015-11-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.52,
-    "ratingsCount": 39,
+    "ratingValue": -3.55,
+    "ratingsCount": 41,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10118,7 +14189,7 @@
     "released": "2017-10-27",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.35,
-    "ratingsCount": 426,
+    "ratingsCount": 436,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10183,8 +14254,8 @@
     "name": "Super Smash Bros. Ultimate",
     "released": "2018-12-07",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.27,
-    "ratingsCount": 189,
+    "ratingValue": -4.29,
+    "ratingsCount": 196,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10245,7 +14316,7 @@
     "released": "2017-03-03",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.49,
-    "ratingsCount": 620,
+    "ratingsCount": 638,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10315,8 +14386,8 @@
     "name": "Mario Kart 8 Deluxe",
     "released": "2017-04-28",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.34,
-    "ratingsCount": 230,
+    "ratingValue": -4.33,
+    "ratingsCount": 235,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10440,8 +14511,8 @@
     "name": "Trine 2: Complete Story",
     "released": "2013-06-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.73,
-    "ratingsCount": 279,
+    "ratingValue": -3.7,
+    "ratingsCount": 294,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10536,8 +14607,8 @@
     "name": "Trine Enchanted Edition",
     "released": "2009-07-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.88,
-    "ratingsCount": 184,
+    "ratingValue": -3.84,
+    "ratingsCount": 202,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10664,8 +14735,8 @@
     ],
     "background": "https://media.rawg.io/media/games/2bd/2bd5f39a1997000497d674c9cabb9e28.jpg",
     "clip": {
-      "clip": "https://media.rawg.io/media/stories/07c/07c0b88c898ed424aa36cc46155aea5d.mp4",
-      "preview": "https://media.rawg.io/media/stories-previews/6c6/6c672ef0eeb478ff64f87dfdfae4047a.jpg"
+      "clip": "https://media.rawg.io/media/stories/2bc/2bcfa58169d42da48f0f881841bbd564.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/01f/01f4e6d4fba6294196418975788edcd8.jpg"
     },
     "screenshots": [
       {
@@ -10783,8 +14854,8 @@
     "name": "Q.U.B.E. 2",
     "released": "2018-03-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.52,
-    "ratingsCount": 33,
+    "ratingValue": -3.44,
+    "ratingsCount": 36,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10862,8 +14933,8 @@
     "name": ">observer_",
     "released": "2017-08-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.92,
-    "ratingsCount": 87,
+    "ratingValue": -3.93,
+    "ratingsCount": 95,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11375,8 +15446,8 @@
     "name": "Captain Toad: Treasure Tracker",
     "released": "2014-12-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.3,
-    "ratingsCount": 41,
+    "ratingValue": -4.29,
+    "ratingsCount": 43,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11436,8 +15507,8 @@
     "name": "Gris",
     "released": "2018-12-13",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.27,
-    "ratingsCount": 143,
+    "ratingValue": -4.26,
+    "ratingsCount": 146,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11523,7 +15594,7 @@
     "released": "2013-08-29",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 407,
+    "ratingsCount": 430,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11608,8 +15679,8 @@
     "name": "Splatoon 2",
     "released": "2017-07-21",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.39,
-    "ratingsCount": 98,
+    "ratingValue": -4.4,
+    "ratingsCount": 100,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11674,8 +15745,8 @@
     "name": "Travis Strikes Again: No More Heroes",
     "released": "2019-01-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.11,
-    "ratingsCount": 9,
+    "ratingValue": -4,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11802,7 +15873,7 @@
     "released": "2012-04-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.33,
-    "ratingsCount": 491,
+    "ratingsCount": 514,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11894,8 +15965,8 @@
     "name": "Salt and Sanctuary",
     "released": "2016-03-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.91,
-    "ratingsCount": 81,
+    "ratingValue": -3.92,
+    "ratingsCount": 85,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11996,7 +16067,7 @@
     "released": "2018-10-23",
     "ratingDisplay": "recommended",
     "ratingValue": -4,
-    "ratingsCount": 12,
+    "ratingsCount": 13,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12068,8 +16139,8 @@
     "name": "Dark Souls: Remastered",
     "released": "2018-05-23",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.32,
-    "ratingsCount": 153,
+    "ratingValue": -4.33,
+    "ratingsCount": 161,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12140,8 +16211,8 @@
     "name": "Sundered",
     "released": "2017-07-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.12,
-    "ratingsCount": 24,
+    "ratingValue": -3.17,
+    "ratingsCount": 29,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12268,9 +16339,9 @@
     "slug": "rain-world",
     "name": "Rain World",
     "released": "2017-03-27",
-    "ratingDisplay": "meh",
-    "ratingValue": -3.47,
-    "ratingsCount": 19,
+    "ratingDisplay": "exceptional",
+    "ratingValue": -3.55,
+    "ratingsCount": 20,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12355,8 +16426,8 @@
     "name": "Overcooked! 2",
     "released": "2018-08-06",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.34,
-    "ratingsCount": 60,
+    "ratingValue": -4.38,
+    "ratingsCount": 63,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12448,7 +16519,7 @@
     "released": "2009-05-10",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.31,
-    "ratingsCount": 301,
+    "ratingsCount": 320,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12636,8 +16707,8 @@
     "name": "GRIP: Combat Racing",
     "released": "2018-11-06",
     "ratingDisplay": "meh",
-    "ratingValue": -3.29,
-    "ratingsCount": 35,
+    "ratingValue": -3.3,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12722,8 +16793,8 @@
     "name": "FIFA 19",
     "released": "2018-09-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.64,
-    "ratingsCount": 101,
+    "ratingValue": -3.6,
+    "ratingsCount": 108,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12794,8 +16865,8 @@
     "name": "New Super Mario Bros. U Deluxe",
     "released": "2019-01-11",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.5,
-    "ratingsCount": 11,
+    "ratingValue": -3.54,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12843,8 +16914,8 @@
     "name": "Transistor",
     "released": "2014-05-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.22,
-    "ratingsCount": 443,
+    "ratingValue": -4.2,
+    "ratingsCount": 462,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12939,8 +17010,8 @@
     "name": "Mega Man 11",
     "released": "2018-10-02",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.25,
-    "ratingsCount": 15,
+    "ratingValue": -4.28,
+    "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13020,8 +17091,8 @@
     "name": "Snake Pass",
     "released": "2017-03-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.44,
-    "ratingsCount": 47,
+    "ratingValue": -3.38,
+    "ratingsCount": 52,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13329,8 +17400,8 @@
     "name": "Valkyria Chronicles",
     "released": "2008-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.24,
-    "ratingsCount": 113,
+    "ratingValue": -4.21,
+    "ratingsCount": 122,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13934,8 +18005,8 @@
     "name": "Sine Mora EX",
     "released": "2017-08-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.24,
-    "ratingsCount": 16,
+    "ratingValue": -3.1,
+    "ratingsCount": 20,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14012,8 +18083,8 @@
     "name": "SINNER: Sacrifice for Redemption",
     "released": "2018-10-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.15,
-    "ratingsCount": 13,
+    "ratingValue": -3.14,
+    "ratingsCount": 14,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14205,8 +18276,8 @@
     "name": "The Bridge",
     "released": "2013-02-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.16,
-    "ratingsCount": 79,
+    "ratingValue": -3.19,
+    "ratingsCount": 85,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14304,7 +18375,7 @@
     "released": "2011-11-10",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.39,
-    "ratingsCount": 1060,
+    "ratingsCount": 1112,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14385,7 +18456,7 @@
     "released": "2018-09-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.14,
-    "ratingsCount": 34,
+    "ratingsCount": 36,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14470,8 +18541,8 @@
     "name": "The Room",
     "released": "2012-09-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 71,
+    "ratingValue": -4.26,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14606,7 +18677,7 @@
     "released": "2017-09-04",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 3,
+    "ratingsCount": 4,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14673,8 +18744,8 @@
     "name": "Forgotton Anne",
     "released": "2018-05-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.06,
-    "ratingsCount": 17,
+    "ratingValue": -4.1,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14766,8 +18837,8 @@
     "name": "Giana Sisters: Twisted Dreams",
     "released": "2012-10-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -2.93,
-    "ratingsCount": 56,
+    "ratingValue": -2.94,
+    "ratingsCount": 62,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15004,8 +19075,8 @@
     "name": "Immortal Redneck",
     "released": "2017-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.78,
-    "ratingsCount": 22,
+    "ratingValue": -3.68,
+    "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15144,8 +19215,8 @@
     "name": "Momodora: Reverie Under the Moonlight",
     "released": "2016-03-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.16,
-    "ratingsCount": 37,
+    "ratingValue": -4.02,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15232,8 +19303,8 @@
     "name": "NEKOPARA Vol. 1",
     "released": "2014-12-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.42,
-    "ratingsCount": 18,
+    "ratingValue": -3.3,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15378,8 +19449,8 @@
     "name": "Octodad: Dadliest Catch",
     "released": "2014-01-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.64,
-    "ratingsCount": 78,
+    "ratingValue": -3.65,
+    "ratingsCount": 81,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15590,8 +19661,8 @@
     "name": "Risk of Rain",
     "released": "2013-11-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.94,
-    "ratingsCount": 121,
+    "ratingValue": -3.96,
+    "ratingsCount": 128,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15750,9 +19821,9 @@
     "slug": "caveblazers",
     "name": "Caveblazers",
     "released": "2016-04-01",
-    "ratingDisplay": null,
+    "ratingDisplay": "recommended",
     "ratingValue": 0,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15893,7 +19964,7 @@
     "released": "2012-08-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.63,
-    "ratingsCount": 190,
+    "ratingsCount": 209,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16275,8 +20346,8 @@
     "name": "South Park: The Stick of Truth",
     "released": "2014-03-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.21,
-    "ratingsCount": 386,
+    "ratingValue": -4.22,
+    "ratingsCount": 402,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16356,8 +20427,8 @@
     "name": "Tales of Vesperia: Definitive Edition",
     "released": "2019-01-10",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.55,
-    "ratingsCount": 11,
+    "ratingValue": -4.58,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16600,8 +20671,8 @@
     "name": "ABZU",
     "released": "2016-08-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.03,
-    "ratingsCount": 244,
+    "ratingValue": -4.02,
+    "ratingsCount": 250,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16691,8 +20762,8 @@
     "name": "Bad North",
     "released": "2016-11-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.5,
-    "ratingsCount": 17,
+    "ratingValue": -3.47,
+    "ratingsCount": 18,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16798,7 +20869,7 @@
     "released": "2011-07-20",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.32,
-    "ratingsCount": 507,
+    "ratingsCount": 525,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16976,8 +21047,8 @@
     "name": "Sid Meier’s Civilization VI",
     "released": "2016-10-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.11,
-    "ratingsCount": 230,
+    "ratingValue": -4.13,
+    "ratingsCount": 241,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17063,7 +21134,7 @@
     "released": "2017-07-12",
     "ratingDisplay": "recommended",
     "ratingValue": -4.08,
-    "ratingsCount": 25,
+    "ratingsCount": 26,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17105,12 +21176,12 @@
         "slug": "indie"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/f7e/f7ef51b33512037afae16605e6da578b.jpg",
+    "background": "https://media.rawg.io/media/games/30a/30a059b8fc6b95526434f710ec67d5bd.jpg",
     "clip": null,
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/f7e/f7ef51b33512037afae16605e6da578b.jpg"
+        "url": "https://media.rawg.io/media/games/30a/30a059b8fc6b95526434f710ec67d5bd.jpg"
       },
       {
         "id": 268595,
@@ -17358,8 +21429,8 @@
     "name": "Lumo",
     "released": "2016-05-23",
     "ratingDisplay": "meh",
-    "ratingValue": -2.64,
-    "ratingsCount": 44,
+    "ratingValue": -2.63,
+    "ratingsCount": 46,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17456,8 +21527,8 @@
     "name": "NORTH",
     "released": "2016-04-27",
     "ratingDisplay": "skip",
-    "ratingValue": 0,
-    "ratingsCount": 4,
+    "ratingValue": -2.33,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17539,8 +21610,8 @@
     "name": "Nihilumbra",
     "released": "2012-06-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.42,
-    "ratingsCount": 31,
+    "ratingValue": -3.34,
+    "ratingsCount": 35,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17650,8 +21721,8 @@
     "name": "Zen Bound 2",
     "released": "2010-04-01",
     "ratingDisplay": "meh",
-    "ratingValue": -3.5,
-    "ratingsCount": 26,
+    "ratingValue": -3.41,
+    "ratingsCount": 27,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17748,8 +21819,8 @@
     "name": "Yoku's Island Express",
     "released": "2018-05-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.4,
-    "ratingsCount": 19,
+    "ratingValue": -4.43,
+    "ratingsCount": 20,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18027,8 +22098,8 @@
     "name": "VVVVVV",
     "released": "2010-01-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.74,
-    "ratingsCount": 165,
+    "ratingValue": -3.72,
+    "ratingsCount": 173,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18310,9 +22381,9 @@
     "slug": "valkyria-chronicles-4",
     "name": "Valkyria Chronicles 4",
     "released": "2018-03-21",
-    "ratingDisplay": "exceptional",
-    "ratingValue": -4.19,
-    "ratingsCount": 16,
+    "ratingDisplay": "recommended",
+    "ratingValue": -4.15,
+    "ratingsCount": 20,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18671,7 +22742,7 @@
     "released": "2016-10-10",
     "ratingDisplay": "recommended",
     "ratingValue": -4.22,
-    "ratingsCount": 62,
+    "ratingsCount": 66,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18751,8 +22822,8 @@
     "name": "The Walking Dead: The Final Season",
     "released": "2018-08-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.9,
-    "ratingsCount": 39,
+    "ratingValue": -3.93,
+    "ratingsCount": 42,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18901,7 +22972,7 @@
     "released": "2010-10-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.96,
-    "ratingsCount": 489,
+    "ratingsCount": 510,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19104,8 +23175,8 @@
     "name": "The Journey Down: Chapter Two",
     "released": "2014-08-25",
     "ratingDisplay": "skip",
-    "ratingValue": -2.67,
-    "ratingsCount": 6,
+    "ratingValue": -2.75,
+    "ratingsCount": 8,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19202,8 +23273,8 @@
     "name": "The Journey Down: Chapter One",
     "released": "2012-12-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -2.7,
-    "ratingsCount": 10,
+    "ratingValue": -2.75,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19456,8 +23527,8 @@
     "name": "SteamWorld Dig 2",
     "released": "2017-09-21",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.37,
-    "ratingsCount": 75,
+    "ratingValue": -4.34,
+    "ratingsCount": 80,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19554,8 +23625,8 @@
     "name": "SteamWorld Heist",
     "released": "2015-12-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.14,
-    "ratingsCount": 70,
+    "ratingValue": -4.06,
+    "ratingsCount": 77,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19662,8 +23733,8 @@
     "name": "SteamWorld Dig",
     "released": "2013-08-08",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.8,
-    "ratingsCount": 173,
+    "ratingValue": -3.78,
+    "ratingsCount": 181,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19766,7 +23837,7 @@
     "released": "2016-02-25",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.34,
-    "ratingsCount": 429,
+    "ratingsCount": 441,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19871,8 +23942,8 @@
     "name": "Sonic Mania",
     "released": "2017-08-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.31,
-    "ratingsCount": 130,
+    "ratingValue": -4.3,
+    "ratingsCount": 135,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20326,8 +24397,8 @@
     "name": "RIVE: Wreck, Hack, Die, Retry!",
     "released": "2016-09-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -2.75,
-    "ratingsCount": 8,
+    "ratingValue": -2.6,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20446,8 +24517,8 @@
     "name": "Resident Evil Revelations 2 / Biohazard Revelations 2",
     "released": "2015-02-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.81,
-    "ratingsCount": 170,
+    "ratingValue": -3.77,
+    "ratingsCount": 179,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20485,7 +24556,10 @@
       }
     ],
     "background": "https://media.rawg.io/media/screenshots/1a1/1a164dadb4eda135677e6e635cba44cd.jpg",
-    "clip": null,
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories/ee3/ee3c09d820932cf1f6889f2bc0bf695d.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/454/4540eb2e0a82b32232707b29661ed8fd.jpg"
+    },
     "screenshots": [
       {
         "id": -1,
@@ -20525,7 +24599,7 @@
     "released": "2012-02-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.81,
-    "ratingsCount": 135,
+    "ratingsCount": 143,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20698,8 +24772,8 @@
     "name": "Prison Architect",
     "released": "2015-10-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
-    "ratingsCount": 108,
+    "ratingValue": -3.83,
+    "ratingsCount": 111,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21009,8 +25083,8 @@
     "name": "PAYDAY 2",
     "released": "2013-08-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.51,
-    "ratingsCount": 504,
+    "ratingValue": -3.5,
+    "ratingsCount": 528,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21235,8 +25309,8 @@
     "name": "Owlboy",
     "released": "2016-10-31",
     "ratingDisplay": "recommended",
-    "ratingValue": -4,
-    "ratingsCount": 76,
+    "ratingValue": -3.9,
+    "ratingsCount": 90,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21336,8 +25410,8 @@
     "name": "Overcooked",
     "released": "2016-08-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 211,
+    "ratingValue": -4.21,
+    "ratingsCount": 229,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21746,8 +25820,8 @@
     "name": "Old Man's Journey",
     "released": "2017-05-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.68,
-    "ratingsCount": 38,
+    "ratingValue": -3.65,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21858,7 +25932,7 @@
     "released": "2015-05-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.28,
-    "ratingsCount": 83,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22206,7 +26280,7 @@
     "released": "2016-10-27",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.37,
-    "ratingsCount": 147,
+    "ratingsCount": 151,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22477,8 +26551,8 @@
     "name": "NBA 2K18",
     "released": "2017-09-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.51,
-    "ratingsCount": 37,
+    "ratingValue": -3.52,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22569,9 +26643,9 @@
     "slug": "nba-playgrounds",
     "name": "NBA Playgrounds",
     "released": "2017-05-08",
-    "ratingDisplay": "recommended",
-    "ratingValue": -3.03,
-    "ratingsCount": 30,
+    "ratingDisplay": "meh",
+    "ratingValue": -2.92,
+    "ratingsCount": 35,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22649,7 +26723,7 @@
     "released": "2008-11-04",
     "ratingDisplay": "recommended",
     "ratingValue": -3.91,
-    "ratingsCount": 22,
+    "ratingsCount": 23,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22814,8 +26888,8 @@
     "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst",
     "released": "2013-10-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.98,
-    "ratingsCount": 50,
+    "ratingValue": -3.94,
+    "ratingsCount": 53,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22949,8 +27023,8 @@
     "name": "N++ (NPLUSPLUS)",
     "released": "2016-08-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.17,
-    "ratingsCount": 47,
+    "ratingValue": -4.14,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23218,7 +27292,7 @@
     "released": "2016-04-12",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23337,8 +27411,8 @@
     "name": "Millie",
     "released": "2014-04-03",
     "ratingDisplay": "skip",
-    "ratingValue": -2.12,
-    "ratingsCount": 8,
+    "ratingValue": -2,
+    "ratingsCount": 9,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23436,8 +27510,8 @@
     "name": "Midnight Deluxe",
     "released": "2018-03-06",
     "ratingDisplay": "skip",
-    "ratingValue": 0,
-    "ratingsCount": 5,
+    "ratingValue": -1.67,
+    "ratingsCount": 6,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23543,8 +27617,8 @@
     "name": "Max: The Curse of Brotherhood",
     "released": "2013-12-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.39,
-    "ratingsCount": 46,
+    "ratingValue": -3.35,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23846,7 +27920,7 @@
     "released": "2011-05-17",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 537,
+    "ratingsCount": 558,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23926,8 +28000,8 @@
     "name": "Keep Talking and Nobody Explodes",
     "released": "2015-10-08",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.19,
-    "ratingsCount": 78,
+    "ratingValue": -4.15,
+    "ratingsCount": 82,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24072,6 +28146,11 @@
         "slug": "pc"
       },
       {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
         "id": 7,
         "name": "Nintendo",
         "slug": "nintendo"
@@ -24079,9 +28158,19 @@
     ],
     "genres": [
       {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
         "id": 11,
         "name": "Arcade",
         "slug": "arcade"
+      },
+      {
+        "id": 19,
+        "name": "Family",
+        "slug": "family"
       },
       {
         "id": 51,
@@ -24125,8 +28214,8 @@
     "name": "Just Dance 2018",
     "released": "2017-09-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
-    "ratingsCount": 27,
+    "ratingValue": -3.86,
+    "ratingsCount": 28,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24199,7 +28288,7 @@
     "released": "2016-10-25",
     "ratingDisplay": "recommended",
     "ratingValue": -3.94,
-    "ratingsCount": 31,
+    "ratingsCount": 32,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24333,8 +28422,8 @@
     "name": "INSIDE",
     "released": "2016-06-28",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.33,
-    "ratingsCount": 531,
+    "ratingValue": -4.34,
+    "ratingsCount": 547,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24439,8 +28528,8 @@
     "name": "ICEY",
     "released": "2016-11-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.67,
-    "ratingsCount": 18,
+    "ratingValue": -3.63,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24614,9 +28703,9 @@
     "slug": "i-am-setsuna",
     "name": "I Am Setsuna",
     "released": "2016-07-19",
-    "ratingDisplay": "meh",
-    "ratingValue": -2.83,
-    "ratingsCount": 6,
+    "ratingDisplay": "recommended",
+    "ratingValue": -3,
+    "ratingsCount": 7,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24817,8 +28906,8 @@
     "name": "DRAGON QUEST BUILDERS",
     "released": "2016-01-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.27,
-    "ratingsCount": 21,
+    "ratingValue": -4.21,
+    "ratingsCount": 23,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24975,7 +29064,7 @@
     "released": "2013-04-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.97,
-    "ratingsCount": 276,
+    "ratingsCount": 284,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25050,8 +29139,8 @@
     "name": "Cities: Skylines",
     "released": "2015-03-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.3,
-    "ratingsCount": 312,
+    "ratingValue": -4.29,
+    "ratingsCount": 335,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25141,7 +29230,7 @@
     "name": "Chasm",
     "released": "2018-07-31",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
+    "ratingValue": -3.76,
     "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -25247,8 +29336,8 @@
     "name": "Cave Story+",
     "released": "2010-03-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.07,
-    "ratingsCount": 97,
+    "ratingValue": -4.04,
+    "ratingsCount": 98,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25469,8 +29558,8 @@
     "name": "Batman: The Enemy Within",
     "released": "2017-08-08",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.76,
-    "ratingsCount": 139,
+    "ratingValue": -3.77,
+    "ratingsCount": 140,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25562,8 +29651,8 @@
     "name": "The Banner Saga 3",
     "released": "2018-07-24",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.32,
-    "ratingsCount": 33,
+    "ratingValue": -4.3,
+    "ratingsCount": 36,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25740,7 +29829,7 @@
     "released": "2017-06-16",
     "ratingDisplay": "recommended",
     "ratingValue": -4.05,
-    "ratingsCount": 37,
+    "ratingsCount": 38,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26321,7 +30410,7 @@
     "released": "2018-08-27",
     "ratingDisplay": "recommended",
     "ratingValue": -4.1,
-    "ratingsCount": 66,
+    "ratingsCount": 70,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26659,8 +30748,8 @@
     "name": "Freedom Planet",
     "released": "2014-07-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.05,
-    "ratingsCount": 21,
+    "ratingValue": -3.83,
+    "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26747,8 +30836,8 @@
     "name": "Furi",
     "released": "2016-07-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.89,
-    "ratingsCount": 190,
+    "ratingValue": -3.87,
+    "ratingsCount": 196,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26829,7 +30918,7 @@
     "released": "2016-02-08",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.36,
-    "ratingsCount": 620,
+    "ratingsCount": 635,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26919,8 +31008,8 @@
     "name": "Aaero",
     "released": "2017-04-11",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.18,
-    "ratingsCount": 11,
+    "ratingValue": -3.25,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -26992,8 +31081,8 @@
     "name": "Brawlhalla",
     "released": "2014-04-30",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.34,
-    "ratingsCount": 165,
+    "ratingValue": -3.32,
+    "ratingsCount": 172,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27338,8 +31427,8 @@
     "name": "Limbo",
     "released": "2010-08-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.14,
-    "ratingsCount": 847,
+    "ratingValue": -4.15,
+    "ratingsCount": 874,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27507,7 +31596,7 @@
     "released": "2015-06-02",
     "ratingDisplay": "meh",
     "ratingValue": -2.99,
-    "ratingsCount": 108,
+    "ratingsCount": 109,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27695,8 +31784,8 @@
     "name": "Bayonetta",
     "released": "2009-10-29",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.35,
-    "ratingsCount": 296,
+    "ratingValue": -4.32,
+    "ratingsCount": 312,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27776,8 +31865,8 @@
     "name": "Bayonetta 2",
     "released": "2014-09-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.33,
-    "ratingsCount": 85,
+    "ratingValue": -4.34,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27911,8 +32000,8 @@
     "name": "Broken Age",
     "released": "2014-01-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.84,
-    "ratingsCount": 197,
+    "ratingValue": -3.82,
+    "ratingsCount": 207,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28095,8 +32184,8 @@
     "name": "Adventure Time: Pirates of the Enchiridion",
     "released": "2018-07-17",
     "ratingDisplay": "meh",
-    "ratingValue": -3.4,
-    "ratingsCount": 10,
+    "ratingValue": -3.23,
+    "ratingsCount": 13,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28179,7 +32268,7 @@
     "released": "2016-04-06",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 3,
+    "ratingsCount": 4,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28251,8 +32340,8 @@
     "name": "Child of Light",
     "released": "2014-04-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.96,
-    "ratingsCount": 267,
+    "ratingValue": -3.92,
+    "ratingsCount": 278,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28460,8 +32549,8 @@
     "name": "Crash Bandicoot N. Sane Trilogy",
     "released": "2017-06-30",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.24,
-    "ratingsCount": 71,
+    "ratingValue": -4.23,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28536,8 +32625,8 @@
     "name": "Dead Cells",
     "released": "2017-05-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.37,
-    "ratingsCount": 250,
+    "ratingValue": -4.38,
+    "ratingsCount": 264,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28717,8 +32806,8 @@
     ],
     "background": "https://media.rawg.io/media/games/1e7/1e788787a5f0708b47cf5c7193816383.jpg",
     "clip": {
-      "clip": "https://media.rawg.io/media/stories/634/63422c5b798a349ef6418e35ce8a1512.mp4",
-      "preview": "https://media.rawg.io/media/stories-previews/a56/a568a8c5de95d27d09ef0d4bfdb995de.jpg"
+      "clip": "https://media.rawg.io/media/stories/e64/e64043946a61f59afe58b5ce3b54a150.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/354/354b2db109a60727ce41bb1bcaed2b96.jpg"
     },
     "screenshots": [
       {
@@ -28758,8 +32847,8 @@
     "name": "Donkey Kong Country: Tropical Freeze",
     "released": "2014-02-21",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.36,
-    "ratingsCount": 57,
+    "ratingValue": -4.34,
+    "ratingsCount": 60,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28819,8 +32908,8 @@
     "name": "DOOM (2016)",
     "released": "2016-05-12",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.39,
-    "ratingsCount": 824,
+    "ratingValue": -4.4,
+    "ratingsCount": 859,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28905,8 +32994,8 @@
     "name": "DRAGON BALL FighterZ",
     "released": "2018-01-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 95,
+    "ratingValue": -4.26,
+    "ratingsCount": 100,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29115,9 +33204,9 @@
     "slug": "guacamelee-2",
     "name": "Guacamelee! 2",
     "released": "2018-08-20",
-    "ratingDisplay": "recommended",
-    "ratingValue": -4.29,
-    "ratingsCount": 38,
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.33,
+    "ratingsCount": 39,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29379,7 +33468,7 @@
     "released": "2017-02-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.32,
-    "ratingsCount": 368,
+    "ratingsCount": 386,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29479,8 +33568,8 @@
     "name": "Human: Fall Flat",
     "released": "2016-07-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.94,
-    "ratingsCount": 156,
+    "ratingValue": -3.92,
+    "ratingsCount": 164,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29758,8 +33847,8 @@
     "name": "LEGO CITY Undercover",
     "released": "2013-03-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -4,
-    "ratingsCount": 13,
+    "ratingValue": -4.11,
+    "ratingsCount": 16,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29836,8 +33925,8 @@
     "name": "LEGO Marvel Super Heroes 2",
     "released": "2017-11-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.73,
-    "ratingsCount": 33,
+    "ratingValue": -3.76,
+    "ratingsCount": 34,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30000,8 +34089,8 @@
     "name": "LEGO Worlds",
     "released": "2017-03-07",
     "ratingDisplay": "meh",
-    "ratingValue": -3.23,
-    "ratingsCount": 35,
+    "ratingValue": -3.24,
+    "ratingsCount": 38,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30073,8 +34162,8 @@
     "name": "Mario + Rabbids Kingdom Battle",
     "released": "2017-08-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 81,
+    "ratingValue": -4.24,
+    "ratingsCount": 85,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30132,7 +34221,7 @@
     "released": "2018-12-04",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 3,
+    "ratingsCount": 4,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30274,8 +34363,8 @@
     "name": "Oceanhorn: Monster of Uncharted Seas",
     "released": "2015-03-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.43,
-    "ratingsCount": 23,
+    "ratingValue": -3.44,
+    "ratingsCount": 25,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30367,8 +34456,8 @@
     "name": "Octopath Traveler",
     "released": "2018-07-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.83,
-    "ratingsCount": 38,
+    "ratingValue": -3.86,
+    "ratingsCount": 41,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30438,8 +34527,8 @@
     "name": "OKAMI HD / 大神 絶景版",
     "released": "2017-12-12",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.33,
-    "ratingsCount": 81,
+    "ratingValue": -4.34,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30519,8 +34608,8 @@
     "name": "Outlast",
     "released": "2013-09-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.66,
-    "ratingsCount": 356,
+    "ratingValue": -3.65,
+    "ratingsCount": 381,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30615,8 +34704,8 @@
     "name": "Outlast 2",
     "released": "2017-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.73,
-    "ratingsCount": 85,
+    "ratingValue": -3.71,
+    "ratingsCount": 91,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30653,12 +34742,12 @@
         "slug": "indie"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/9c9/9c949d04f1f79ac4f49c30d27e8871ac.jpg",
+    "background": "https://media.rawg.io/media/games/82a/82a7ad0858465e142a0399d868c953c5.jpg",
     "clip": null,
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/9c9/9c949d04f1f79ac4f49c30d27e8871ac.jpg"
+        "url": "https://media.rawg.io/media/games/82a/82a7ad0858465e142a0399d868c953c5.jpg"
       },
       {
         "id": 73523,
@@ -30693,8 +34782,8 @@
     "name": "Pokémon: Let's Go, Pikachu!, Eevee!",
     "released": "2018-11-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.17,
-    "ratingsCount": 58,
+    "ratingValue": -4.16,
+    "ratingsCount": 60,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30816,8 +34905,8 @@
     "name": "Portal Knights",
     "released": "2016-02-25",
     "ratingDisplay": "meh",
-    "ratingValue": -2.94,
-    "ratingsCount": 87,
+    "ratingValue": -2.92,
+    "ratingsCount": 91,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30992,8 +35081,8 @@
     "name": "Road Redemption",
     "released": "2014-09-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.66,
-    "ratingsCount": 31,
+    "ratingValue": -3.71,
+    "ratingsCount": 34,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31119,7 +35208,7 @@
     "released": "2015-07-07",
     "ratingDisplay": "recommended",
     "ratingValue": -4.07,
-    "ratingsCount": 656,
+    "ratingsCount": 686,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31216,8 +35305,8 @@
     "name": "South Park: The Fractured but Whole",
     "released": "2017-10-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.13,
-    "ratingsCount": 161,
+    "ratingValue": -4.12,
+    "ratingsCount": 172,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31289,8 +35378,8 @@
     "name": "Super Bomberman R",
     "released": "2017-03-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.38,
-    "ratingsCount": 25,
+    "ratingValue": -3.34,
+    "ratingsCount": 28,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31368,7 +35457,7 @@
     "released": "2018-10-05",
     "ratingDisplay": "recommended",
     "ratingValue": -4.12,
-    "ratingsCount": 39,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31426,7 +35515,7 @@
     "released": "2014-11-14",
     "ratingDisplay": "recommended",
     "ratingValue": -4.12,
-    "ratingsCount": 268,
+    "ratingsCount": 282,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31478,7 +35567,7 @@
         "slug": "indie"
       }
     ],
-    "background": "https://media.rawg.io/media/games/bd4/bd47611a32f0a13fb31fa8030873334a.jpg",
+    "background": "https://media.rawg.io/media/games/283/283e7e600366b0da7021883d27159b27.jpg",
     "clip": {
       "clip": "https://media.rawg.io/media/stories/b5d/b5d00ce53d9ba469dd71e98752824ede.mp4",
       "preview": "https://media.rawg.io/media/stories-previews/feb/febec6b994ef2e37b91b5a13fff71b45.jpg"
@@ -31486,7 +35575,7 @@
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/games/bd4/bd47611a32f0a13fb31fa8030873334a.jpg"
+        "url": "https://media.rawg.io/media/games/283/283e7e600366b0da7021883d27159b27.jpg"
       },
       {
         "id": 69201,
@@ -31622,8 +35711,8 @@
     "name": "Wolfenstein 2: The New Colossus",
     "released": "2017-10-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.2,
-    "ratingsCount": 374,
+    "ratingValue": -4.18,
+    "ratingsCount": 393,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31700,8 +35789,8 @@
     "name": "Worms W.M.D",
     "released": "2016-08-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.83,
-    "ratingsCount": 34,
+    "ratingValue": -3.76,
+    "ratingsCount": 36,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31791,8 +35880,8 @@
     "name": "World of Goo",
     "released": "2008-10-12",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.1,
-    "ratingsCount": 216,
+    "ratingValue": -4.08,
+    "ratingsCount": 226,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31897,8 +35986,8 @@
     "name": "Xenoblade Chronicles 2",
     "released": "2017-12-01",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.21,
-    "ratingsCount": 59,
+    "ratingValue": -4.23,
+    "ratingsCount": 60,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
