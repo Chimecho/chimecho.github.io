@@ -185,7 +185,7 @@
 													</div>
 
 													<a ng-if="game.clip" href="{{ game.clip.clip }}" target="_blank">
-														<video class="game-card-video" poster="{{ game.clip.preview }}" src="{{ getTrustedURL(game.clip.clip) }}" autoplay="true" muted="true" loop="true"></video>
+														<video playsinline class="game-card-video" poster="{{ game.clip.preview }}" src="{{ getTrustedURL(game.clip.clip) }}" autoplay="true" muted="true" loop="true"></video>
 													</a>
 												</div>
 											</div>
