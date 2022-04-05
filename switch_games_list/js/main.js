@@ -4,26 +4,26 @@ nxGamesCollection = angular.module("nxGamesCollection", [])
 nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', function($scope, $http, $sce) {
   $scope.sort = {
     fields: [
-      {
-        field: 'updatedAt',
-        label: 'Date added',
-        defaultAsc: false
-      },
-      {
-        field: 'name',
-        label: 'Name',
-        defaultAsc: true
-      },
-      {
-        field: 'ratingValue',
-        label: 'Rating',
-        defaultAsc: true
-      },
-      {
-        field: 'released',
-        label: 'Released',
-        defaultAsc: false
-      },
+    {
+      field: 'updatedAt',
+      label: 'Date added',
+      defaultAsc: false
+    },
+    {
+      field: 'name',
+      label: 'Name',
+      defaultAsc: true
+    },
+    {
+      field: 'ratingValue',
+      label: 'Rating',
+      defaultAsc: true
+    },
+    {
+      field: 'released',
+      label: 'Released',
+      defaultAsc: false
+    },
     ],
     field: 'updatedAt',
     asc: false
@@ -40,7 +40,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
   $scope.games = []
   $scope.filteredGames = []
 
-  $http.get('data/games.json?v=0.81')
+  $http.get('data/games.json?v=0.8')
   .then(response => {
     $scope.games = _.map(response.data, game => {
       return {
@@ -103,36 +103,36 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
     })
 
     $scope.ratingDisplayTypes = _($scope.filteredGames)
-                  .map(game => game.ratingDisplay)
-                  .groupBy()
-                  .mapKeys((values, rateDisplayType) => {
-                    return rateDisplayType === 'null' ? 'other' : rateDisplayType
-                  })
-                  .mapValues((values, rateDisplayType) => {
-                    return {
-                      key: rateDisplayType,
-                      label: $scope.capitalize(rateDisplayType),
-                      count: values.length,
-                      active: $scope.ratingDisplayTypes[rateDisplayType] ? $scope.ratingDisplayTypes[rateDisplayType].active : false
-                    }
-                  })
-                  .value()
+    .map(game => game.ratingDisplay)
+    .groupBy()
+    .mapKeys((values, rateDisplayType) => {
+      return rateDisplayType === 'null' ? 'other' : rateDisplayType
+    })
+    .mapValues((values, rateDisplayType) => {
+      return {
+        key: rateDisplayType,
+        label: $scope.capitalize(rateDisplayType),
+        count: values.length,
+        active: $scope.ratingDisplayTypes[rateDisplayType] ? $scope.ratingDisplayTypes[rateDisplayType].active : false
+      }
+    })
+    .value()
 
     $scope.ratingDisplayTypesArray = _.orderBy($scope.ratingDisplayTypes, value => {
-                      let key = value.key
+      let key = value.key
 
-                      if (key === 'exceptional') {
-                        return 1
-                      } else if (key === 'recommended') {
-                        return 2
-                      } else if (key === 'meh') {
-                        return 3
-                      } else if (key === 'skip') {
-                        return 4
-                      } else {
-                        return 5
-                      }
-                    })
+      if (key === 'exceptional') {
+        return 1
+      } else if (key === 'recommended') {
+        return 2
+      } else if (key === 'meh') {
+        return 3
+      } else if (key === 'skip') {
+        return 4
+      } else {
+        return 5
+      }
+    })
 
     $scope.filteredGames = _.filter($scope.filteredGames, game => {
       let activeRatingDisplayTypesFilters = _.filter($scope.ratingDisplayTypes, ratingDisplayType => ratingDisplayType.active).map(ratingDisplayType => ratingDisplayType.key === 'other' ? null : ratingDisplayType.key)
