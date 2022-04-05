@@ -1,4 +1,4 @@
-﻿const debug = true
+const debug = true
 nxGamesCollection = angular.module("nxGamesCollection", [])
 
 nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', function($scope, $http, $sce) {
@@ -40,9 +40,15 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
 	$scope.games = []
 	$scope.filteredGames = []
 
-	$http.get('data/games.json?v=0.8')
+	$http.get('data/games.json?v=0.81')
 	.then(response => {
-		$scope.games = response.data
+		$scope.games = _.map(response.data, game => {
+			return {
+				...game,
+				released: ['grand-theft-auto-san-andreas', 'grand-theft-auto-vice-city', 'grand-theft-auto-iii'].includes(game.slug) ? '2021-11-11' : game.released
+			}
+		})
+
 		$scope.lastUpdated = moment(_.maxBy($scope.games, 'updatedAt').updatedAt).format('MMMM DD, YYYY')
 		$scope.lastPopular = _($scope.games).filter(game => game.ratingDisplay === 'exceptional' || game.ratingDisplay === 'recommended').maxBy('updatedAt')
 	})
