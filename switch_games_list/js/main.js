@@ -1,4 +1,4 @@
-const debug = true
+const debug = false
 nxGamesCollection = angular.module("nxGamesCollection", [])
 
 nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', function($scope, $http, $sce) {
@@ -40,7 +40,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
 	$scope.games = []
 	$scope.filteredGames = []
 
-	$http.get('data/games.json?v=0.81')
+	$http.get('data/games.json?v=0.9')
 	.then(response => {
 		$scope.games = _.map(response.data, game => {
 			return {
