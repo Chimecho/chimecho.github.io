@@ -173,13 +173,6 @@
 														</span>
 
 														<div class="game-card-compact__info">
-															<div class="game-card-compact__meta">
-																<div class="platforms platforms_medium game-card-compact__platforms">
-																	<div ng-repeat="platform in game.platforms | limitTo: maxPlatformsToShow" class="platforms__platform platforms__platform_medium platforms__platform_{{ platform.slug }}"></div>
-																	<span ng-if="game.platforms.length > maxPlatformsToShow" class="platforms__additional">+{{ game.platforms.length - maxPlatformsToShow }}</span>
-																</div>
-															</div>
-
 															<a class="game-card-compact__heading game-card-compact__heading_with-link" href="https://rawg.io/games/{{ game.slug }}" target="_blank">{{ game.name }}</a>
 														</div>
 													</div>
