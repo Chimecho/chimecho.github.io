@@ -40,7 +40,7 @@ nxGamesCollection.controller('MainController', ['$scope', '$http', '$sce', funct
 	$scope.games = []
 	$scope.filteredGames = []
 
-	$http.get('data/games.json?v=1.3')
+	$http.get('data/games.json?v=1.4')
 	.then(response => {
 		$scope.games = _.map(response.data, game => {
 			return {
