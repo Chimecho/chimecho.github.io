@@ -1,13 +1,518 @@
 [
   {
+    "id": 56165,
+    "updatedAt": "2024-05-24T07:13:09.715206Z",
+    "slug": "paper-mario-the-thousand-year-door",
+    "name": "Paper Mario: The Thousand-Year Door",
+    "released": "2004-07-22",
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.35,
+    "ratingsCount": 188,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/bab/babed03dbdb81548a84e65437d2bc387.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories-640/707/70793f1baf1018dffe3fa2ddfe7e5baf.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/fed/fedaba321e2c9b824e86669fdd35c378.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/bab/babed03dbdb81548a84e65437d2bc387.jpg"
+      },
+      {
+        "id": 753006,
+        "url": "https://media.rawg.io/media/screenshots/ca7/ca771db7f802185559887ce525d43963.jpg"
+      },
+      {
+        "id": 753007,
+        "url": "https://media.rawg.io/media/screenshots/920/920602f57434c1484db3b40da0c320c7.jpg"
+      },
+      {
+        "id": 753008,
+        "url": "https://media.rawg.io/media/screenshots/356/3566925e5eac8a117f3daddd5092b97f.jpg"
+      },
+      {
+        "id": 753009,
+        "url": "https://media.rawg.io/media/screenshots/c02/c0215fe6569bd3664d01cd92ce2729c4.jpg"
+      },
+      {
+        "id": 753010,
+        "url": "https://media.rawg.io/media/screenshots/dd2/dd2f4b6d3378f86b4b9c8cebddd41984.jpg"
+      },
+      {
+        "id": 753011,
+        "url": "https://media.rawg.io/media/screenshots/bbb/bbb114634597609c7a7d675722ecc488.jpg"
+      }
+    ]
+  },
+  {
+    "id": 972430,
+    "updatedAt": "2024-05-24T07:13:07.868073Z",
+    "slug": "bluey-the-videogame",
+    "name": "Bluey: The Videogame",
+    "released": null,
+    "ratingDisplay": "meh",
+    "ratingValue": 0,
+    "ratingsCount": 4,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/db4/db4e740edfba7680b9ad9e916ff1dd70.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/db4/db4e740edfba7680b9ad9e916ff1dd70.jpg"
+      },
+      {
+        "id": 3974330,
+        "url": "https://media.rawg.io/media/screenshots/bff/bff82fbcf6b30d5e57f69e34dde030c8.jpg"
+      },
+      {
+        "id": 3974331,
+        "url": "https://media.rawg.io/media/screenshots/f98/f985d97de32682ca9a890115edcc02ee.jpg"
+      },
+      {
+        "id": 3974332,
+        "url": "https://media.rawg.io/media/screenshots/c3f/c3f11758ed6d75f41fa0aa0b0624f5c6.jpg"
+      },
+      {
+        "id": 3974333,
+        "url": "https://media.rawg.io/media/screenshots/bc3/bc31cc926bee867e2989408aaf434d02.jpg"
+      },
+      {
+        "id": 3974334,
+        "url": "https://media.rawg.io/media/screenshots/b46/b464dbf74af07c107309196ab4fd6f10.jpg"
+      },
+      {
+        "id": 3974335,
+        "url": "https://media.rawg.io/media/screenshots/966/96622bbf31002d478a3c1dda3412a93a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 45775,
+    "updatedAt": "2024-05-24T07:11:52.456489Z",
+    "slug": "biomutant",
+    "name": "Biomutant",
+    "released": "2021-05-25",
+    "ratingDisplay": "meh",
+    "ratingValue": -2.78,
+    "ratingsCount": 225,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 5,
+        "name": "RPG",
+        "slug": "role-playing-games-rpg"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/363/363830e5f6459ca71eb43bea8c32f688.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories-640/7f3/7f31f872e91d4219adb928a46504f945.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/ef6/ef6e5b8b21631cb0e171db3da5723dfb.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/363/363830e5f6459ca71eb43bea8c32f688.jpg"
+      },
+      {
+        "id": 651618,
+        "url": "https://media.rawg.io/media/screenshots/bc3/bc3709b0e2aab6e19380fbe4929bc8b8.jpg"
+      },
+      {
+        "id": 651619,
+        "url": "https://media.rawg.io/media/screenshots/725/725d966e9e16e89676e383c17a533d09.jpg"
+      },
+      {
+        "id": 651620,
+        "url": "https://media.rawg.io/media/screenshots/44a/44ac2484cf2c17a3b606be98abd6c5a9.jpg"
+      },
+      {
+        "id": 651621,
+        "url": "https://media.rawg.io/media/screenshots/8ad/8ad0d3b715f2f189f32466206960c376.jpg"
+      },
+      {
+        "id": 651622,
+        "url": "https://media.rawg.io/media/screenshots/36f/36fd7eead169f915204b80c071786cae.jpg"
+      },
+      {
+        "id": 651623,
+        "url": "https://media.rawg.io/media/screenshots/ddc/ddc7c0cdc42ce8430ae12d5ebf0a1dd6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 974211,
+    "updatedAt": "2024-05-24T07:11:48.986314Z",
+    "slug": "south-park-snow-day",
+    "name": "SOUTH PARK: SNOW DAY!",
+    "released": "2024-03-25",
+    "ratingDisplay": "skip",
+    "ratingValue": -2.25,
+    "ratingsCount": 7,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 3,
+        "name": "Adventure",
+        "slug": "adventure"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/f90/f9017218e38ee5321dce6d6f8ad98c4a.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/f90/f9017218e38ee5321dce6d6f8ad98c4a.jpg"
+      },
+      {
+        "id": 3987646,
+        "url": "https://media.rawg.io/media/screenshots/dc0/dc036a4a46400cd436bccd07ed9bd290.jpg"
+      },
+      {
+        "id": 3987647,
+        "url": "https://media.rawg.io/media/screenshots/fde/fde4078c0643ed017957854b2efe6650.jpg"
+      },
+      {
+        "id": 3987648,
+        "url": "https://media.rawg.io/media/screenshots/194/19455a00b67190932f904c4a0c842cb2.jpg"
+      },
+      {
+        "id": 3987649,
+        "url": "https://media.rawg.io/media/screenshots/435/4354f31d6b873d3f9a4668d4c4d98b91.jpg"
+      },
+      {
+        "id": 3987650,
+        "url": "https://media.rawg.io/media/screenshots/227/227ace56e186fe29828e2ece1c26bbdb.jpg"
+      },
+      {
+        "id": 4033385,
+        "url": "https://media.rawg.io/media/screenshots/f90/f9017218e38ee5321dce6d6f8ad98c4a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2390,
+    "updatedAt": "2024-05-22T05:16:54.159338Z",
+    "slug": "plague-inc-evolved",
+    "name": "Plague Inc: Evolved",
+    "released": "2015-09-18",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.98,
+    "ratingsCount": 618,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 5,
+        "name": "Apple Macintosh",
+        "slug": "mac"
+      },
+      {
+        "id": 6,
+        "name": "Linux",
+        "slug": "linux"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Strategy",
+        "slug": "strategy"
+      },
+      {
+        "id": 14,
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "id": 40,
+        "name": "Casual",
+        "slug": "casual"
+      },
+      {
+        "id": 51,
+        "name": "Indie",
+        "slug": "indie"
+      }
+    ],
+    "background": "https://media.rawg.io/media/games/e31/e315213a5cb21645df8db3e5191e530c.jpg",
+    "clip": {
+      "clip": "https://media.rawg.io/media/stories-640/4ae/4aefeef7fea31a7a637b98d1390f3d72.mp4",
+      "preview": "https://media.rawg.io/media/stories-previews/c4f/c4febe95a94d4b51a818fa710b3efbba.jpg"
+    },
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/games/e31/e315213a5cb21645df8db3e5191e530c.jpg"
+      },
+      {
+        "id": 48121,
+        "url": "https://media.rawg.io/media/screenshots/fab/fab21efd6424dad2b813893638946803.jpg"
+      },
+      {
+        "id": 48130,
+        "url": "https://media.rawg.io/media/screenshots/ad0/ad009986d8271afa1aac6334af9c8334.jpg"
+      },
+      {
+        "id": 48134,
+        "url": "https://media.rawg.io/media/screenshots/c4b/c4bead8bf8d6407b8ae965b302be0275.jpg"
+      },
+      {
+        "id": 48140,
+        "url": "https://media.rawg.io/media/screenshots/d6f/d6fa2231eae837e12961e3806c8235aa.jpg"
+      },
+      {
+        "id": 48144,
+        "url": "https://media.rawg.io/media/screenshots/f98/f98fb0b90098b723e1e7f7bbd227cab9.jpg"
+      },
+      {
+        "id": 48146,
+        "url": "https://media.rawg.io/media/screenshots/082/082118fb55921f9e8c4c1202d2e45b3e.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4304,
+    "updatedAt": "2024-04-05T02:14:27.809705Z",
+    "slug": "the-king-of-fighters-xiii",
+    "name": "The King of Fighters XIII",
+    "released": "2011-11-18",
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.63,
+    "ratingsCount": 89,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Action",
+        "slug": "action"
+      },
+      {
+        "id": 11,
+        "name": "Arcade",
+        "slug": "arcade"
+      },
+      {
+        "id": 6,
+        "name": "Fighting",
+        "slug": "fighting"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/ad7/ad7b8d629f5df8f26d3924111cce87cd.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/ad7/ad7b8d629f5df8f26d3924111cce87cd.jpg"
+      },
+      {
+        "id": 131380,
+        "url": "https://media.rawg.io/media/screenshots/acc/acc961ad444e8928f6a57e467099f5b7.jpg"
+      },
+      {
+        "id": 131381,
+        "url": "https://media.rawg.io/media/screenshots/1ac/1acdd21026a0b1413a180a880d5206ce.jpg"
+      },
+      {
+        "id": 131382,
+        "url": "https://media.rawg.io/media/screenshots/e89/e892446afc47331718e5104997e515c2.jpg"
+      },
+      {
+        "id": 131383,
+        "url": "https://media.rawg.io/media/screenshots/de3/de31280f35a17271370595ffa7d9825e.jpg"
+      },
+      {
+        "id": 131384,
+        "url": "https://media.rawg.io/media/screenshots/959/9592bb8709a704b5147cf8e32e17b8b5.jpg"
+      },
+      {
+        "id": 131385,
+        "url": "https://media.rawg.io/media/screenshots/65f/65f2821be1bddb2ae99910f70dd90619.jpg"
+      }
+    ]
+  },
+  {
+    "id": 683250,
+    "updatedAt": "2024-04-05T02:13:32.416894Z",
+    "slug": "fast-furious-spy-racers-rise-of-sh1ft3r",
+    "name": "Fast & Furious: Spy Racers Rise of SH1FT3R",
+    "released": "2021-11-05",
+    "ratingDisplay": "meh",
+    "ratingValue": 0,
+    "ratingsCount": 4,
+    "dominantColor": "0f0f0f",
+    "saturatedColor": "0f0f0f",
+    "platforms": [
+      {
+        "id": 1,
+        "name": "PC",
+        "slug": "pc"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      }
+    ],
+    "genres": [
+      {
+        "id": 1,
+        "name": "Racing",
+        "slug": "racing"
+      }
+    ],
+    "background": "https://media.rawg.io/media/screenshots/c75/c7576cd0a344fd7b7a527eaeecf2d69f.jpg",
+    "clip": null,
+    "screenshots": [
+      {
+        "id": -1,
+        "url": "https://media.rawg.io/media/screenshots/c75/c7576cd0a344fd7b7a527eaeecf2d69f.jpg"
+      },
+      {
+        "id": 3077305,
+        "url": "https://media.rawg.io/media/screenshots/701/70136d9496ce0396c12195a4153dedd7.jpg"
+      },
+      {
+        "id": 3077306,
+        "url": "https://media.rawg.io/media/screenshots/5d4/5d4dcd2f26ce07fd5370b17dffa35a1d.jpg"
+      },
+      {
+        "id": 3077307,
+        "url": "https://media.rawg.io/media/screenshots/819/819ffe24995464f37b80ae4e23bde44f.jpg"
+      },
+      {
+        "id": 3077308,
+        "url": "https://media.rawg.io/media/screenshots/f17/f178f2f3ad9397a787480421e85fd328.jpg"
+      },
+      {
+        "id": 3077309,
+        "url": "https://media.rawg.io/media/screenshots/40c/40c707fa1e300eb3167440600a60aaf7.jpg"
+      },
+      {
+        "id": 3077310,
+        "url": "https://media.rawg.io/media/screenshots/c75/c7576cd0a344fd7b7a527eaeecf2d69f.jpg"
+      }
+    ]
+  },
+  {
     "id": 966332,
     "updatedAt": "2024-03-26T04:58:54.398791Z",
     "slug": "princess-peach-showtime",
     "name": "Princess Peach: Showtime!",
     "released": "2024-03-22",
-    "ratingDisplay": null,
-    "ratingValue": 0,
-    "ratingsCount": 2,
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.5,
+    "ratingsCount": 8,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -63,9 +568,9 @@
     "slug": "mario-vs-donkey-kong-2",
     "name": "Mario vs. Donkey Kong",
     "released": "2024-02-16",
-    "ratingDisplay": "meh",
-    "ratingValue": -3.44,
-    "ratingsCount": 9,
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.64,
+    "ratingsCount": 14,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -127,8 +632,8 @@
     "name": "Tomb Raider I-III Remastered Starring Lara Croft",
     "released": "2024-02-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.23,
-    "ratingsCount": 14,
+    "ratingValue": -3.11,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -280,7 +785,7 @@
     "released": "2004-09-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.14,
-    "ratingsCount": 308,
+    "ratingsCount": 310,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -359,9 +864,9 @@
     "slug": "unicorn-overlord",
     "name": "Unicorn Overlord",
     "released": "2024-03-08",
-    "ratingDisplay": null,
-    "ratingValue": 0,
-    "ratingsCount": 1,
+    "ratingDisplay": "exceptional",
+    "ratingValue": -4.29,
+    "ratingsCount": 6,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -433,8 +938,8 @@
     "name": "Contra: Operation Galuga",
     "released": "2024-03-12",
     "ratingDisplay": "recommended",
-    "ratingValue": 0,
-    "ratingsCount": 5,
+    "ratingValue": -3.38,
+    "ratingsCount": 8,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -495,6 +1000,11 @@
         "id": 1,
         "name": "PC",
         "slug": "pc"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -545,7 +1055,7 @@
     "released": "2020-04-30",
     "ratingDisplay": "recommended",
     "ratingValue": -4.07,
-    "ratingsCount": 469,
+    "ratingsCount": 471,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -714,7 +1224,7 @@
     "released": "2016-04-04",
     "ratingDisplay": "recommended",
     "ratingValue": -4.07,
-    "ratingsCount": 1026,
+    "ratingsCount": 1027,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -809,8 +1319,8 @@
     "name": "The Last Faith",
     "released": "2023-11-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.38,
-    "ratingsCount": 16,
+    "ratingValue": -3.33,
+    "ratingsCount": 18,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -966,8 +1476,8 @@
     "name": "It Takes Two",
     "released": "2021-03-26",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.52,
-    "ratingsCount": 1364,
+    "ratingValue": -4.51,
+    "ratingsCount": 1392,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1173,8 +1683,8 @@
     "name": "Prince of Persia: The Lost Crown",
     "released": "2024-01-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.8,
-    "ratingsCount": 43,
+    "ratingValue": -3.82,
+    "ratingsCount": 58,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1249,7 +1759,7 @@
     "released": "2019-05-29",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 760,
+    "ratingsCount": 768,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1331,7 +1841,7 @@
     "released": "2023-10-19",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 2,
+    "ratingsCount": 4,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1664,7 +2174,7 @@
     "released": "2009-08-25",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.41,
-    "ratingsCount": 2198,
+    "ratingsCount": 2210,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1745,7 +2255,7 @@
     "released": "2011-10-18",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.42,
-    "ratingsCount": 2052,
+    "ratingsCount": 2064,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1826,7 +2336,7 @@
     "released": "2015-06-23",
     "ratingDisplay": "recommended",
     "ratingValue": -4.24,
-    "ratingsCount": 2538,
+    "ratingsCount": 2551,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -1900,9 +2410,9 @@
     "slug": "metal-gear-solid-master-collection-vol-1",
     "name": "Metal Gear Solid Master Collection Vol. 1",
     "released": "2023-10-23",
-    "ratingDisplay": null,
+    "ratingDisplay": "skip",
     "ratingValue": 0,
-    "ratingsCount": 3,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2315,7 +2825,7 @@
     "released": "2014-12-08",
     "ratingDisplay": "recommended",
     "ratingValue": -3.11,
-    "ratingsCount": 639,
+    "ratingsCount": 640,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2478,8 +2988,8 @@
     "name": "Mortal Kombat 1",
     "released": "2023-09-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.49,
-    "ratingsCount": 42,
+    "ratingValue": -3.48,
+    "ratingsCount": 43,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2556,8 +3066,8 @@
     "name": "Unpacking",
     "released": "2021-11-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.03,
-    "ratingsCount": 429,
+    "ratingValue": -4.02,
+    "ratingsCount": 437,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2716,8 +3226,8 @@
     "name": "Trine 5: A Clockwork Conspiracy",
     "released": "2023-08-31",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 16,
+    "ratingValue": -4.24,
+    "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2931,7 +3441,7 @@
     "released": "2023-11-02",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 2,
+    "ratingsCount": 3,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -2989,8 +3499,8 @@
     "name": "Solar Ash",
     "released": "2021-12-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.8,
-    "ratingsCount": 62,
+    "ratingValue": -3.82,
+    "ratingsCount": 63,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3045,8 +3555,8 @@
     "name": "Star Ocean: The Second Story R",
     "released": "2023-11-02",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.78,
-    "ratingsCount": 9,
+    "ratingValue": -4.4,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3119,7 +3629,7 @@
     "released": "2023-10-17",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3127,6 +3637,21 @@
         "id": 1,
         "name": "PC",
         "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -3141,12 +3666,12 @@
         "slug": "adventure"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/40a/40a918b4ad67d377c0da002a936ca273.jpg",
+    "background": "https://media.rawg.io/media/games/814/8142850dee3284950027932b72aab951.jpg",
     "clip": null,
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/40a/40a918b4ad67d377c0da002a936ca273.jpg"
+        "url": "https://media.rawg.io/media/games/814/8142850dee3284950027932b72aab951.jpg"
       },
       {
         "id": 3938739,
@@ -3181,8 +3706,8 @@
     "name": "Naruto x Boruto: Ultimate Ninja Storm Connections",
     "released": "2023-11-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.5,
-    "ratingsCount": 6,
+    "ratingValue": -3.57,
+    "ratingsCount": 7,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3425,6 +3950,21 @@
         "id": 1,
         "name": "PC",
         "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -3439,12 +3979,12 @@
         "slug": "adventure"
       }
     ],
-    "background": "https://media.rawg.io/media/screenshots/554/554741dc6591c0e330de76f590cae4e1.jpg",
+    "background": "https://media.rawg.io/media/games/75c/75c8efeacfd156a487971cc8b8381831.jpg",
     "clip": null,
     "screenshots": [
       {
         "id": -1,
-        "url": "https://media.rawg.io/media/screenshots/554/554741dc6591c0e330de76f590cae4e1.jpg"
+        "url": "https://media.rawg.io/media/games/75c/75c8efeacfd156a487971cc8b8381831.jpg"
       },
       {
         "id": 3975834,
@@ -3615,8 +4155,8 @@
     "name": "Hellboy Web of Wyrd",
     "released": "2023-10-18",
     "ratingDisplay": "skip",
-    "ratingValue": -2.27,
-    "ratingsCount": 10,
+    "ratingValue": -2.17,
+    "ratingsCount": 11,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -3698,6 +4238,21 @@
         "id": 1,
         "name": "PC",
         "slug": "pc"
+      },
+      {
+        "id": 2,
+        "name": "PlayStation",
+        "slug": "playstation"
+      },
+      {
+        "id": 3,
+        "name": "Xbox",
+        "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -4047,8 +4602,8 @@
     "name": "Cocoon",
     "released": "2023-09-29",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.41,
-    "ratingsCount": 117,
+    "ratingValue": -4.45,
+    "ratingsCount": 131,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4127,7 +4682,7 @@
     "released": "2019-09-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.89,
-    "ratingsCount": 873,
+    "ratingsCount": 882,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4218,7 +4773,7 @@
     "released": "2023-11-03",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4252,7 +4807,7 @@
     "released": "2022-02-01",
     "ratingDisplay": "skip",
     "ratingValue": -3.11,
-    "ratingsCount": 42,
+    "ratingsCount": 44,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4325,7 +4880,7 @@
     "released": "2018-09-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.8,
-    "ratingsCount": 715,
+    "ratingsCount": 723,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4707,8 +5262,8 @@
     "name": "Hogwarts Legacy",
     "released": "2023-02-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.95,
-    "ratingsCount": 596,
+    "ratingValue": -3.94,
+    "ratingsCount": 620,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -4981,7 +5536,7 @@
     "released": "2003-09-16",
     "ratingDisplay": "recommended",
     "ratingValue": -4.09,
-    "ratingsCount": 299,
+    "ratingsCount": 302,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5176,8 +5731,8 @@
     "name": "Super Mario Bros. Wonder",
     "released": "2023-10-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.5,
-    "ratingsCount": 108,
+    "ratingValue": -4.45,
+    "ratingsCount": 116,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5235,7 +5790,7 @@
     "released": "2010-05-18",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.43,
-    "ratingsCount": 2030,
+    "ratingsCount": 2035,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5352,8 +5907,8 @@
     "name": "EA SPORTS FC 24",
     "released": "2023-09-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.35,
-    "ratingsCount": 26,
+    "ratingValue": -3.39,
+    "ratingsCount": 33,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5435,7 +5990,7 @@
     "name": "Sonic Colors: Ultimate",
     "released": "2021-09-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3,
+    "ratingValue": -3.06,
     "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -5509,8 +6064,8 @@
     "name": "The Legend of Zelda: Tears of the Kingdom",
     "released": "2023-05-12",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.46,
-    "ratingsCount": 335,
+    "ratingValue": -4.45,
+    "ratingsCount": 345,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5575,8 +6130,8 @@
     "name": "Metroid Prime Remastered",
     "released": "2023-02-08",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.51,
-    "ratingsCount": 51,
+    "ratingValue": -4.5,
+    "ratingsCount": 52,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5704,8 +6259,8 @@
     "name": "Kirby’s Return to Dream Land Deluxe",
     "released": "2023-02-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.62,
-    "ratingsCount": 8,
+    "ratingValue": -3.67,
+    "ratingsCount": 9,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5753,8 +6308,8 @@
     "name": "Life is Strange Remastered",
     "released": "2022-02-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.75,
-    "ratingsCount": 73,
+    "ratingValue": -3.77,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5827,7 +6382,7 @@
     "released": "2017-04-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.39,
-    "ratingsCount": 1934,
+    "ratingsCount": 1943,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -5985,8 +6540,8 @@
     "name": "Tunic",
     "released": "2022-03-16",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.06,
-    "ratingsCount": 307,
+    "ratingValue": -4.08,
+    "ratingsCount": 313,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6152,8 +6707,8 @@
     "name": "Sifu",
     "released": "2022-02-08",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.05,
-    "ratingsCount": 279,
+    "ratingValue": -4.06,
+    "ratingsCount": 290,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6222,7 +6777,7 @@
     "released": "2022-09-19",
     "ratingDisplay": "recommended",
     "ratingValue": -4.08,
-    "ratingsCount": 60,
+    "ratingsCount": 61,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6320,7 +6875,7 @@
     "released": "2019-08-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.62,
-    "ratingsCount": 619,
+    "ratingsCount": 623,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6338,6 +6893,11 @@
         "id": 3,
         "name": "Xbox",
         "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -6400,8 +6960,8 @@
     "name": "NBA 2K23",
     "released": "2022-09-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -2.94,
-    "ratingsCount": 19,
+    "ratingValue": -3.1,
+    "ratingsCount": 21,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6478,8 +7038,8 @@
     "name": "Minecraft Legends",
     "released": "2023-04-18",
     "ratingDisplay": "meh",
-    "ratingValue": -2.48,
-    "ratingsCount": 29,
+    "ratingValue": -2.5,
+    "ratingsCount": 30,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6708,7 +7268,7 @@
     "released": "2022-12-06",
     "ratingDisplay": "meh",
     "ratingValue": -2.5,
-    "ratingsCount": 16,
+    "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -6862,9 +7422,9 @@
     "slug": "fatal-frame-mask-of-the-lunar-eclipse",
     "name": "Fatal Frame: Mask of the Lunar Eclipse",
     "released": "2008-07-31",
-    "ratingDisplay": "meh",
-    "ratingValue": -3.27,
-    "ratingsCount": 11,
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.33,
+    "ratingsCount": 12,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7027,8 +7587,8 @@
     "name": "Disney Dreamlight Valley",
     "released": "2023-12-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.6,
-    "ratingsCount": 45,
+    "ratingValue": -3.58,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7246,7 +7806,7 @@
     "name": "Alfred Hitchcock – Vertigo",
     "released": "2021-12-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.7,
+    "ratingValue": -3.71,
     "ratingsCount": 27,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -7315,7 +7875,7 @@
     "released": "2021-10-05",
     "ratingDisplay": "recommended",
     "ratingValue": -4.01,
-    "ratingsCount": 165,
+    "ratingsCount": 170,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7444,9 +8004,9 @@
     "slug": "just-dance-2023-edition",
     "name": "Just Dance 2023 Edition",
     "released": "2022-11-22",
-    "ratingDisplay": null,
+    "ratingDisplay": "recommended",
     "ratingValue": 0,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7515,8 +8075,8 @@
     "name": "Octopath Traveler 2",
     "released": "2023-02-24",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.43,
-    "ratingsCount": 14,
+    "ratingValue": -4.4,
+    "ratingsCount": 15,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7583,7 +8143,7 @@
     "released": "2023-01-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.08,
-    "ratingsCount": 23,
+    "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -7843,8 +8403,8 @@
     "name": "Eastward",
     "released": "2021-09-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.67,
-    "ratingsCount": 86,
+    "ratingValue": -3.68,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8008,7 +8568,7 @@
     "released": "2022-07-19",
     "ratingDisplay": "recommended",
     "ratingValue": -3.72,
-    "ratingsCount": 28,
+    "ratingsCount": 31,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8103,8 +8663,8 @@
     "name": "OMORI",
     "released": "2020-12-25",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.35,
-    "ratingsCount": 134,
+    "ratingValue": -4.34,
+    "ratingsCount": 137,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8189,8 +8749,8 @@
     "name": "Behind the Frame: The Finest Scenery",
     "released": "2021-08-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.78,
-    "ratingsCount": 50,
+    "ratingValue": -3.81,
+    "ratingsCount": 51,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8276,9 +8836,9 @@
     "slug": "aragami-2",
     "name": "Aragami 2",
     "released": "2021-09-17",
-    "ratingDisplay": "meh",
-    "ratingValue": -3.13,
-    "ratingsCount": 73,
+    "ratingDisplay": "recommended",
+    "ratingValue": -3.14,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8296,6 +8856,11 @@
         "id": 3,
         "name": "Xbox",
         "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -8359,7 +8924,7 @@
     "released": "2022-08-11",
     "ratingDisplay": "recommended",
     "ratingValue": -4.12,
-    "ratingsCount": 319,
+    "ratingsCount": 326,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8465,6 +9030,11 @@
         "id": 3,
         "name": "Xbox",
         "slug": "xbox"
+      },
+      {
+        "id": 7,
+        "name": "Nintendo",
+        "slug": "nintendo"
       }
     ],
     "genres": [
@@ -8707,8 +9277,8 @@
     "name": "FIFA 23",
     "released": "2022-09-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.66,
-    "ratingsCount": 58,
+    "ratingValue": -3.65,
+    "ratingsCount": 59,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -8940,7 +9510,7 @@
     "released": "2016-08-09",
     "ratingDisplay": "recommended",
     "ratingValue": -3.7,
-    "ratingsCount": 1492,
+    "ratingsCount": 1499,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9101,8 +9671,8 @@
     "name": "Mario + Rabbids Sparks of Hope",
     "released": "2022-10-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.86,
-    "ratingsCount": 18,
+    "ratingValue": -3.91,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9162,8 +9732,8 @@
     "name": "Persona 5 Royal",
     "released": "2020-03-31",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.74,
-    "ratingsCount": 451,
+    "ratingValue": -4.75,
+    "ratingsCount": 458,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9243,8 +9813,8 @@
     "name": "NieR:Automata Game of the YoRHa Edition",
     "released": "2019-02-26",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.2,
-    "ratingsCount": 141,
+    "ratingValue": -4.21,
+    "ratingsCount": 144,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9308,7 +9878,7 @@
     "released": "2022-09-09",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.47,
-    "ratingsCount": 39,
+    "ratingsCount": 40,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9539,7 +10109,7 @@
     "name": "Commandos 3: Destination Berlin",
     "released": "2003-10-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.76,
+    "ratingValue": -3.75,
     "ratingsCount": 161,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -9647,7 +10217,7 @@
     "released": "2021-09-16",
     "ratingDisplay": "recommended",
     "ratingValue": -3.86,
-    "ratingsCount": 71,
+    "ratingsCount": 75,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9724,7 +10294,7 @@
     "name": "Xenoblade Chronicles 3",
     "released": "2022-07-29",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.39,
+    "ratingValue": -4.38,
     "ratingsCount": 54,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -9877,7 +10447,7 @@
     "released": "2011-04-18",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.61,
-    "ratingsCount": 5605,
+    "ratingsCount": 5642,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -9962,8 +10532,8 @@
     "name": "Portal",
     "released": "2007-10-09",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.51,
-    "ratingsCount": 4666,
+    "ratingValue": -4.5,
+    "ratingsCount": 4700,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10058,8 +10628,8 @@
     "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "released": "2022-06-16",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.08,
-    "ratingsCount": 388,
+    "ratingValue": -4.07,
+    "ratingsCount": 394,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10231,8 +10801,8 @@
     "name": "Lego Star Wars: The Skywalker Saga",
     "released": "2022-04-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.92,
-    "ratingsCount": 185,
+    "ratingValue": -3.91,
+    "ratingsCount": 187,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10318,7 +10888,7 @@
     "released": "2008-09-16",
     "ratingDisplay": "recommended",
     "ratingValue": -3.87,
-    "ratingsCount": 446,
+    "ratingsCount": 445,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10398,8 +10968,8 @@
     "name": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
     "released": "2022-04-07",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.88,
-    "ratingsCount": 8,
+    "ratingValue": -3.89,
+    "ratingsCount": 9,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10472,8 +11042,8 @@
     "name": "TRIANGLE STRATEGY",
     "released": "2022-03-04",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.29,
-    "ratingsCount": 26,
+    "ratingValue": -4.31,
+    "ratingsCount": 27,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10554,7 +11124,7 @@
     "released": "2022-04-27",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 289,
+    "ratingsCount": 294,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10633,8 +11203,8 @@
     "name": "Nintendo Switch Sports",
     "released": "2022-04-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.15,
-    "ratingsCount": 20,
+    "ratingValue": -4.19,
+    "ratingsCount": 21,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10691,7 +11261,7 @@
     "released": "2022-03-25",
     "ratingDisplay": "recommended",
     "ratingValue": -4.25,
-    "ratingsCount": 112,
+    "ratingsCount": 113,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10748,7 +11318,7 @@
     "released": "2021-09-10",
     "ratingDisplay": "recommended",
     "ratingValue": -3.82,
-    "ratingsCount": 350,
+    "ratingsCount": 357,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10829,7 +11399,7 @@
     "released": "2016-11-15",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 139,
+    "ratingsCount": 143,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -10897,7 +11467,7 @@
     "released": "2022-01-28",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.04,
-    "ratingsCount": 138,
+    "ratingsCount": 139,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11102,7 +11672,7 @@
     "released": "2021-08-19",
     "ratingDisplay": "recommended",
     "ratingValue": -3.52,
-    "ratingsCount": 550,
+    "ratingsCount": 553,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11261,8 +11831,8 @@
     "name": "Yu-Gi-Oh! Master Duel",
     "released": "2022-01-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.67,
-    "ratingsCount": 66,
+    "ratingValue": -3.68,
+    "ratingsCount": 68,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11341,7 +11911,7 @@
     "released": "2003-02-20",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.32,
-    "ratingsCount": 62,
+    "ratingsCount": 63,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11665,7 +12235,7 @@
     "released": "2004-10-26",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.51,
-    "ratingsCount": 3691,
+    "ratingsCount": 3716,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11750,8 +12320,8 @@
     "name": "Grand Theft Auto: Vice City",
     "released": "2002-10-27",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.45,
-    "ratingsCount": 2884,
+    "ratingValue": -4.44,
+    "ratingsCount": 2902,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11837,7 +12407,7 @@
     "released": "2001-10-22",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 1554,
+    "ratingsCount": 1564,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -11928,7 +12498,7 @@
     "released": "2021-10-08",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.36,
-    "ratingsCount": 263,
+    "ratingsCount": 268,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12129,8 +12699,8 @@
     "name": "No More Heroes 3",
     "released": "2021-08-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.22,
-    "ratingsCount": 22,
+    "ratingValue": -4.25,
+    "ratingsCount": 23,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12210,8 +12780,8 @@
     "name": "Shin Megami Tensei V",
     "released": "2021-11-12",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.05,
-    "ratingsCount": 55,
+    "ratingValue": -4.07,
+    "ratingsCount": 56,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12440,8 +13010,8 @@
     "name": "Crysis 3 Remastered",
     "released": "2021-10-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.47,
-    "ratingsCount": 47,
+    "ratingValue": -3.45,
+    "ratingsCount": 49,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12589,7 +13159,7 @@
     "released": "2020-09-18",
     "ratingDisplay": "recommended",
     "ratingValue": -3.24,
-    "ratingsCount": 119,
+    "ratingsCount": 121,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12737,7 +13307,7 @@
     "released": "2020-09-17",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.45,
-    "ratingsCount": 1841,
+    "ratingsCount": 1859,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -12926,7 +13496,7 @@
     "released": "2019-04-16",
     "ratingDisplay": "recommended",
     "ratingValue": -3.42,
-    "ratingsCount": 344,
+    "ratingsCount": 345,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13136,7 +13706,7 @@
     "released": "2018-03-23",
     "ratingDisplay": "recommended",
     "ratingValue": -3.89,
-    "ratingsCount": 420,
+    "ratingsCount": 421,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13216,8 +13786,8 @@
     "name": "Lost in Random",
     "released": "2021-09-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.62,
-    "ratingsCount": 60,
+    "ratingValue": -3.57,
+    "ratingsCount": 63,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13383,8 +13953,8 @@
     "name": "Hot Wheels Unleashed",
     "released": "2021-09-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.5,
-    "ratingsCount": 97,
+    "ratingValue": -3.48,
+    "ratingsCount": 100,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13457,7 +14027,7 @@
     "released": "2021-10-28",
     "ratingDisplay": "recommended",
     "ratingValue": -3.33,
-    "ratingsCount": 41,
+    "ratingsCount": 42,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13530,7 +14100,7 @@
     "released": "2018-11-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.43,
-    "ratingsCount": 541,
+    "ratingsCount": 544,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13854,8 +14424,8 @@
     "name": "Mario Golf: Super Rush",
     "released": "2021-06-25",
     "ratingDisplay": "meh",
-    "ratingValue": -2.87,
-    "ratingsCount": 14,
+    "ratingValue": -2.94,
+    "ratingsCount": 15,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -13982,7 +14552,7 @@
     "released": "2021-09-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.1,
-    "ratingsCount": 227,
+    "ratingsCount": 231,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14172,7 +14742,7 @@
     "released": "2021-10-29",
     "ratingDisplay": "recommended",
     "ratingValue": -3.91,
-    "ratingsCount": 53,
+    "ratingsCount": 54,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14231,7 +14801,7 @@
     "released": "2014-08-29",
     "ratingDisplay": "recommended",
     "ratingValue": -3.88,
-    "ratingsCount": 374,
+    "ratingsCount": 376,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14327,7 +14897,7 @@
     "released": "2016-01-18",
     "ratingDisplay": "recommended",
     "ratingValue": -4.18,
-    "ratingsCount": 1292,
+    "ratingsCount": 1297,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14422,8 +14992,8 @@
     "name": "FIFA 22",
     "released": "2021-09-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.38,
-    "ratingsCount": 211,
+    "ratingValue": -3.36,
+    "ratingsCount": 216,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14634,8 +15204,8 @@
     "name": "FEZ",
     "released": "2012-04-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -4,
-    "ratingsCount": 1147,
+    "ratingValue": -3.99,
+    "ratingsCount": 1150,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -14843,7 +15413,7 @@
     "name": "Balan Wonderworld",
     "released": "2021-03-26",
     "ratingDisplay": "skip",
-    "ratingValue": -1.8,
+    "ratingValue": -1.83,
     "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -15000,8 +15570,8 @@
     "name": "Super Mario 3D World + Bowser’s Fury",
     "released": "2021-02-12",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.38,
-    "ratingsCount": 235,
+    "ratingValue": -4.37,
+    "ratingsCount": 238,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15066,8 +15636,8 @@
     "name": "Crash Bandicoot 4: It’s About Time",
     "released": "2020-10-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.9,
-    "ratingsCount": 185,
+    "ratingValue": -3.89,
+    "ratingsCount": 186,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15148,7 +15718,7 @@
     "released": "2021-02-10",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 470,
+    "ratingsCount": 474,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15234,7 +15804,7 @@
     "released": "2017-04-27",
     "ratingDisplay": "recommended",
     "ratingValue": -4.04,
-    "ratingsCount": 1505,
+    "ratingsCount": 1514,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15314,8 +15884,8 @@
     "name": "Immortals: Fenyx Rising",
     "released": "2020-12-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.74,
-    "ratingsCount": 359,
+    "ratingValue": -3.75,
+    "ratingsCount": 360,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15400,8 +15970,8 @@
     "name": "Ori and the Will of the Wisps",
     "released": "2020-03-10",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.46,
-    "ratingsCount": 1177,
+    "ratingValue": -4.45,
+    "ratingsCount": 1194,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15578,7 +16148,7 @@
     "released": "2010-01-26",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.31,
-    "ratingsCount": 60,
+    "ratingsCount": 61,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15644,7 +16214,7 @@
     "released": "2007-12-06",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.23,
-    "ratingsCount": 100,
+    "ratingsCount": 103,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15714,8 +16284,8 @@
     "name": "DOOM Eternal",
     "released": "2020-03-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.37,
-    "ratingsCount": 1287,
+    "ratingValue": -4.36,
+    "ratingsCount": 1296,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15795,8 +16365,8 @@
     "name": "Hyrule Warriors: Age of Calamity",
     "released": "2020-11-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
-    "ratingsCount": 71,
+    "ratingValue": -3.81,
+    "ratingsCount": 72,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -15866,7 +16436,7 @@
     "name": "Oceanhorn 2: Knights of the Lost Realm",
     "released": "2019-09-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.51,
+    "ratingValue": -3.46,
     "ratingsCount": 35,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -15948,7 +16518,7 @@
     "released": "2020-11-06",
     "ratingDisplay": "recommended",
     "ratingValue": -3.59,
-    "ratingsCount": 111,
+    "ratingsCount": 112,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16100,7 +16670,7 @@
     "released": "2019-09-03",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 162,
+    "ratingsCount": 163,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16180,8 +16750,8 @@
     "name": "Paper Mario: The Origami King",
     "released": "2020-07-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.94,
-    "ratingsCount": 105,
+    "ratingValue": -3.95,
+    "ratingsCount": 106,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16298,8 +16868,8 @@
     "name": "The Outer Worlds",
     "released": "2019-10-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.87,
-    "ratingsCount": 1409,
+    "ratingValue": -3.86,
+    "ratingsCount": 1415,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16619,7 +17189,7 @@
     "released": "2016-09-15",
     "ratingDisplay": "recommended",
     "ratingValue": -4.01,
-    "ratingsCount": 961,
+    "ratingsCount": 968,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16705,7 +17275,7 @@
     "released": "2016-09-15",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.24,
-    "ratingsCount": 1361,
+    "ratingsCount": 1367,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -16782,7 +17352,7 @@
     "released": "2014-10-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.55,
-    "ratingsCount": 1321,
+    "ratingsCount": 1330,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17026,8 +17596,8 @@
     "name": "Super Mario 64",
     "released": "1996-06-23",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.45,
-    "ratingsCount": 693,
+    "ratingValue": -4.44,
+    "ratingsCount": 696,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17335,7 +17905,7 @@
     "released": "2020-08-18",
     "ratingDisplay": "meh",
     "ratingValue": -3.21,
-    "ratingsCount": 53,
+    "ratingsCount": 54,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -17473,7 +18043,7 @@
     "name": "Plants vs. Zombies: Battle for Neighborville",
     "released": "2019-10-18",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.1,
+    "ratingValue": -3.08,
     "ratingsCount": 129,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -17820,7 +18390,7 @@
     "released": "2020-11-12",
     "ratingDisplay": "recommended",
     "ratingValue": -4.16,
-    "ratingsCount": 87,
+    "ratingsCount": 88,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18083,8 +18653,8 @@
     "name": "Just Dance 2021",
     "released": "2020-11-12",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.69,
-    "ratingsCount": 29,
+    "ratingValue": -3.6,
+    "ratingsCount": 30,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18233,7 +18803,7 @@
     "released": "2019-10-07",
     "ratingDisplay": "meh",
     "ratingValue": -3.31,
-    "ratingsCount": 128,
+    "ratingsCount": 129,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18706,8 +19276,8 @@
     "name": "Fitness Boxing 2: Rhythm & Exercise",
     "released": "2020-12-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.17,
-    "ratingsCount": 6,
+    "ratingValue": -4.14,
+    "ratingsCount": 7,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -18901,8 +19471,8 @@
     "name": "Dead by Daylight",
     "released": "2016-06-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.48,
-    "ratingsCount": 928,
+    "ratingValue": -3.49,
+    "ratingsCount": 933,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19144,7 +19714,7 @@
     "released": "2018-12-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.59,
-    "ratingsCount": 143,
+    "ratingsCount": 144,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -19808,7 +20378,7 @@
     "name": "Bloodstained: Curse of the Moon 2",
     "released": "2020-07-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.85,
+    "ratingValue": -3.89,
     "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -20166,7 +20736,7 @@
     "released": "2018-01-25",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 1593,
+    "ratingsCount": 1603,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20334,8 +20904,8 @@
     "name": "Spirit of the North",
     "released": "2019-11-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.07,
-    "ratingsCount": 41,
+    "ratingValue": -3.09,
+    "ratingsCount": 42,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -20960,7 +21530,7 @@
     "released": "2015-09-14",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.34,
-    "ratingsCount": 1764,
+    "ratingsCount": 1769,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21234,7 +21804,7 @@
     "released": "2009-10-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.82,
-    "ratingsCount": 2021,
+    "ratingsCount": 2030,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21315,7 +21885,7 @@
     "released": "2013-03-26",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 3985,
+    "ratingsCount": 4002,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21400,8 +21970,8 @@
     "name": "SpongeBob SquarePants: Battle for Bikini Bottom — Rehydrated",
     "released": "2020-06-23",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.67,
-    "ratingsCount": 171,
+    "ratingValue": -3.68,
+    "ratingsCount": 174,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21497,8 +22067,8 @@
     "name": "What the Golf?",
     "released": "2019-09-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.23,
-    "ratingsCount": 144,
+    "ratingValue": -4.22,
+    "ratingsCount": 146,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21651,8 +22221,8 @@
     "name": "Moving Out",
     "released": "2020-04-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.63,
-    "ratingsCount": 192,
+    "ratingValue": -3.64,
+    "ratingsCount": 193,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21748,7 +22318,7 @@
     "released": "2020-03-20",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.31,
-    "ratingsCount": 729,
+    "ratingsCount": 732,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21809,7 +22379,7 @@
     "released": "2019-09-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.35,
-    "ratingsCount": 501,
+    "ratingsCount": 504,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21880,7 +22450,7 @@
     "released": "2019-10-31",
     "ratingDisplay": "recommended",
     "ratingValue": -4.25,
-    "ratingsCount": 370,
+    "ratingsCount": 371,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -21945,8 +22515,8 @@
     "name": "Vampyr",
     "released": "2018-06-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.47,
-    "ratingsCount": 837,
+    "ratingValue": -3.48,
+    "ratingsCount": 840,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22032,7 +22602,7 @@
     "released": "2019-11-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.71,
-    "ratingsCount": 464,
+    "ratingsCount": 465,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22097,8 +22667,8 @@
     "name": "Alien: Isolation",
     "released": "2014-10-05",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.19,
-    "ratingsCount": 1395,
+    "ratingValue": -4.2,
+    "ratingsCount": 1398,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22189,7 +22759,7 @@
     "released": "2019-10-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.95,
-    "ratingsCount": 200,
+    "ratingsCount": 201,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22358,7 +22928,7 @@
     "released": "2014-06-26",
     "ratingDisplay": "recommended",
     "ratingValue": -3.52,
-    "ratingsCount": 490,
+    "ratingsCount": 491,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22532,7 +23102,7 @@
     "released": "2019-09-19",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 289,
+    "ratingsCount": 292,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -22845,7 +23415,7 @@
     "released": "1992-11-21",
     "ratingDisplay": "recommended",
     "ratingValue": -4.28,
-    "ratingsCount": 366,
+    "ratingsCount": 369,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23028,8 +23598,8 @@
     "name": "Candleman",
     "released": "2017-02-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.58,
-    "ratingsCount": 24,
+    "ratingValue": -3.56,
+    "ratingsCount": 25,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23122,7 +23692,7 @@
     "released": "2015-11-05",
     "ratingDisplay": "recommended",
     "ratingValue": -3.79,
-    "ratingsCount": 653,
+    "ratingsCount": 654,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23374,7 +23944,7 @@
     "released": "2014-11-10",
     "ratingDisplay": "recommended",
     "ratingValue": -3.6,
-    "ratingsCount": 154,
+    "ratingsCount": 155,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23467,7 +24037,7 @@
     "released": "2014-07-24",
     "ratingDisplay": "recommended",
     "ratingValue": -3.47,
-    "ratingsCount": 294,
+    "ratingsCount": 296,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23646,7 +24216,7 @@
     "released": "2018-07-18",
     "ratingDisplay": "meh",
     "ratingValue": -3.31,
-    "ratingsCount": 86,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -23737,7 +24307,7 @@
     "released": "2014-06-24",
     "ratingDisplay": "recommended",
     "ratingValue": -3.67,
-    "ratingsCount": 204,
+    "ratingsCount": 207,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24231,7 +24801,7 @@
     "released": "2016-10-18",
     "ratingDisplay": "recommended",
     "ratingValue": -3.78,
-    "ratingsCount": 72,
+    "ratingsCount": 73,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24290,8 +24860,8 @@
     "name": "Mega Man Zero/ZX Legacy Collection",
     "released": "2020-02-25",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.75,
-    "ratingsCount": 23,
+    "ratingValue": -3.72,
+    "ratingsCount": 24,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24377,7 +24947,7 @@
     "released": "2019-01-14",
     "ratingDisplay": "recommended",
     "ratingValue": -3.52,
-    "ratingsCount": 273,
+    "ratingsCount": 275,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -24775,8 +25345,8 @@
     "name": "YU-NO: A Girl Who Chants Love at the Bound of this World",
     "released": "1997-12-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.17,
-    "ratingsCount": 6,
+    "ratingValue": -2.86,
+    "ratingsCount": 7,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25146,7 +25716,7 @@
     "released": "2019-09-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.04,
-    "ratingsCount": 676,
+    "ratingsCount": 677,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25242,7 +25812,7 @@
     "released": "2011-09-29",
     "ratingDisplay": "recommended",
     "ratingValue": -3.98,
-    "ratingsCount": 243,
+    "ratingsCount": 244,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -25758,8 +26328,8 @@
     "name": "The Missing: J.J. Macfield and the Island of Memories",
     "released": "2018-10-11",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.98,
-    "ratingsCount": 47,
+    "ratingValue": -4,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27376,8 +27946,8 @@
     "name": "Reventure",
     "released": "2019-06-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.86,
-    "ratingsCount": 58,
+    "ratingValue": -3.85,
+    "ratingsCount": 59,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27856,7 +28426,7 @@
     "released": "1999-12-02",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.33,
-    "ratingsCount": 496,
+    "ratingsCount": 499,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -27939,7 +28509,7 @@
     "released": "1997-12-09",
     "ratingDisplay": "recommended",
     "ratingValue": -4.18,
-    "ratingsCount": 398,
+    "ratingsCount": 401,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28160,8 +28730,8 @@
     "name": "Quake",
     "released": "1996-06-22",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.25,
-    "ratingsCount": 457,
+    "ratingValue": -4.26,
+    "ratingsCount": 461,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28344,8 +28914,8 @@
     "name": "Phantom Doctrine",
     "released": "2018-08-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.25,
-    "ratingsCount": 100,
+    "ratingValue": -3.26,
+    "ratingsCount": 101,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28501,7 +29071,7 @@
     "released": "2018-03-06",
     "ratingDisplay": "recommended",
     "ratingValue": -3.77,
-    "ratingsCount": 470,
+    "ratingsCount": 472,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -28724,8 +29294,8 @@
     "name": "Muse Dash",
     "released": "2018-06-14",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.92,
-    "ratingsCount": 127,
+    "ratingValue": -3.93,
+    "ratingsCount": 129,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29079,7 +29649,7 @@
     "released": "2017-06-15",
     "ratingDisplay": "recommended",
     "ratingValue": -4,
-    "ratingsCount": 16,
+    "ratingsCount": 15,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -29828,7 +30398,7 @@
     "released": "1998-11-08",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 2259,
+    "ratingsCount": 2272,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30560,7 +31130,7 @@
     "released": "2019-09-03",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.16,
-    "ratingsCount": 100,
+    "ratingsCount": 99,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -30943,7 +31513,7 @@
     "released": "2019-08-11",
     "ratingDisplay": "recommended",
     "ratingValue": -3.93,
-    "ratingsCount": 41,
+    "ratingsCount": 42,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31143,7 +31713,7 @@
     "released": "2017-07-29",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.32,
-    "ratingsCount": 360,
+    "ratingsCount": 361,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31323,7 +31893,7 @@
     "released": "1986-05-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.9,
-    "ratingsCount": 47,
+    "ratingsCount": 48,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31468,8 +32038,8 @@
     "name": "Door Kickers: Action Squad",
     "released": "2018-09-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.86,
-    "ratingsCount": 84,
+    "ratingValue": -3.87,
+    "ratingsCount": 87,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31625,7 +32195,7 @@
     "released": "2018-08-31",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.5,
-    "ratingsCount": 568,
+    "ratingsCount": 572,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31837,8 +32407,8 @@
     "name": "Devil May Cry 3: Dante's Awakening Special Edition",
     "released": "2006-01-24",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.39,
-    "ratingsCount": 387,
+    "ratingValue": -4.4,
+    "ratingsCount": 388,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -31915,8 +32485,8 @@
     "name": "Devil May Cry 2",
     "released": "2003-01-25",
     "ratingDisplay": "skip",
-    "ratingValue": -2.49,
-    "ratingsCount": 244,
+    "ratingValue": -2.48,
+    "ratingsCount": 245,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -32038,7 +32608,7 @@
     "released": "2019-12-05",
     "ratingDisplay": "recommended",
     "ratingValue": -3.59,
-    "ratingsCount": 210,
+    "ratingsCount": 213,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -32202,7 +32772,7 @@
     "released": "2019-09-13",
     "ratingDisplay": "meh",
     "ratingValue": -2.84,
-    "ratingsCount": 30,
+    "ratingsCount": 31,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -32604,7 +33174,7 @@
     "released": "2019-05-02",
     "ratingDisplay": "recommended",
     "ratingValue": -3.44,
-    "ratingsCount": 68,
+    "ratingsCount": 71,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -32951,7 +33521,7 @@
     "released": "2013-05-14",
     "ratingDisplay": "recommended",
     "ratingValue": -3.81,
-    "ratingsCount": 797,
+    "ratingsCount": 801,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33032,7 +33602,7 @@
     "released": "2018-10-30",
     "ratingDisplay": "recommended",
     "ratingValue": -3.54,
-    "ratingsCount": 351,
+    "ratingsCount": 353,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33118,7 +33688,7 @@
     "released": "2017-04-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.92,
-    "ratingsCount": 613,
+    "ratingsCount": 617,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33196,7 +33766,7 @@
     "released": "2019-09-09",
     "ratingDisplay": "recommended",
     "ratingValue": -4.05,
-    "ratingsCount": 528,
+    "ratingsCount": 533,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33348,8 +33918,8 @@
     "name": "Blacksad: Under the Skin",
     "released": "2019-11-05",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.79,
-    "ratingsCount": 126,
+    "ratingValue": -3.8,
+    "ratingsCount": 129,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33512,8 +34082,8 @@
     "name": "Battlestar Galactica Deadlock",
     "released": "2017-08-30",
     "ratingDisplay": "skip",
-    "ratingValue": -2.36,
-    "ratingsCount": 38,
+    "ratingValue": -2.33,
+    "ratingsCount": 39,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33722,9 +34292,9 @@
     "slug": "assassins-creed-rebel-collection",
     "name": "Assassin's Creed Rebel Collection",
     "released": "2019-12-06",
-    "ratingDisplay": null,
+    "ratingDisplay": "recommended",
     "ratingValue": 0,
-    "ratingsCount": 4,
+    "ratingsCount": 5,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33747,6 +34317,30 @@
       {
         "id": -1,
         "url": "https://media.rawg.io/media/games/9ea/9eaa3aed74fef783cb07beaa1054cf59.jpg"
+      },
+      {
+        "id": 4021386,
+        "url": "https://media.rawg.io/media/screenshots/05e/05e7752954c8beed36f309609841fc66.jpg"
+      },
+      {
+        "id": 4021387,
+        "url": "https://media.rawg.io/media/screenshots/540/5400e6c4b6849496b28a1cfc424ba082.jpg"
+      },
+      {
+        "id": 4021388,
+        "url": "https://media.rawg.io/media/screenshots/fd1/fd1cb2b6b8db07825a280ec11e501989.jpg"
+      },
+      {
+        "id": 4021389,
+        "url": "https://media.rawg.io/media/screenshots/bed/bed2412020651d2687e9fb82cacc1d47.jpg"
+      },
+      {
+        "id": 4021390,
+        "url": "https://media.rawg.io/media/screenshots/fe4/fe49aeb2e96b88440e177fd6c42e8407.jpg"
+      },
+      {
+        "id": 4021391,
+        "url": "https://media.rawg.io/media/screenshots/1fa/1faf3b6f2ad8bbe0d682c764ba037678.jpg"
       }
     ]
   },
@@ -33815,7 +34409,7 @@
     "released": "2011-10-06",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 0,
+    "ratingsCount": 1,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -33969,7 +34563,7 @@
     "released": "2016-12-19",
     "ratingDisplay": "recommended",
     "ratingValue": -3.65,
-    "ratingsCount": 19,
+    "ratingsCount": 20,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -34339,7 +34933,7 @@
     "released": "2017-10-05",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.32,
-    "ratingsCount": 492,
+    "ratingsCount": 494,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -34504,7 +35098,7 @@
     "released": "2012-10-02",
     "ratingDisplay": "recommended",
     "ratingValue": -3.42,
-    "ratingsCount": 1206,
+    "ratingsCount": 1209,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -34590,7 +35184,7 @@
     "released": "2009-03-03",
     "ratingDisplay": "recommended",
     "ratingValue": -3.81,
-    "ratingsCount": 1539,
+    "ratingsCount": 1549,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -35154,7 +35748,7 @@
     "released": "2011-04-21",
     "ratingDisplay": "recommended",
     "ratingValue": -3.14,
-    "ratingsCount": 220,
+    "ratingsCount": 221,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -35602,7 +36196,7 @@
     "released": "2015-05-18",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.65,
-    "ratingsCount": 6481,
+    "ratingsCount": 6530,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -35814,7 +36408,7 @@
     "released": "2019-09-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.16,
-    "ratingsCount": 462,
+    "ratingsCount": 463,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -35954,7 +36548,7 @@
     "released": "2016-04-27",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.42,
-    "ratingsCount": 1635,
+    "ratingsCount": 1640,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36030,7 +36624,7 @@
     "released": "2019-06-24",
     "ratingDisplay": "meh",
     "ratingValue": -3.35,
-    "ratingsCount": 237,
+    "ratingsCount": 238,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36102,7 +36696,7 @@
     "name": "Spyro Reignited Trilogy",
     "released": "2018-11-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.14,
+    "ratingValue": -4.13,
     "ratingsCount": 518,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -36180,7 +36774,7 @@
     "released": "2019-08-30",
     "ratingDisplay": "recommended",
     "ratingValue": -4.25,
-    "ratingsCount": 270,
+    "ratingsCount": 271,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36245,8 +36839,8 @@
     "name": "SUPERHOT",
     "released": "2016-02-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.2,
-    "ratingsCount": 1476,
+    "ratingValue": -4.19,
+    "ratingsCount": 1483,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36347,7 +36941,7 @@
     "released": "2015-04-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.6,
-    "ratingsCount": 300,
+    "ratingsCount": 301,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36582,7 +37176,7 @@
     "released": "2018-12-03",
     "ratingDisplay": "recommended",
     "ratingValue": -3.74,
-    "ratingsCount": 460,
+    "ratingsCount": 459,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -36667,8 +37261,8 @@
     "name": "Zombie Driver",
     "released": "2009-12-04",
     "ratingDisplay": "meh",
-    "ratingValue": -2.93,
-    "ratingsCount": 27,
+    "ratingValue": -2.86,
+    "ratingsCount": 28,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -37081,7 +37675,7 @@
     "released": "2012-09-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.83,
-    "ratingsCount": 1047,
+    "ratingsCount": 1049,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -37336,7 +37930,7 @@
     "released": "2018-02-23",
     "ratingDisplay": "recommended",
     "ratingValue": -3.29,
-    "ratingsCount": 91,
+    "ratingsCount": 92,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -37524,8 +38118,8 @@
     "name": "Risk of Rain 2",
     "released": "2020-08-11",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.13,
-    "ratingsCount": 633,
+    "ratingValue": -4.14,
+    "ratingsCount": 639,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -37759,8 +38353,8 @@
     "name": "Red Faction Guerrilla Re-Mars-tered",
     "released": "2018-07-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.48,
-    "ratingsCount": 277,
+    "ratingValue": -3.49,
+    "ratingsCount": 279,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -38058,7 +38652,7 @@
     "released": "2017-10-16",
     "ratingDisplay": "meh",
     "ratingValue": -2.87,
-    "ratingsCount": 54,
+    "ratingsCount": 55,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -38431,7 +39025,7 @@
     "released": "2004-08-03",
     "ratingDisplay": "recommended",
     "ratingValue": -3.91,
-    "ratingsCount": 593,
+    "ratingsCount": 597,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -38522,7 +39116,7 @@
     "released": "1994-09-30",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 689,
+    "ratingsCount": 695,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -38618,7 +39212,7 @@
     "released": "1993-12-10",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.39,
-    "ratingsCount": 771,
+    "ratingsCount": 780,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -38929,7 +39523,7 @@
     "released": "2019-06-18",
     "ratingDisplay": "recommended",
     "ratingValue": -4.01,
-    "ratingsCount": 434,
+    "ratingsCount": 436,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39204,8 +39798,8 @@
     "name": "Marvel Ultimate Alliance 3: The Black Order",
     "released": "2019-07-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.7,
-    "ratingsCount": 52,
+    "ratingValue": -3.71,
+    "ratingsCount": 53,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39259,7 +39853,7 @@
     "released": "2019-06-21",
     "ratingDisplay": "recommended",
     "ratingValue": -4.02,
-    "ratingsCount": 324,
+    "ratingsCount": 326,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39332,7 +39926,7 @@
     "released": "2019-06-28",
     "ratingDisplay": "recommended",
     "ratingValue": -4.22,
-    "ratingsCount": 292,
+    "ratingsCount": 293,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39397,8 +39991,8 @@
     "name": "Cadence of Hyrule",
     "released": "2019-06-13",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.11,
-    "ratingsCount": 130,
+    "ratingValue": -4.1,
+    "ratingsCount": 131,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39469,7 +40063,7 @@
     "released": "2005-01-11",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 1718,
+    "ratingsCount": 1731,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39631,7 +40225,7 @@
     "released": "2019-06-19",
     "ratingDisplay": "recommended",
     "ratingValue": -3.88,
-    "ratingsCount": 719,
+    "ratingsCount": 721,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39818,8 +40412,8 @@
     "name": "Devil May Cry",
     "released": "2001-08-23",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.07,
-    "ratingsCount": 366,
+    "ratingValue": -4.06,
+    "ratingsCount": 369,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -39985,7 +40579,7 @@
     "released": "1996-03-22",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.19,
-    "ratingsCount": 765,
+    "ratingsCount": 767,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -40060,8 +40654,8 @@
     "name": "Contra Anniversary Collection",
     "released": "2019-06-10",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.29,
-    "ratingsCount": 42,
+    "ratingValue": -4.21,
+    "ratingsCount": 43,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -41151,8 +41745,8 @@
     "name": "Akane",
     "released": "2018-09-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.9,
-    "ratingsCount": 28,
+    "ratingValue": -4,
+    "ratingsCount": 30,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -41527,8 +42121,8 @@
     "name": "Team Sonic Racing",
     "released": "2019-05-21",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.29,
-    "ratingsCount": 109,
+    "ratingValue": -3.27,
+    "ratingsCount": 110,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -41695,7 +42289,7 @@
     "released": "2019-05-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.53,
-    "ratingsCount": 56,
+    "ratingsCount": 57,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -41775,8 +42369,8 @@
     "name": "Resident Evil 0 / Biohazard 0 HD REMASTER",
     "released": "2016-01-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.82,
-    "ratingsCount": 393,
+    "ratingValue": -3.83,
+    "ratingsCount": 395,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -41949,8 +42543,8 @@
     "name": "Immortal Redneck",
     "released": "2017-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.54,
-    "ratingsCount": 92,
+    "ratingValue": -3.55,
+    "ratingsCount": 93,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -42105,8 +42699,8 @@
     "name": "EVERSPACE",
     "released": "2017-05-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.35,
-    "ratingsCount": 218,
+    "ratingValue": -3.34,
+    "ratingsCount": 219,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -42294,8 +42888,8 @@
     "name": "Batman: The Telltale Series",
     "released": "2016-08-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.74,
-    "ratingsCount": 398,
+    "ratingValue": -3.75,
+    "ratingsCount": 400,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -43302,7 +43896,7 @@
     "released": "2019-05-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.29,
-    "ratingsCount": 20,
+    "ratingsCount": 21,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -43490,9 +44084,9 @@
     "slug": "thief-simulator",
     "name": "Thief Simulator",
     "released": "2018-11-08",
-    "ratingDisplay": "recommended",
-    "ratingValue": -3.24,
-    "ratingsCount": 89,
+    "ratingDisplay": "meh",
+    "ratingValue": -3.23,
+    "ratingsCount": 90,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -43686,7 +44280,7 @@
     "released": "2019-02-13",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.26,
-    "ratingsCount": 264,
+    "ratingsCount": 265,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -43822,9 +44416,9 @@
     "slug": "super-blood-hockey",
     "name": "Super Blood Hockey",
     "released": "2017-08-17",
-    "ratingDisplay": "skip",
-    "ratingValue": -2.44,
-    "ratingsCount": 9,
+    "ratingDisplay": "recommended",
+    "ratingValue": -2.6,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -44073,7 +44667,7 @@
     "name": "Shakedown: Hawaii",
     "released": "2019-05-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.65,
+    "ratingValue": -3.67,
     "ratingsCount": 29,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -44559,8 +45153,8 @@
     "name": "Redout: Lightspeed Edition",
     "released": "2016-09-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.57,
-    "ratingsCount": 82,
+    "ratingValue": -3.58,
+    "ratingsCount": 83,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -45456,7 +46050,7 @@
     "released": "2018-03-13",
     "ratingDisplay": null,
     "ratingValue": 0,
-    "ratingsCount": 2,
+    "ratingsCount": 3,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -45618,7 +46212,7 @@
     "released": "2018-04-19",
     "ratingDisplay": "recommended",
     "ratingValue": -3.52,
-    "ratingsCount": 214,
+    "ratingsCount": 215,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -45806,8 +46400,8 @@
     "name": "Duck Game",
     "released": "2015-06-04",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.2,
-    "ratingsCount": 303,
+    "ratingValue": -4.19,
+    "ratingsCount": 306,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -45883,7 +46477,7 @@
     "released": "2017-08-17",
     "ratingDisplay": "recommended",
     "ratingValue": -3.78,
-    "ratingsCount": 233,
+    "ratingsCount": 234,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -46440,7 +47034,7 @@
     "released": "2014-05-28",
     "ratingDisplay": "recommended",
     "ratingValue": -3.46,
-    "ratingsCount": 208,
+    "ratingsCount": 209,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -47291,7 +47885,7 @@
     "released": "2015-07-30",
     "ratingDisplay": "recommended",
     "ratingValue": -3.51,
-    "ratingsCount": 73,
+    "ratingsCount": 74,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -47572,8 +48166,8 @@
     "name": "Vaporum",
     "released": "2017-09-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.44,
-    "ratingsCount": 33,
+    "ratingValue": -3.46,
+    "ratingsCount": 34,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -48868,9 +49462,9 @@
     "slug": "pressure-overdrive",
     "name": "Pressure Overdrive",
     "released": "2017-07-25",
-    "ratingDisplay": "recommended",
-    "ratingValue": -2.67,
-    "ratingsCount": 9,
+    "ratingDisplay": "skip",
+    "ratingValue": -2.5,
+    "ratingsCount": 10,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -49282,7 +49876,7 @@
     "released": "2019-04-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.98,
-    "ratingsCount": 1073,
+    "ratingsCount": 1078,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -49521,7 +50115,7 @@
     "released": "2019-04-17",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.41,
-    "ratingsCount": 1057,
+    "ratingsCount": 1066,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -49675,7 +50269,7 @@
     "released": "2018-01-23",
     "ratingDisplay": "recommended",
     "ratingValue": -3.75,
-    "ratingsCount": 373,
+    "ratingsCount": 374,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -49913,7 +50507,7 @@
     "released": "2017-08-07",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.24,
-    "ratingsCount": 2181,
+    "ratingsCount": 2194,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -49999,7 +50593,7 @@
     "released": "2019-04-18",
     "ratingDisplay": "meh",
     "ratingValue": -3.11,
-    "ratingsCount": 18,
+    "ratingsCount": 19,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -50125,8 +50719,8 @@
     "name": "Final Fantasy XII: The Zodiac Age",
     "released": "2017-07-11",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.24,
-    "ratingsCount": 209,
+    "ratingValue": -4.23,
+    "ratingsCount": 212,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -50202,7 +50796,7 @@
     "released": "2013-12-26",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.34,
-    "ratingsCount": 276,
+    "ratingsCount": 278,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -50368,7 +50962,7 @@
     "released": "2013-04-23",
     "ratingDisplay": "recommended",
     "ratingValue": -3.92,
-    "ratingsCount": 638,
+    "ratingsCount": 643,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -50454,7 +51048,7 @@
     "released": "2012-01-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.84,
-    "ratingsCount": 702,
+    "ratingsCount": 700,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -50995,7 +51589,7 @@
     "released": "2017-09-29",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.37,
-    "ratingsCount": 1926,
+    "ratingsCount": 1936,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -51244,7 +51838,7 @@
     "released": "2017-03-31",
     "ratingDisplay": "meh",
     "ratingValue": -3.04,
-    "ratingsCount": 244,
+    "ratingsCount": 245,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -51344,8 +51938,8 @@
     "name": "Unravel Two",
     "released": "2018-06-09",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.95,
-    "ratingsCount": 581,
+    "ratingValue": -3.96,
+    "ratingsCount": 586,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -51920,9 +52514,9 @@
     "slug": "yet-another-zombie-defense-hd",
     "name": "Yet Another Zombie Defense HD",
     "released": "2017-08-25",
-    "ratingDisplay": "meh",
-    "ratingValue": -2.59,
-    "ratingsCount": 17,
+    "ratingDisplay": "skip",
+    "ratingValue": -2.5,
+    "ratingsCount": 18,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -52175,8 +52769,8 @@
     "name": "Unworthy",
     "released": "2018-05-28",
     "ratingDisplay": "meh",
-    "ratingValue": -3.31,
-    "ratingsCount": 16,
+    "ratingValue": -3.29,
+    "ratingsCount": 17,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -53399,7 +53993,7 @@
     "released": "2015-12-04",
     "ratingDisplay": "recommended",
     "ratingValue": -4.02,
-    "ratingsCount": 292,
+    "ratingsCount": 293,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -53805,7 +54399,7 @@
     "released": "2018-07-24",
     "ratingDisplay": "recommended",
     "ratingValue": -4.1,
-    "ratingsCount": 49,
+    "ratingsCount": 50,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -54819,7 +55413,7 @@
     "name": "Fractured Minds",
     "released": "2018-11-14",
     "ratingDisplay": "meh",
-    "ratingValue": -3.02,
+    "ratingValue": -3.05,
     "ratingsCount": 59,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -54985,8 +55579,8 @@
     "name": "Final Fantasy VII (1997)",
     "released": "1997-01-31",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.4,
-    "ratingsCount": 976,
+    "ratingValue": -4.39,
+    "ratingsCount": 978,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -55082,7 +55676,7 @@
     "released": "2019-02-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.49,
-    "ratingsCount": 171,
+    "ratingsCount": 172,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -56417,7 +57011,7 @@
     "released": "2015-11-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.41,
-    "ratingsCount": 153,
+    "ratingsCount": 152,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -56498,7 +57092,7 @@
     "released": "2017-10-27",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.44,
-    "ratingsCount": 1812,
+    "ratingsCount": 1823,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -56564,7 +57158,7 @@
     "released": "2018-12-07",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.37,
-    "ratingsCount": 1049,
+    "ratingsCount": 1050,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -56625,7 +57219,7 @@
     "released": "2017-03-03",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.53,
-    "ratingsCount": 2910,
+    "ratingsCount": 2930,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -56695,8 +57289,8 @@
     "name": "Mario Kart 8 Deluxe",
     "released": "2017-04-27",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.44,
-    "ratingsCount": 870,
+    "ratingValue": -4.43,
+    "ratingsCount": 872,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -57305,8 +57899,8 @@
     "name": "Horizon Chase Turbo",
     "released": "2018-05-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.43,
-    "ratingsCount": 385,
+    "ratingValue": -3.42,
+    "ratingsCount": 387,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -57596,7 +58190,7 @@
     "released": "2016-10-03",
     "ratingDisplay": "recommended",
     "ratingValue": -3.59,
-    "ratingsCount": 216,
+    "ratingsCount": 217,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -57692,7 +58286,7 @@
     "released": "2014-11-13",
     "ratingDisplay": "recommended",
     "ratingValue": -4.09,
-    "ratingsCount": 181,
+    "ratingsCount": 183,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -57753,7 +58347,7 @@
     "released": "2018-12-13",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.2,
-    "ratingsCount": 1009,
+    "ratingsCount": 1010,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -57859,7 +58453,7 @@
     "released": "2013-08-29",
     "ratingDisplay": "recommended",
     "ratingValue": -4.16,
-    "ratingsCount": 1513,
+    "ratingsCount": 1517,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -58138,7 +58732,7 @@
     "released": "2012-04-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.35,
-    "ratingsCount": 2370,
+    "ratingsCount": 2380,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -58410,8 +59004,8 @@
     "name": "Dark Souls: Remastered",
     "released": "2018-05-23",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.47,
-    "ratingsCount": 1357,
+    "ratingValue": -4.48,
+    "ratingsCount": 1365,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -58636,8 +59230,8 @@
     "name": "Rain World",
     "released": "2017-03-27",
     "ratingDisplay": "exceptional",
-    "ratingValue": -3.95,
-    "ratingsCount": 109,
+    "ratingValue": -3.94,
+    "ratingsCount": 111,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -58723,7 +59317,7 @@
     "released": "2018-08-06",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 751,
+    "ratingsCount": 754,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -58815,7 +59409,7 @@
     "released": "2009-05-10",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.42,
-    "ratingsCount": 2823,
+    "ratingsCount": 2846,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -59172,7 +59766,7 @@
     "released": "2019-01-11",
     "ratingDisplay": "recommended",
     "ratingValue": -3.81,
-    "ratingsCount": 146,
+    "ratingsCount": 147,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -59221,7 +59815,7 @@
     "released": "2014-05-20",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.18,
-    "ratingsCount": 1439,
+    "ratingsCount": 1440,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -59724,8 +60318,8 @@
     "name": "Valkyria Chronicles",
     "released": "2008-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.07,
-    "ratingsCount": 403,
+    "ratingValue": -4.06,
+    "ratingsCount": 405,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -60346,7 +60940,7 @@
     "released": "2017-08-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.46,
-    "ratingsCount": 67,
+    "ratingsCount": 68,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -60617,7 +61211,7 @@
     "released": "2013-02-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.27,
-    "ratingsCount": 252,
+    "ratingsCount": 253,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -60718,7 +61312,7 @@
     "released": "2011-11-11",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.42,
-    "ratingsCount": 4581,
+    "ratingsCount": 4606,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -60798,7 +61392,7 @@
     "name": "The Gardens Between",
     "released": "2018-09-20",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.85,
+    "ratingValue": -3.84,
     "ratingsCount": 225,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
@@ -60895,7 +61489,7 @@
     "released": "2012-09-19",
     "ratingDisplay": "recommended",
     "ratingValue": -4.22,
-    "ratingsCount": 336,
+    "ratingsCount": 338,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -61051,7 +61645,7 @@
     "released": "2018-05-14",
     "ratingDisplay": "recommended",
     "ratingValue": -3.91,
-    "ratingsCount": 91,
+    "ratingsCount": 90,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -61449,8 +62043,8 @@
     "name": "Momodora: Reverie Under the Moonlight",
     "released": "2016-03-03",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.85,
-    "ratingsCount": 182,
+    "ratingValue": -3.86,
+    "ratingsCount": 183,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -61537,8 +62131,8 @@
     "name": "NEKOPARA Vol. 1",
     "released": "2014-12-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.51,
-    "ratingsCount": 115,
+    "ratingValue": -3.5,
+    "ratingsCount": 114,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -61683,8 +62277,8 @@
     "name": "Octodad: Dadliest Catch",
     "released": "2014-01-29",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.73,
-    "ratingsCount": 349,
+    "ratingValue": -3.72,
+    "ratingsCount": 351,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -61900,8 +62494,8 @@
     "name": "Risk of Rain",
     "released": "2013-11-07",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.92,
-    "ratingsCount": 483,
+    "ratingValue": -3.91,
+    "ratingsCount": 484,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -62226,7 +62820,7 @@
     "released": "2012-08-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.63,
-    "ratingsCount": 619,
+    "ratingsCount": 620,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -62404,8 +62998,8 @@
     "name": "Dynasty Warriors 8: Xtreme Legends",
     "released": "2013-11-28",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.43,
-    "ratingsCount": 28,
+    "ratingValue": -3.45,
+    "ratingsCount": 29,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -62619,7 +63213,7 @@
     "released": "2014-03-04",
     "ratingDisplay": "recommended",
     "ratingValue": -4.22,
-    "ratingsCount": 1620,
+    "ratingsCount": 1623,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -62951,8 +63545,8 @@
     "name": "ABZU",
     "released": "2016-08-02",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.91,
-    "ratingsCount": 1064,
+    "ratingValue": -3.92,
+    "ratingsCount": 1068,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -63144,7 +63738,7 @@
     "released": "2011-07-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 1634,
+    "ratingsCount": 1637,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -63333,7 +63927,7 @@
     "released": "2016-10-20",
     "ratingDisplay": "recommended",
     "ratingValue": -4.17,
-    "ratingsCount": 1335,
+    "ratingsCount": 1342,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -63905,8 +64499,8 @@
     "name": "Nihilumbra",
     "released": "2012-06-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.43,
-    "ratingsCount": 107,
+    "ratingValue": -3.4,
+    "ratingsCount": 108,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -64403,7 +64997,7 @@
     "released": "2010-01-09",
     "ratingDisplay": "recommended",
     "ratingValue": -3.76,
-    "ratingsCount": 499,
+    "ratingsCount": 500,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -64780,8 +65374,8 @@
     "name": "UNO",
     "released": "2016-12-08",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.74,
-    "ratingsCount": 258,
+    "ratingValue": -3.73,
+    "ratingsCount": 260,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -65164,7 +65758,7 @@
     "released": "2016-10-10",
     "ratingDisplay": "recommended",
     "ratingValue": -4.09,
-    "ratingsCount": 288,
+    "ratingsCount": 289,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -65250,7 +65844,7 @@
     "released": "2018-08-13",
     "ratingDisplay": "recommended",
     "ratingValue": -4.18,
-    "ratingsCount": 431,
+    "ratingsCount": 432,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -65399,7 +65993,7 @@
     "released": "2010-10-20",
     "ratingDisplay": "recommended",
     "ratingValue": -3.97,
-    "ratingsCount": 1719,
+    "ratingsCount": 1723,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -65872,7 +66466,7 @@
     "released": "2018-05-29",
     "ratingDisplay": "recommended",
     "ratingValue": -3.93,
-    "ratingsCount": 44,
+    "ratingsCount": 45,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -65950,7 +66544,7 @@
     "released": "2017-09-21",
     "ratingDisplay": "recommended",
     "ratingValue": -4.06,
-    "ratingsCount": 416,
+    "ratingsCount": 418,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66048,7 +66642,7 @@
     "released": "2015-12-10",
     "ratingDisplay": "recommended",
     "ratingValue": -3.95,
-    "ratingsCount": 311,
+    "ratingsCount": 312,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66156,7 +66750,7 @@
     "released": "2013-08-08",
     "ratingDisplay": "recommended",
     "ratingValue": -3.82,
-    "ratingsCount": 600,
+    "ratingsCount": 602,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66262,7 +66856,7 @@
     "released": "2016-02-25",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 2275,
+    "ratingsCount": 2285,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66368,7 +66962,7 @@
     "released": "2017-08-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.86,
-    "ratingsCount": 845,
+    "ratingsCount": 847,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66459,7 +67053,7 @@
     "released": "2017-11-07",
     "ratingDisplay": "meh",
     "ratingValue": -2.79,
-    "ratingsCount": 314,
+    "ratingsCount": 315,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -66953,7 +67547,7 @@
     "released": "2015-02-24",
     "ratingDisplay": "recommended",
     "ratingValue": -3.68,
-    "ratingsCount": 724,
+    "ratingsCount": 727,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -67208,7 +67802,7 @@
     "released": "2015-10-05",
     "ratingDisplay": "recommended",
     "ratingValue": -3.72,
-    "ratingsCount": 566,
+    "ratingsCount": 570,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -67519,7 +68113,7 @@
     "released": "2013-08-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.51,
-    "ratingsCount": 2128,
+    "ratingsCount": 2143,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -67836,7 +68430,7 @@
     "released": "2016-08-01",
     "ratingDisplay": "recommended",
     "ratingValue": -4.07,
-    "ratingsCount": 1307,
+    "ratingsCount": 1312,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -68254,7 +68848,7 @@
     "released": "2017-05-17",
     "ratingDisplay": "recommended",
     "ratingValue": -3.6,
-    "ratingsCount": 240,
+    "ratingsCount": 239,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -68732,8 +69326,8 @@
     "name": "Night in the Woods",
     "released": "2017-02-21",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.23,
-    "ratingsCount": 643,
+    "ratingValue": -4.24,
+    "ratingsCount": 646,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -69203,8 +69797,8 @@
     "name": "Naruto Shippuden Ultimate Ninja Storm Trilogy",
     "released": "2017-08-25",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.73,
-    "ratingsCount": 22,
+    "ratingValue": -3.74,
+    "ratingsCount": 23,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -69685,7 +70279,7 @@
     "released": "2015-10-13",
     "ratingDisplay": "recommended",
     "ratingValue": -3.38,
-    "ratingsCount": 300,
+    "ratingsCount": 302,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -70236,8 +70830,8 @@
     "name": "The LEGO NINJAGO Movie Video Game",
     "released": "2017-09-22",
     "ratingDisplay": "meh",
-    "ratingValue": -2.94,
-    "ratingsCount": 272,
+    "ratingValue": -2.92,
+    "ratingsCount": 273,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -70314,8 +70908,8 @@
     "name": "L.A. Noire",
     "released": "2011-05-17",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.17,
-    "ratingsCount": 1990,
+    "ratingValue": -4.16,
+    "ratingsCount": 1995,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -70396,7 +70990,7 @@
     "released": "2015-10-08",
     "ratingDisplay": "recommended",
     "ratingValue": -4.2,
-    "ratingsCount": 394,
+    "ratingsCount": 395,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -70491,8 +71085,8 @@
     "name": "KAMIKO",
     "released": "2017-04-27",
     "ratingDisplay": "meh",
-    "ratingValue": -3.38,
-    "ratingsCount": 34,
+    "ratingValue": -3.39,
+    "ratingsCount": 33,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -70886,7 +71480,7 @@
     "released": "2016-06-28",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.39,
-    "ratingsCount": 2448,
+    "ratingsCount": 2457,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -71525,7 +72119,7 @@
     "released": "2013-04-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.85,
-    "ratingsCount": 1088,
+    "ratingsCount": 1092,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -71611,7 +72205,7 @@
     "released": "2015-03-10",
     "ratingDisplay": "recommended",
     "ratingValue": -4.12,
-    "ratingsCount": 1457,
+    "ratingsCount": 1464,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -71808,7 +72402,7 @@
     "released": "2010-03-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.95,
-    "ratingsCount": 305,
+    "ratingsCount": 307,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -72823,7 +73417,7 @@
     "released": "2018-08-27",
     "ratingDisplay": "recommended",
     "ratingValue": -3.96,
-    "ratingsCount": 483,
+    "ratingsCount": 485,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -73286,7 +73880,7 @@
     "released": "2016-07-04",
     "ratingDisplay": "recommended",
     "ratingValue": -3.92,
-    "ratingsCount": 689,
+    "ratingsCount": 692,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -73367,7 +73961,7 @@
     "released": "2016-02-08",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.3,
-    "ratingsCount": 2373,
+    "ratingsCount": 2383,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -73530,8 +74124,8 @@
     "name": "Brawlhalla",
     "released": "2014-04-30",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.23,
-    "ratingsCount": 1057,
+    "ratingValue": -3.22,
+    "ratingsCount": 1066,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -73815,8 +74409,8 @@
     "name": "The Binding of Isaac: Afterbirth+",
     "released": "2017-03-17",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.42,
-    "ratingsCount": 260,
+    "ratingValue": -4.43,
+    "ratingsCount": 261,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -73892,7 +74486,7 @@
     "released": "2010-07-21",
     "ratingDisplay": "recommended",
     "ratingValue": -4.15,
-    "ratingsCount": 3234,
+    "ratingsCount": 3246,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -74060,8 +74654,8 @@
     "name": "ARK: Survival Evolved",
     "released": "2015-06-02",
     "ratingDisplay": "meh",
-    "ratingValue": -3.02,
-    "ratingsCount": 614,
+    "ratingValue": -3.03,
+    "ratingsCount": 617,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -74255,7 +74849,7 @@
     "released": "2009-06-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.31,
-    "ratingsCount": 1115,
+    "ratingsCount": 1116,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -74335,8 +74929,8 @@
     "name": "Bayonetta 2",
     "released": "2014-09-20",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.39,
-    "ratingsCount": 318,
+    "ratingValue": -4.37,
+    "ratingsCount": 322,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -74471,7 +75065,7 @@
     "released": "2014-01-28",
     "ratingDisplay": "recommended",
     "ratingValue": -3.65,
-    "ratingsCount": 683,
+    "ratingsCount": 684,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -74947,7 +75541,7 @@
     "released": "2017-06-30",
     "ratingDisplay": "recommended",
     "ratingValue": -4.13,
-    "ratingsCount": 604,
+    "ratingsCount": 607,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75028,7 +75622,7 @@
     "released": "2018-08-07",
     "ratingDisplay": "recommended",
     "ratingValue": -4.24,
-    "ratingsCount": 1644,
+    "ratingsCount": 1648,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75193,8 +75787,8 @@
     "name": "Diablo III: Eternal Collection",
     "released": "2017-06-27",
     "ratingDisplay": "recommended",
-    "ratingValue": -4.18,
-    "ratingsCount": 318,
+    "ratingValue": -4.17,
+    "ratingsCount": 322,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75264,8 +75858,8 @@
     "name": "Donkey Kong Country: Tropical Freeze",
     "released": "2014-02-13",
     "ratingDisplay": "exceptional",
-    "ratingValue": -4.32,
-    "ratingsCount": 209,
+    "ratingValue": -4.33,
+    "ratingsCount": 212,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75326,7 +75920,7 @@
     "released": "2016-05-13",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.38,
-    "ratingsCount": 3449,
+    "ratingsCount": 3467,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75407,7 +76001,7 @@
     "released": "2018-01-25",
     "ratingDisplay": "recommended",
     "ratingValue": -4.1,
-    "ratingsCount": 434,
+    "ratingsCount": 435,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75714,7 +76308,7 @@
     "released": "2017-08-28",
     "ratingDisplay": "meh",
     "ratingValue": -2.83,
-    "ratingsCount": 156,
+    "ratingsCount": 157,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75820,7 +76414,7 @@
     "released": "2017-02-23",
     "ratingDisplay": "exceptional",
     "ratingValue": -4.4,
-    "ratingsCount": 2470,
+    "ratingsCount": 2489,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -75916,7 +76510,7 @@
     "released": "2016-07-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.83,
-    "ratingsCount": 998,
+    "ratingsCount": 1005,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -76373,8 +76967,8 @@
     "name": "LEGO The Incredibles",
     "released": "2018-06-15",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.42,
-    "ratingsCount": 64,
+    "ratingValue": -3.45,
+    "ratingsCount": 65,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -76457,7 +77051,7 @@
     "released": "2017-03-07",
     "ratingDisplay": "meh",
     "ratingValue": -3.15,
-    "ratingsCount": 216,
+    "ratingsCount": 218,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -76530,7 +77124,7 @@
     "released": "2017-08-29",
     "ratingDisplay": "recommended",
     "ratingValue": -4.12,
-    "ratingsCount": 372,
+    "ratingsCount": 373,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77012,7 +77606,7 @@
     "released": "2013-09-03",
     "ratingDisplay": "recommended",
     "ratingValue": -3.73,
-    "ratingsCount": 1738,
+    "ratingsCount": 1750,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77102,8 +77696,8 @@
     "name": "Outlast 2",
     "released": "2017-04-24",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.66,
-    "ratingsCount": 668,
+    "ratingValue": -3.67,
+    "ratingsCount": 673,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77189,7 +77783,7 @@
     "released": "2018-11-15",
     "ratingDisplay": "recommended",
     "ratingValue": -3.78,
-    "ratingsCount": 330,
+    "ratingsCount": 331,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77496,8 +78090,8 @@
     "name": "Road Redemption",
     "released": "2014-07-01",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.54,
-    "ratingsCount": 156,
+    "ratingValue": -3.53,
+    "ratingsCount": 157,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77598,7 +78192,7 @@
     "released": "2015-07-07",
     "ratingDisplay": "recommended",
     "ratingValue": -3.94,
-    "ratingsCount": 2763,
+    "ratingsCount": 2775,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77694,7 +78288,7 @@
     "released": "2017-03-31",
     "ratingDisplay": "recommended",
     "ratingValue": -4.03,
-    "ratingsCount": 784,
+    "ratingsCount": 785,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77853,7 +78447,7 @@
     "released": "2018-10-05",
     "ratingDisplay": "recommended",
     "ratingValue": -3.81,
-    "ratingsCount": 239,
+    "ratingsCount": 238,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -77911,7 +78505,7 @@
     "released": "2014-11-14",
     "ratingDisplay": "recommended",
     "ratingValue": -4.07,
-    "ratingsCount": 1196,
+    "ratingsCount": 1200,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -78011,8 +78605,8 @@
     "name": "Typoman",
     "released": "2015-11-19",
     "ratingDisplay": "recommended",
-    "ratingValue": -3.7,
-    "ratingsCount": 25,
+    "ratingValue": -3.61,
+    "ratingsCount": 26,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -78113,7 +78707,7 @@
     "released": "2017-10-25",
     "ratingDisplay": "recommended",
     "ratingValue": -4.09,
-    "ratingsCount": 1671,
+    "ratingsCount": 1683,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -78194,7 +78788,7 @@
     "released": "2016-08-22",
     "ratingDisplay": "recommended",
     "ratingValue": -3.77,
-    "ratingsCount": 296,
+    "ratingsCount": 299,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
@@ -78285,7 +78879,7 @@
     "released": "2008-10-13",
     "ratingDisplay": "recommended",
     "ratingValue": -4.01,
-    "ratingsCount": 805,
+    "ratingsCount": 808,
     "dominantColor": "0f0f0f",
     "saturatedColor": "0f0f0f",
     "platforms": [
